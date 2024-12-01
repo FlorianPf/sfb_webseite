@@ -1,47 +1,80 @@
 <!DOCTYPE html>
 <html lang="de">
-  <head>
-    <title>
-      Schachfreunde Braunfels e.V.
-    </title>
-  </head>
-  <body style="background-color: blue;">
-    <h1 style="background-color:tomato;"> 
-      Das ist die &Uuml;berschrift eines Beitrages.
-    </h1>
-    <p style="color:red;">
-      In einem solchen Absatz (paragraph) steht der Inhalt des <br> Beitrages.
-    </p>
-    <hr>
-    <p>
-      <a href="https://schachfreunde-braunfels.de">Die fr&uuml;here Seite des Vereins.</a>
-      <img src="media/logo.png" alt="Unser Logo" width="100" height="50">
-    </p>
-    <p>
-      <b>bold</b>
-      <strong>strong</strong>
-      <i>italic</i>
-      <em>emphasized</em>
-      <mark>marked</mark>
-      <small>small</small>
-      <del>deleted</del>
-      <ins>inserted</ins>
-      <sub>subscript</sub>
-      <sup>superscript</sup>
-    </p>
-  </body>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+        <!-- <link rel="icon" type="image/x-icon" href="media/logo.png"> -->
+        <title>
+            Schachfreunde Braunfels e.V.
+        </title>
+    </head>
+    <body>
+        <div class="clearfix">
+            <div class="header">
+                <div class="headbox_left"><img src="media/logo.png" alt="Unser Logo" width="70" height="70"></div>
+                <div class="headbox_center"><h1>Schachfreunde Braunfels e.V.</h1></div>
+                <div class="headbox_right"><img src="media/wappen.png" alt="Wappen der Stadt Braunfels" width="70" height="70"></div>
+            </div>
+        </div>
+        <hr>
+        <div class="clearfix">
+            <div class="column sidemenu">
+                <ul>
+                    <li><a href="index.html">Aktuelles</a></li>
+                    <li><a href="kalender.html">Kalender</a></li>
+                    <li><a href="mannschaften.html">Mannschaften</a></li>
+                    <li><a href="dwz-liste.html">DWZ-Liste</a></li>
+                    <li><a href="vorstand.html">Vorstand</a></li>
+                    <li><a href="impressum.html">Impressum</a></li>
+                    <li><a href="ausprobieren.html">Ausprobieren</a></li>
+                </ul>
+            </div>
+            <div class="column content">
+                <h1>
+                    <b>Aktuelles aus dem Verein</b>
+                </h1>
+                <hr>
+                <h2>
+                    <b>Anmeldung f&uuml;r Braunfelser Stadtmeisterschaft 2025 gestartet</b>
+                </h2>
+                <p>
+                    Die Schachfreunde Braunfels laden herzlich zur Teilnahme an der offenen Braunfelser Stadtmeisterschaft ein. Im kommenden Fr&uuml;hjahr wird das siebenrundige Traditionsturnier im schweizer System zum 28. Mal ausgetragen. Der Preisfond winkt mit mindestens 500&euro;, mitmachen lohnt sich!<br><br>
+                    Termine: 07.02., 21.02., 07.03., 21.03., 25.04., 09.05. und 23.05.
+                </p>
+                <hr>
+                <h2>
+                    <b>Vereinsmeisterschaft: Ergebnisse der 9. Runde vom 22. November</b>
+                </h2>
+                <p>
+                    <table>
+                        <tr>
+                            <td>Diehl, Andreas</td>
+                            <td>-</td>
+                            <td>Ewin, Hans-Peter</td>
+                            <td></td>
+                            <td style="text-align:center">0 - 1</td>
+                        </tr>
+                        <tr>
+                            <td>Darsania, Badri</td>
+                            <td>-</td>
+                            <td>Stehning, Ralf</td>
+                            <td></td>
+                            <td style="text-align:center">&half; - &half;</td>
+                        </tr>
+                        <tr>
+                            <td>Stehning, Michel</td>
+                            <td>-</td>
+                            <td>K&uuml;hn, Thomas</td>
+                            <td></td>
+                            <td style="text-align:center">0 - 1</td>
+                        </tr>
+                    </table>
+                </p>
+            </div>
+        </div>
+        <div class="footer">
+            <a href="index.html">Nach oben</a>
+            <hr>
+            &copy;<script>document.write((new Date()).getFullYear());</script> Wladislav Geist, Florian Pfeiffer
+        </div>
+    </body>
 </html>
-
-<!-- 
-Notizen, weil ich seit zehn Jahren kein HTML mehr geschrieben habe:
-
-Header-Level: h1 (groß) bis h6 (klein). Oder über Attribut style="font-size:60px;"
-<br>  line break
-html ist nicht case sensitiv
-Attributwerte immer in Anführungszeichen
-Browser ignoriert überflüssige line breaks und spaces (außer in <pre>, preformatted text)
-<hr> horizontal line
-Style-Attribut für background color, farbe, family, size und alignment des Texts (in CSS - Cascading Style Sheets)
-
-Hier stehe ich gerade: https://www.w3schools.com/html/html_quotation_elements.asp
--->
