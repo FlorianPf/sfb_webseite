@@ -35,6 +35,10 @@ html, body{
     /* padding: 15px; */
 }
 
+h2 {
+    text-align: center;
+}
+
 .footer {
     /* background-color:rgb(10, 35, 187); */
     /* position: absolute;
@@ -46,12 +50,18 @@ html, body{
     /* color: white; */
 }
 
-.column {
+/* .column {
     float: left;
+} */
+
+.content {
+    float: right;
+    width: 77%;
 }
 
 .sidemenu {
-    width: 20%;
+    float: left;
+    width: 22%;
 }
 
 .sidemenu ul {
@@ -75,10 +85,6 @@ html, body{
     color: black;
 }
 
-.content {
-    width: 80%;
-}
-
 .headbox_left {
     float: left;
     width: 20%
@@ -92,4 +98,8 @@ html, body{
 .headbox_right {
     float: left;
     width: 20%
+}
+
+.imageflex {
+    display: flex;
 }
