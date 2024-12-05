@@ -24,9 +24,9 @@ html, body{
     height: 100%;
 } */
 
-/* table.ergebnis {
-    
-} */
+table.ergebnis td{
+    padding-right: 10px;
+}
 
 table.kalender {
     border: 1px solid;
@@ -56,6 +56,8 @@ table.kalender td, th {
 
 h2 {
     text-align: center;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 .footer {
@@ -133,4 +135,8 @@ h2 {
     display: blcok;
     margin-left: auto;
     margin-right: auto;
+}
+
+ol li {
+    margin-top: 5px;
 }

@@ -2,8 +2,11 @@
 
 ## To-Do-Liste:
 - Seiten mit Inhalt füllen:
-	Kalender, Mannschaften, DWZ-Liste, Vorstand, Impressum, Vereinsgeschichte
+	Mannschaften, DWZ-Liste, Vorstand, Impressum
 - Weitere Seiten hinzufügen:
-	Events, DFMM-LV, SFB Jugend, Links
-- Header aufpolieren:
-	Farbe richtig wählen und bei Wappen Hintergrund entfernen
+	Events, DFMM-LV, SFB Jugend, Links, Archiv (Mannschaften und Turniere)
+- Vereinsgeschichte zur Korrektur lesen
+- Tabelle für Ergebnisse mit neuen Erkenntnissen verbessern
+- Sponsoren auf jede Seite
+- Impressum fertig formatieren
+
