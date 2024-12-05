@@ -24,10 +24,29 @@ html, body{
     height: 100%;
 } */
 
-/* table, th, td {
-    border: 1px solid black;
+/* table.ergebnis {
+    
+} */
+
+table.kalender {
+    border: 1px solid;
     border-collapse: collapse;
-  } */
+}
+
+table.kalender td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 30px;
+    padding-left: 5px;
+    text-align: left;
+}
+
+/* table.kalender th {
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: left;
+    padding-left: 5px;
+} */
 
 .header {
     /* background-color:rgb(10, 35, 187); */
@@ -56,12 +75,13 @@ h2 {
 
 .content {
     float: right;
-    width: 77%;
+    width: 79%;
 }
 
 .sidemenu {
     float: left;
-    width: 22%;
+    width: 19%;
+    word-wrap: break-word;
 }
 
 .sidemenu ul {
