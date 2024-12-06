@@ -71,9 +71,16 @@ h2 {
     /* color: white; */
 }
 
-/* .column {
+.column {
     float: left;
-} */
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 
 .content {
     float: right;

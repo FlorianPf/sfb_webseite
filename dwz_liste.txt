@@ -1,0 +1,58 @@
+1.	 	 	Grüttner,Ralf	 	2041 -181	2002	
+2.	 	 	Eckhardt,Thorsten	 	2027 -126	2095	
+3.	 	 	Schlitter,Achim	 	1993 -125	2107	
+4.	 	 	Diehl,Andreas,Dr.	 	1976 -171	2102	
+5.	 	 	Baumhackel,Mario	 	1972 -124	2118	
+6.	 	 	Darsania,Badri	 	1905 -    1	-----	
+7.	 	 	Schultze,Jörg-Martin,Dr.	 	1902 -  46	1956	
+8.	 	 	Stehning,Toni	 	1880 -  40	1894	
+9.	 	 	Ploder,Udo	 	1868 -  93	1913	
+10.	 	 	Wüst,Klaus,Dr.	 	1867 -  99	1930	
+11.	 	 	Grass,Ernest	 	1864 -117	1989	
+12.	 	 	Hilgert,Felix	 	1862 -108	1921	
+13.	 	 	Stehning,Ralf	 	1835 -  55	1914	
+14.	 	 	Bolte,Christoph	 	1821 -  93	1969	
+15.	 	 	Kriesch,Achim	 	1797 -217	1898	
+16.	 	 	van der Riet,Ernst	 	1788 -  73	1964	
+17.	 	 	Becher,Joachim	 	1778 -  13	-----	
+18.	 	 	Leinweber,Matthias,Dr.	 	1775 -  67	2010	
+19.	 	 	Pfeiffer,Florian	 	1768 -  40	1875	
+20.	 	 	Schmidt,Andre	 	1756 -  99	-----	
+21.	 	 	Heiduk,Sebastian	 	1746 -  93	1873	
+22.	 	 	Watz,Dennis	 	1743 -  62	-----	
+23.	 	 	Pralle,Katharina	 	1741 -105	1927	
+24.	 	 	Swoboda,Sebastian	 	1717 -155	1955	
+25.	 	 	Post,Maximilian	 	1717 -  90	1940	
+26.	 	 	Stripling,Valentin	 	1701 -  55	1844	
+27.	 	 	Saltenberger,Leon	 	1675 -  10	-----	
+28.	 	 	Hennemann,Maik	 	1658 -  27	-----	
+29.	 	 	Stehning,Michel	 	1649 -  31	1730	
+30.	 	 	Ewin,Hans-Peter	 	1637 -286	1842	
+31.	 	 	Gasser,Horst,Dr.	 	1624 -111	1850	
+32.	 	 	Kohlmeyer,Klaus	 	1622 -175	1810	
+33.	 	 	Schneider,Udo	 	1607 -154	1874	
+34.	 	 	Förster,Rudi	 	1599 -170	1819	
+35.	 	 	Schneider,Christian	 	1589 -125	-----	
+36.	 	 	Löhr,Holger	 	1564 -127	1825	
+37.	 	 	Kühn,Thomas	 	1534 -221	1880	
+38.	 	 	Watz,Sebastian	 	1533 -  44	-----	
+39.	 	 	Scherer,Andreas	 	1521 -  27	-----	
+40.	 	 	Milberg,Mario	 	1487 -  28	-----	
+41.	 	 	Stamatoukos,Christos	 	1474 -    4	-----	
+42.	 	 	Schweitzer,Stefan	 	1473 -  52	1782	
+43.	 	 	Stelter,Matthias	 	1457 -106	1933	
+44.	 	 	Rodig,Claus	 	1454 -112	1765	
+45.	 	 	Neuhoff,Maximilian	 	1441 -  19	-----	
+46.	 	 	Stelter,Kai Alexander	 	1294 -  25	-----	
+47.	 	 	Maier,Dietrich	 	1221 -    2	-----	
+48.	 	 	Scheuermann,Otto	 	1165 -143	-----	
+49.	 	 	Krombach,Julius	 	1139 -  26	-----	
+50.	 	 	Schneider,Henryk	 	1091 -    6	-----	
+51.	 	 	Ziegner,Luis	 	1053 -  15	-----	
+52.	 	 	Jackelen,Andreas	 	1031 -  51	-----	
+53.	 	 	Hilgert,Günter	 	  890 -    2	-----	
+54.	 	 	Hammer,Marcel	 	  873 -    1	-----	
+55.	 	 	Lommel,Stefan	 	Restp.	-----	
+56.	 	 	Anschütz,Jonathan	 		-----	
+57.	 	 	Weinhold,Finn	 		-----	
+58.	 	 	Kokoska,Christian	 		-----
