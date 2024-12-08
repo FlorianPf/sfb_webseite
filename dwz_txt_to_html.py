@@ -1,3 +1,5 @@
+import datetime
+
 def is_number(string):
     try:
         return(int(string[0]) in range(10))
@@ -101,3 +103,4 @@ with open('dwz-liste_inhalt.html', 'w') as ofh:
             ofh.write('        <td>{}</td>\n'.format(item))
         ofh.write('    </tr>\n')
     ofh.write('</table>\n')
+    ofh.write('<p style="text-align: center;">Stand: {}. Immer aktuell auf der <a href="https://www.schachbund.de/verein/53002.html">Seite des DSB</a>.</p>'.format(datetime.datetime.today().strftime('%d.%m.%Y')))
