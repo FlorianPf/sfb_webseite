@@ -41,6 +41,34 @@ table.kalender td, th {
     text-align: left;
 }
 
+table.dwz {
+    border: 1px solid;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+table.dwz td{
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: right;
+}
+
+table.dwz th{
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: left;
+}
+
+table.dwz td:nth-child(2) {
+    text-align: left;
+}
+
 /* table.kalender th {
     border: 1px solid;
     border-collapse: collapse;
