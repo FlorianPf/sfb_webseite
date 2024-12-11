@@ -1,0 +1,386 @@
+﻿[Event "STM Braunfels 2022 Rd 1"]
+[Site "Braunfels"]
+[Date "2022.05.06"]
+[Round "1.11"]
+[White "Ewin, Hans-Peter"]
+[Black "Stehning, Toni"]
+[Result "0-1"]
+[ECO "C13"]
+[WhiteElo "1730"]
+[BlackElo "1097"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "77"]
+[EventDate "2000.??.??"]
+
+{[%evp 0,71,13,35,42,30,28,28,53,31,33,25,23,22,3,6,5,-11,19,11,44,8,-5,2,9,-4,
+7,-6,11,-13,-14,-8,-33,-47,-47,-50,-39,-48,41,21,25,24,58,-26,5,0,2,5,58,6,142,
+148,169,162,209,207,202,163,192,192,220,240,251,238,29989,29990,29991,508,
+29991,416,429,267,29999,-30000]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5.
+O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8. Nc3 Qd7 9. Nxe4 Be7 10. Bg5 b6 11. Bxe7 Nxe7
+12. Ne5 Qd5 13. Ng5 Bb7 14. Nef3 h6 15. Qe2 O-O-O 16. Nxf7 Qxf7 17. Qxe7 Qg6
+18. Nh4 Qh5 19. Re5 g5 20. Nf5 Qg4 21. Ng3 Rhe8 22. Qg7 Rxe5 23. Qxe5 Qf4 24.
+Qe6+ Kb8 25. Rd1 Rf8 26. f3 a5 27. Ne2 Qh4 28. Nxd4 Ka8 29. Nb5 Qf4 30. Qd7
+Qe3+ 31. Kh1 Bxf3 32. Nxc7+ Kb8 33. Na6+ Ka8 34. Qd2 Qxd2 35. Rxd2 Bb7 36. h3
+Bxa6 37. Rd6 Rf2 38. Rxb6 Bb7 39. Kh2 0-1
+
+[Event "STM Braunfels 2022 Rd 1"]
+[Site "Braunfels"]
+[Date "2022.05.06"]
+[Round "1.3"]
+[White "Wüst, Klaus"]
+[Black "Löhr, Holger"]
+[Result "1-0"]
+[WhiteElo "1852"]
+[BlackElo "1611"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "71"]
+[EventDate "2000.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Be2 Ngf6 6. d3 g6 7. a4 Bg7 8. Nc3
+b6 9. h3 O-O 10. Bf4 Bb7 11. Re1 d5 12. e5 Ne8 13. Bf1 Nc7 14. Qd2 Ne6 15. Bg3
+Bc6 16. d4 cxd4 17. Nxd4 Nxd4 18. Qxd4 e6 19. Qg4 Qe7 20. f4 Qc5+ 21. Bf2 Qb4
+22. Reb1 b5 23. Ne2 bxa4 24. Nd4 Qb7 25. Qe2 Rfb8 26. b3 Qc7 27. Nxc6 Qxc6 28.
+Rxa4 Qxa4 29. bxa4 Rxb1 30. c4 Rc8 31. Qc2 Ra1 32. c5 Rc6 33. Bd4 Re1 34. Qf2
+Rb1 35. Qc2 Rb7 36. Bxa6 {...} 1-0
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.20"]
+[Round "2.10"]
+[White "Löhr, Holger"]
+[Black "Risius, Jörg"]
+[Result "1/2-1/2"]
+[WhiteElo "1611"]
+[BlackElo "1127"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "42"]
+[EventDate "2000.??.??"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 Nfd7 5. d4 c5 6. Nf3 Nc6 7. Bg5 Be7 8. Bxe7
+Nxe7 9. Nb5 O-O 10. Qd2 cxd4 11. Qxd4 Nc6 12. Qe3 Qa5+ 13. Kd1 Qb4 14. Kc2 dxc4
+15. Nc3 Qa5 16. Bxc4 Ndxe5 17. Nxe5 Qxe5 18. Qxe5 Nxe5 19. Bb3 Rd8 20. Rad1 Bd7
+21. f3 Rac8 1/2-1/2
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.20"]
+[Round "2.8"]
+[White "Frank, Michelle V."]
+[Black "Eckert, Michael"]
+[Result "1-0"]
+[WhiteElo "1918"]
+[BlackElo "1486"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "23"]
+[EventDate "2000.??.??"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. c3 Bd6 5. Bg3 Nbd7 6. Nf3 b6 7. Nbd2 Bb7 8. Bd3
+O-O 9. Ng5 Qe7 10. f4 Ne4 11. Ndf3 f5 12. Bh4 {...?} 1-0
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.20"]
+[Round "2.4"]
+[White "Schneider, Christian"]
+[Black "Stehning, Ralf"]
+[Result "0-1"]
+[WhiteElo "1573"]
+[BlackElo "1767"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "70"]
+[EventDate "2000.??.??"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 Nf6 5. Nc3 Nxd5 6. Bc4 Nxc3 7. bxc3 Bd6
+8. Qe2+ Qe7 9. Qxe7+ Bxe7 10. d4 Bd6 11. Ng5 O-O 12. O-O h6 13. Ne4 g5 14. h4
+Bf5 15. Nxd6 cxd6 16. g3 Be4 17. hxg5 hxg5 18. gxf4 g4 19. Ba3 Rd8 20. Rae1 d5
+21. Rf2 f5 22. Bb3 Nc6 23. Rh2 Kg7 24. Rh5 Rh8 25. Rg5+ Kf6 26. Re2 Rh1+ 27.
+Kf2 Rah8 28. Ke3 R8h3+ 29. Kd2 Rf3 30. Bd6 Rff1 31. Rg8 Rd1+ 32. Ke3 Rh3+ 33.
+Kf2 Rf3+ 34. Kg2 Rxc3+ 35. Kf2 Rf3+ 0-1
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.20"]
+[Round "2.1"]
+[White "Ploder, Udo"]
+[Black "Stripling, Valentin"]
+[Result "1-0"]
+[WhiteElo "1851"]
+[BlackElo "1735"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "61"]
+[EventDate "2000.??.??"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1
+Nge7 9. h4 Rc8 10. a3 dxc3 11. Nxc3 Na5 12. Rb1 Nb3 13. Bg5 h6 14. Bf4 d4 15.
+Ne4 Nd5 16. Bg3 Be7 17. Bc2 Rxc2 18. Qxc2 O-O 19. Ned2 Ba4 20. Qd3 Rd8 21. Nxb3
+Bxb3 22. Nxd4 Nc7 23. Qxb3 Rxd4 24. Qxb6 axb6 25. Red1 Nb5 26. f3 Bc5 27. Kf1
+g6 28. Rbc1 Kg7 29. Bf2 Rxd1+ 30. Rxd1 g5 31. hxg5 {....??} 1-0
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.06"]
+[Round "1.10"]
+[White "Risius, Jörg"]
+[Black "Rilling, Ulrich"]
+[Result "0-1"]
+[WhiteElo "1851"]
+[BlackElo "1127"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "48"]
+[EventDate "2000.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. a3 c5 5. e3 Nc6 6. c4 Bd6 7. Bxd6 Qxd6 8. Nc3
+a6 9. Be2 dxc4 10. Bxc4 b5 11. Ba2 c4 12. Bb1 Bb7 13. Ne4 Nxe4 14. Bxe4 f5 15.
+Bxc6+ Bxc6 16. O-O O-O 17. Re1 Qd5 18. Rc1 Qe4 19. Rc2 Rf6 20. Qe2 Rg6 21. Kf1
+Rxg2 22. Kxg2 Qg4+ 23. Kf1 Bxf3 24. Qxf3 Qxf3 0-1
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.20"]
+[Round "2.3"]
+[White "Hilgert, Felix"]
+[Black "Hölß, Manuel"]
+[Result "1/2-1/2"]
+[WhiteElo "1770"]
+[BlackElo "1704"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "55"]
+[EventDate "2000.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 Bb4 5. dxe5 Nxe4 6. Bd2 Nxd2 7. Qxd2 O-O
+8. O-O-O Qe7 9. Re1 Qc5 10. Bd3 Bxc3 11. bxc3 d6 12. Qf4 Nxe5 13. Nxe5 dxe5 14.
+Rxe5 Qa3+ 15. Kb1 Be6 16. c4 Qb4+ 17. Kc1 Qa3+ 18. Kb1 Qb4+ 19. Kc1 Qa3+ 20.
+Kb1 b5 21. Rxb5 Rab8 22. Rb3 Qa5 23. Qe4 g6 24. Qe1 Qc5 25. Qe3 Qa5 26. Qe1 Qc5
+27. Qe3 Qa5 28. Re1 1/2-1/2
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.06"]
+[Round "1.9"]
+[White "Stripling, Valentin"]
+[Black "Hölß, Silas"]
+[Result "1-0"]
+[WhiteElo "1735"]
+[BlackElo "1375"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "31"]
+[EventDate "2000.??.??"]
+
+1. e4 c5 2. Nf3 g6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. Bc4 Nb6 7. Bb3 Bg7 8. O-O
+O-O 9. cxd4 e6 10. Nc3 Nc6 11. Bg5 f6 12. Bh4 g5 13. exf6 Bxf6 14. Bg3 a5 15.
+Be5 h6 16. Rc1 {....} 1-0
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.06"]
+[Round "1.7"]
+[White "Stehning, Ralf"]
+[Black "Lussetti, Enrico"]
+[Result "1-0"]
+[WhiteElo "1767"]
+[BlackElo "1492"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "31"]
+[EventDate "2000.??.??"]
+
+{[%evp 0,70,19,38,25,-21,21,-16,-17,-23,24,-33,-26,-27,-39,-37,36,20,14,20,47,
+35,117,117,89,132,176,45,21,-8,73,86,71,-31,5,-5,-1,0,0,-66,29,21,20,-23,-41,
+-63,-65,-75,-80,-127,-150,-150,-77,-290,-313,-327,-330,-376,-366,-399,-131,
+-132,-123,-399,-356,-387,-403,-403,-408,-400,-408,-523,-527]} 1. e4 d5 2. exd5
+Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. h3 c6 6. Nf3 Bf5 7. Bg5 Nbd7 8. Bc4 e6 9. Qe2 Be7
+10. O-O Nb6 11. Bb3 O-O-O 12. a4 h6 13. Bh4 Qc7 14. Bg3 Bd6 15. Ne5 Nfd5 16. a5
+{...?} 1-0
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.20"]
+[Round "2.5"]
+[White "Zalewski, Ulrich"]
+[Black "Gasser, Horst"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[WhiteElo "1758"]
+[BlackElo "1641"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "89"]
+[EventDate "2000.??.??"]
+
+{[%evp 0,70,12,21,20,-12,-17,-17,-17,-9,15,-26,-5,-32,-40,-14,8,8,11,8,20,39,
+86,108,107,95,183,34,26,0,78,76,88,-51,4,0,5,4,12,-63,23,25,3,-41,-47,-80,-80,
+-89,-78,-77,-150,-60,-64,-330,-366,-366,-366,-389,-415,-415,-132,-132,-131,
+-411,-411,-388,-388,-388,-388,-388,-417,-535,-535]} 1. e4 c5 2. Nf3 d6 3. d4
+cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. Be3 Be7 8. O-O O-O 9. f4 Nc6 10. Bf3
+Bd7 11. Nb3 Na5 12. Nxa5 Qxa5 13. Qe1 Rfe8 14. Nd5 Qxe1 15. Nxe7+ Rxe7 16.
+Rfxe1 Bc6 17. Bf2 d5 18. e5 Ne4 19. Bxe4 dxe4 20. Rad1 Bd5 21. b3 b5 22. Bd4
+Rc7 23. c3 a5 24. Rd2 a4 25. b4 Rc4 26. a3 Rac8 27. Re3 R4c6 28. Bc5 f6 29.
+exf6 gxf6 30. Rg3+ Kf7 31. Bd4 Rf8 32. Re2 Rcc8 33. Ree3 Rg8 34. Kf2 Rg6 35.
+Rxg6 hxg6 36. Rh3 Rg8 37. g4 g5 38. fxg5 Rxg5 39. Rg3 f5 40. Be3 Rg8 41. h3 Bb3
+42. gxf5 Rxg3 43. fxe6+ Kxe6 44. Kxg3 Kd5 45. Kf4 1/2-1/2
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.20"]
+[Round "2.12"]
+[White "Stehning, Michel"]
+[Black "Himmelspacht, Maxim"]
+[Result "0-1"]
+[WhiteElo "1025"]
+[BlackElo "1494"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "112"]
+[EventDate "2000.??.??"]
+
+{[%evp 0,70,19,38,25,-21,21,-16,-17,-23,24,-33,-26,-27,-39,-37,36,20,14,20,47,
+35,117,117,89,132,176,45,21,-8,73,86,71,-31,5,-5,-1,0,0,-66,29,21,20,-23,-41,
+-63,-65,-75,-80,-127,-150,-150,-77,-290,-313,-327,-330,-376,-366,-399,-131,
+-132,-123,-399,-356,-387,-403,-403,-408,-400,-408,-523,-527]} 1. e4 e6 2. d4 d5
+3. exd5 exd5 4. Nf3 Nf6 5. c4 Bg4 6. Nc3 Nc6 7. Be3 dxc4 8. d5 Nb4 9. Bxc4 Bxf3
+10. gxf3 c6 11. dxc6 Nxc6 12. Bxf7+ Kxf7 13. Qb3+ Ke8 14. Rd1 Qc7 15. Nb5 Qf7
+16. Qc2 Bb4+ 17. Kf1 a6 18. Nd6+ Bxd6 19. Rxd6 Rd8 20. Bc5 Rxd6 21. Bxd6 Qe6
+22. Qc5 Qd5 23. Qe3+ Kf7 24. Qf4 Rd8 25. Ba3 Ne5 26. Qb4 Qc4+ 27. Kg2 Qxb4 28.
+Bxb4 Nc6 29. Ba3 Rd5 30. Re1 b5 31. Rc1 b4 32. Rxc6 bxa3 33. b3 Rd2 34. Rxa6
+Rxa2 35. b4 Nd5 36. b5 Ra1 37. b6 Rb1 38. Ra7+ Kg6 39. b7 a2 40. Rxa2 Rxb7 41.
+Ra6+ Rb6 42. Ra5 Nf4+ 43. Kg3 Nd3 44. h4 Rf6 45. h5+ Kh6 46. Rd5 Nf4 47. Re5
+Nxh5+ 48. Kg2 Kg6 49. Re4 Nf4+ 50. Kg3 Ne6 51. Rg4+ Kf7 52. f4 Rg6 53. f5 Rxg4+
+54. Kxg4 Nd4 55. f4 Kf6 56. Kg3 Kxf5 0-1
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.20"]
+[Round "2.6"]
+[White "Stehning, Toni"]
+[Black "Diehl, Andreas"]
+[Result "0-1"]
+[WhiteElo "1999"]
+[BlackElo "1097"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "84"]
+[EventDate "2000.??.??"]
+
+{[%evp 0,70,19,38,25,-21,21,-16,-17,-23,24,-33,-26,-27,-39,-37,36,20,14,20,47,
+35,117,117,89,132,176,45,21,-8,73,86,71,-31,5,-5,-1,0,0,-66,29,21,20,-23,-41,
+-63,-65,-75,-80,-127,-150,-150,-77,-290,-313,-327,-330,-376,-366,-399,-131,
+-132,-123,-399,-356,-387,-403,-403,-408,-400,-408,-523,-527]} 1. e4 g6 2. d4
+Bg7 3. Nc3 c6 4. Bc4 d6 5. Nf3 Nf6 6. O-O O-O 7. Bg5 b5 8. Bb3 b4 9. Bxf6 Bxf6
+10. Ne2 Bg4 11. Ng3 Nd7 12. c3 bxc3 13. bxc3 Qc7 14. h3 Bxf3 15. Qxf3 c5 16.
+Rad1 Rab8 17. Qg4 Bg7 18. Ne2 Nf6 19. Qf3 c4 20. Bc2 Rb2 21. Bb1 e6 22. Rfe1
+Rfb8 23. Ng3 Nd7 24. Qe3 R8b6 25. Nf1 Qb8 26. Nd2 d5 27. exd5 exd5 28. Qe8+
+Qxe8 29. Rxe8+ Bf8 30. Rd8 Rxd2 31. Rxd2 Rxb1+ 32. Kh2 Nf6 33. f3 Rc1 34. Rb2
+Kg7 35. Rb7 Rxc3 36. Rxa7 Re3 37. g4 Be7 38. Rc8 Bd6+ 39. Kg2 Bf4 40. h4 h6 41.
+a4 Ra3 42. a5 c3 {....} 0-1
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.06"]
+[Round "1.4"]
+[White "John, Volkmar"]
+[Black "Ploder, Udo"]
+[Result "0-1"]
+[WhiteElo "1574"]
+[BlackElo "1851"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "8"]
+[EventDate "2000.??.??"]
+
+{[%evp 0,70,19,38,25,-21,21,-16,-17,-23,24,-33,-26,-27,-39,-37,36,20,14,20,47,
+35,117,117,89,132,176,45,21,-8,73,86,71,-31,5,-5,-1,0,0,-66,29,21,20,-23,-41,
+-63,-65,-75,-80,-127,-150,-150,-77,-290,-313,-327,-330,-376,-366,-399,-131,
+-132,-123,-399,-356,-387,-403,-403,-408,-400,-408,-523,-527]} 1. c4 e5 2. g3 c6
+3. d4 e4 4. Bg2 d6 {...??} 0-1
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.06"]
+[Round "1.1"]
+[White "Diehl, Andreas"]
+[Black "Kriesch, Achim"]
+[Result "1/2-1/2"]
+[WhiteElo "1999"]
+[BlackElo "1657"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "62"]
+[EventDate "2000.??.??"]
+
+1. c4 e5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. e3 Ne7 6. Nge2 O-O 7. d4 Nf5 8. O-O
+exd4 9. Nxd4 Nxd4 10. exd4 Nc6 11. Be3 Re8 12. Qd2 Bf5 13. a3 Na5 14. Rad1 Nb3
+15. Qe1 Nxd4 16. Qd2 Nb3 17. Qd5 c6 18. Qxd6 Qxd6 19. Rxd6 Be5 20. Rdd1 Bc2 21.
+Rd7 Na5 22. c5 Bf5 23. Rdd1 Nc4 24. Bc1 Nxa3 25. Ne4 Nb5 26. Rfe1 Bxe4 27. Rxe4
+f5 28. Ra4 Rad8 29. Rxd8 Rxd8 30. Bf3 a6 31. Kg2 Rd4 {....} 1/2-1/2
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.06"]
+[Round "1.6"]
+[White "Himmelspacht, Maxim"]
+[Black "Hilgert, Felix"]
+[Result "0-1"]
+[WhiteElo "1494"]
+[BlackElo "1770"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "114"]
+[EventDate "2000.??.??"]
+
+{[%evp 0,70,19,38,25,-21,21,-16,-17,-23,24,-33,-26,-27,-39,-37,36,20,14,20,47,
+35,117,117,89,132,176,45,21,-8,73,86,71,-31,5,-5,-1,0,0,-66,29,21,20,-23,-41,
+-63,-65,-75,-80,-127,-150,-150,-77,-290,-313,-327,-330,-376,-366,-399,-131,
+-132,-123,-399,-356,-387,-403,-403,-408,-400,-408,-523,-527]} 1. e4 c6 2. d4 d5
+3. exd5 cxd5 4. Nf3 Nc6 5. Bd3 Bg4 6. c3 e6 7. h3 Bh5 8. Bf4 Bd6 9. Bxd6 Qxd6
+10. Nbd2 Nge7 11. Qc2 Bg6 12. Nb3 Rc8 13. Nc5 b6 14. Bxg6 bxc5 15. dxc5 Qxc5
+16. Bd3 Ng6 17. Bxg6 hxg6 18. O-O O-O 19. Rfc1 Rc7 20. Qe2 Rfc8 21. Rd1 Na5 22.
+Ne5 Nc4 23. Nxc4 Qxc4 24. Qxc4 Rxc4 25. Kf1 a5 26. a4 Rb8 27. Rd2 Kf8 28. Ke2
+Ke7 29. Kd3 Kd6 30. Kc2 Rbc8 31. Kd3 e5 32. Ke3 Ke6 33. Rad1 Rd8 34. Ra1 f5 35.
+Kd3 Rdc8 36. Ke2 f4 37. Ra3 Rb8 38. Kd3 f3 39. g3 e4+ 40. Kc2 Rbc8 41. Kb1 Rf8
+42. Rd1 Ke5 43. Kc2 e3 44. fxe3 f2 45. Rf1 Ke4 46. Kd2 Kf3 47. b4 axb4 48. cxb4
+Rxb4 49. Ra2 Kg2 50. Ke2 Re4 51. Raa1 Rf3 52. a5 Rexe3+ 53. Kd2 Ra3 54. a6 Rxa1
+55. Rxa1 f1=Q 56. Ra5 Qd3+ 57. Ke1 Rf1# 0-1
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.06"]
+[Round "1.5"]
+[White "Swoboda, Sebastian"]
+[Black "Schneider, Christian"]
+[Result "0-1"]
+[WhiteElo "1770"]
+[BlackElo "1573"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "60"]
+[EventDate "2000.??.??"]
+
+{[%evp 0,70,19,17,28,-21,19,19,-19,16,6,-21,-32,-33,-13,-39,9,21,16,3,15,31,87,
+99,113,108,197,41,28,-30,77,83,93,-31,-8,3,3,9,13,-80,21,-17,8,-27,-33,-85,-85,
+-77,-83,-109,-138,-136,-136,-195,-292,-326,-354,-354,-323,-323,-142,-131,-135,
+-339,-339,-383,-342,-383,-342,-393,-415,-509,-549]} 1. e4 c5 2. Nf3 e6 3. g3
+Qc7 4. Bg2 a6 5. O-O b5 6. a4 Bb7 7. Re1 Ne7 8. d4 Ng6 9. d5 Be7 10. h4 O-O 11.
+axb5 axb5 12. Rxa8 Bxa8 13. Na3 Qb7 14. h5 Nh8 15. c4 bxc4 16. Nd2 f5 17. Qe2
+e5 18. Ndxc4 d6 19. f4 Nd7 20. fxe5 Nxe5 21. Nxe5 dxe5 22. Nc4 Qb3 23. Ne3 f4
+24. gxf4 exf4 25. Qc4 Qxc4 26. Nxc4 f3 27. Bxf3 Rxf3 28. d6 Bf6 29. e5 Bh4 30.
+d7 Rh3 0-1
+
+[Event "STM Braunfels 2022"]
+[Site "Braunfels"]
+[Date "2022.05.13"]
+[Round "2.7"]
+[White "Kriesch, Achim"]
+[Black "Swoboda, Sebastian"]
+[Result "0-1"]
+[WhiteElo "1657"]
+[BlackElo "1770"]
+[Annotator "Kohlmeyer,Klaus"]
+[PlyCount "116"]
+[EventDate "2000.??.??"]
+
+{[%evp 0,70,19,17,28,-21,19,19,-19,16,6,-21,-32,-33,-13,-39,9,21,16,3,15,31,87,
+99,113,108,197,41,28,-30,77,83,93,-31,-8,3,3,9,13,-80,21,-17,8,-27,-33,-85,-85,
+-77,-83,-109,-138,-136,-136,-195,-292,-326,-354,-354,-323,-323,-142,-131,-135,
+-339,-339,-383,-342,-383,-342,-393,-415,-509,-549]} 1. d4 Nf6 2. Nf3 e6 3. c4
+Bb4+ 4. Bd2 Bxd2+ 5. Nbxd2 d6 6. Qc2 b6 7. e3 Bb7 8. Bd3 Nbd7 9. O-O c5 10.
+Rac1 O-O 11. Ne4 Bxe4 12. Bxe4 Nxe4 13. Qxe4 Nf6 14. Qf4 cxd4 15. exd4 Rc8 16.
+b4 Qc7 17. Qe3 Rfd8 18. Rfe1 Qd7 19. Qb3 Qe7 20. d5 e5 21. Nd4 Nxd5 22. b5 Qg5
+23. h4 Qg4 24. Nc6 Nf4 25. Qf3 Qxf3 26. gxf3 Nd3 27. Nxd8 Rxd8 28. Rcd1 Nxe1
+29. Rxe1 Rc8 30. Rd1 Rd8 31. a4 Kf8 32. a5 Ke7 33. axb6 axb6 34. Ra1 Rc8 35.
+Ra6 Rxc4 36. Rxb6 Rc7 37. Kg2 d5 38. Ra6 Rb7 39. b6 Kd6 40. Kg3 Kc6 41. Kg4 d4
+42. Kf5 f6 43. f4 Rxb6 44. Ra8 Rb5 45. Ke4 g6 46. fxe5 fxe5 47. Rc8+ Kd6 48.
+Rd8+ Ke6 49. Re8+ Kf6 50. f4 exf4 51. Rf8+ Ke6 52. Rxf4 Rb4 53. Kd3 Kd5 54. Rf7
+Rb3+ 55. Kd2 h5 56. Rd7+ Ke5 57. Re7+ Kf5 58. Rd7 Rg3 0-1
+

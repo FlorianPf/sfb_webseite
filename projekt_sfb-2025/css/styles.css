@@ -1,0 +1,325 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: white;
+}
+
+.logo img {
+  height: 60px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  position: static;
+}
+
+nav li {
+  margin-left: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.contact-button {
+  background-color: blue;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+/* Slider */
+.slider {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+
+.slider .slide {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slider img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.caption {
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.slider .slide.active .caption {
+  opacity: 1;
+}
+
+/* Entfernt allgemeine schwebende Layer, die häufig verwendet werden */
+.layer,
+.overlay,
+.intro,
+.popup,
+.fixed-layer,
+.float-element {
+  display: none !important;
+}
+
+/* News Section */
+.news-section {
+  background-color: white;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.news-section h2 {
+  font-size: 28px;
+  color: #333;
+  text-align: center;
+}
+
+.news-content p,
+.news-item p {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.news-item {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+
+.news-item h3 {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+/* Results Table */
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.results-table th,
+.results-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.results-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  color: #333;
+}
+
+
+
+/* Upcoming Events Section */
+.upcoming-events-section {
+  background-color: #ffeb3b;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.upcoming-events-section h2 {
+  color: #333;
+  font-size: 1.5em;
+  margin-bottom: 15px;
+}
+
+.events-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.event {
+  background-color: #fff;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+  width: 300px;
+}
+
+.event-title {
+  font-size: 1.3em;
+  color: #333;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.event-teams {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.team-name,
+.versus {
+  margin: 0 10px;
+}
+
+.event-details {
+  font-size: 1em;
+  color: #555;
+  line-height: 1.4;
+}
+
+.details-button-container {
+  text-align: center; /* Zentriert den Button */
+  margin-top: 20px; /* Abstand nach oben */
+}
+
+.details-button {
+  background-color: blue; /* Blaue Hintergrundfarbe */
+  color: white; /* Textfarbe */
+  padding: 10px 10px; /* Innenabstand */
+  border-radius: 5px; /* Abgerundete Ecken */
+  text-decoration: none; /* Keine Unterstreichung */
+  font-size: 16px; /* Schriftgröße */
+  margin-top: 10px;
+}
+
+.details-button:hover {
+  background-color: darkblue; /* Dunklere Farbe beim Hover */
+}
+.sponsors-section {
+  background-color: blue; /* Blaue Hintergrundfarbe */
+  padding: 20px; /* Innenabstand */
+  text-align: center; /* Text zentrieren */
+  margin-top: 15px;
+}
+
+.sponsors-section h2 {
+  color: white; /* Überschrift in Weiß */
+  margin-bottom: 20px; /* Abstand nach unten */
+}
+
+.sponsors-container {
+  background-color: white; /* Weiße Fläche für Logos */
+  padding: 20px; /* Innenabstand */
+  border-radius: 10px; /* Abgerundete Ecken */
+  display: flex; /* Flexbox für Anordnung */
+  justify-content: center; /* Zentriert die Logos */
+  flex-wrap: wrap; /* Zeilenumbruch für Logos */
+}
+
+.sponsor {
+  margin: 10px; /* Abstand zwischen Sponsoren */
+}
+
+.sponsor img {
+  max-width: 100px; /* Maximale Breite für Logos */
+  height: auto; /* Höhe automatisch */
+  width: 300px;
+}
+
+/* Header-Container */
+.header-container {
+  display: flex; 
+  align-items: center; 
+  position: fixed; 
+  top: 10px; 
+  left: 10px; 
+  z-index: 3; 
+}
+
+/* Menü-Button */
+.menu-button {
+  font-size: 18px;
+  background-color: #007bff; 
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px; /* Abstand zwischen Button und Logo */
+}
+
+.menu-button:hover {
+  background-color: #0056b3; 
+}
+
+/* Logo */
+.logo img {
+  height: 50px; /* Größe des Logos */
+  object-fit: contain;
+}
+
+/* Seitenmenü */
+.side-menu {
+  height: 100%; 
+  width: 0; 
+  position: fixed; 
+  z-index: 2; 
+  top: 0;
+  left: 0;
+  background-color: #f0f0f0; 
+  overflow-x: hidden; 
+  transition: 0.3s; 
+  padding-top: 60px; 
+}
+
+.side-menu a {
+  padding: 10px 15px; 
+  text-decoration: none; 
+  font-size: 18px; 
+  color: black; 
+  display: block; 
+  transition: 0.3s; 
+}
+
+.side-menu a:hover {
+  background-color: #ddd; 
+  color: black; 
+}
+
+.side-menu .close-btn {
+  position: absolute;
+  top: 20px;
+  right: 25px;
+  font-size: 36px;
+  color: black; 
+}
