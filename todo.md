@@ -23,7 +23,11 @@ implementieren.
 	auf allen nötigen Seiten hinzugefügt. So könnten z.B. auf der Hauptseite die
 	zehn aktuellsten Meldungen dargestellt werden, alte werden automatisch entfernt.
 - Tabelle Archiv (Mannschaften) mit rowspan und colspan verfeinern.
-
+- Dokumente alle in pdf umwandeln
+- Verlorene Dokumente suchen:
+	- Endstand STM 2022, 2021, 2020 (welche davon sind ausgefallen?) und vor 2016
+	- Endstand VM 2021 (ausgefallen?) und vor 2016
+	- Alles zum Schlopo (außer 2023)
 
 
 
