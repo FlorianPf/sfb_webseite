@@ -32,6 +32,7 @@ table.ergebnis td{
 table.kalender {
     border: 1px solid;
     border-collapse: collapse;
+    margin: auto;
 }
 
 table.kalender td, th {

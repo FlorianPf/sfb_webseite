@@ -2,7 +2,7 @@
 
 ## To-Do-Liste:
 - Weitere Seiten hinzufügen:
-	Events, DFMM-LV, SFB Jugend, Links, Archiv (Mannschaften und Turniere)
+	Events?, DFMM-LV, SFB Jugend?, Links
 - Vereinsgeschichte zur Korrektur lesen
 - DWZ-Liste automatisieren:
 	Bisher: DWZ-Liste von der Seite des DSB in eine Textdatei 
@@ -28,7 +28,7 @@ implementieren.
 	- Endstand STM 2022, 2021, 2020 (welche davon sind ausgefallen?) und vor 2016
 	- Endstand VM 2021 (ausgefallen?) und vor 2016
 	- Alles zum Schlopo (außer 2023)
-
+- Seiten für aktuelle Termine mit Inhalt füllen
 
 
 
