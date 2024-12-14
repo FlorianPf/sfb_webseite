@@ -4,8 +4,10 @@
 }
 
 html {
-    /* background-color:black; fuer weniger augenkrebs */
-    background-color:rgba(10, 35, 188, 0.88);
+    /* fuer weniger augenkrebs: */
+    background-color:black;
+    /* 'normale' farbe der webseite: */
+    /* background-color:rgba(10, 35, 188, 0.88); */
     height: 100%;
 }
 
