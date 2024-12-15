@@ -5,9 +5,9 @@
 
 html {
     /* fuer weniger augenkrebs: */
-    background-color:black;
+    /* background-color:black; */
     /* 'normale' farbe der webseite: */
-    /* background-color:rgba(10, 35, 188, 0.88); */
+    background-color:rgba(10, 35, 188, 0.88);
     height: 100%;
 }
 
@@ -104,9 +104,19 @@ h2 {
     /* color: white; */
 }
 
-.column {
+/* .column {
     float: left;
     width: 50%;
+} */
+
+.column_mannschaften {
+    float: left;
+    width: 50%;
+}
+
+.column_archiv {
+    float: left;
+    width: 33%;
 }
 
 .row:after {
