@@ -5,9 +5,9 @@
 
 html {
     /* fuer weniger augenkrebs: */
-    background-color:black;
+    /* background-color:black; */
     /* 'normale' farbe der webseite: */
-    /* background-color:rgba(10, 35, 188, 0.88); */
+    background-color:rgba(10, 35, 188, 0.88);
     height: 100%;
 }
 
@@ -27,8 +27,29 @@ html, body{
     height: 100%;
 } */
 
+h3.vm {
+    text-align: center;
+}
+
+table.ergebnis{
+    margin: auto;
+}
+
 table.ergebnis td{
     padding-right: 10px;
+}
+
+table.ergebnis td:nth-child(1){
+    width: 110pt;
+}
+
+table.ergebnis td:nth-child(3) {
+    width: 110pt;
+}
+
+table.ergebnis td:nth-child(4) {
+    width: 35pt;
+    text-align: center;
 }
 
 table.kalender {
@@ -104,10 +125,10 @@ h2 {
     /* color: white; */
 }
 
-/* .column {
+.column_vorstand {
     float: left;
     width: 50%;
-} */
+}
 
 .column_mannschaften {
     float: left;
@@ -182,7 +203,7 @@ h2 {
 }
 
 .center {
-    display: blcok;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
