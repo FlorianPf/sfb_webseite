@@ -1,6 +1,7 @@
 # sfr_website
 
 ## To-Do-Liste:
+- Anmeldeformular für die Stadtmeisterschaft realisieren!
 - Weitere Seiten hinzufügen:
 	Events?, DFMM-LV, SFB Jugend?, Links
 - DWZ-Liste automatisieren:
