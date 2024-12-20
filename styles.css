@@ -31,6 +31,14 @@ h3.vm {
     text-align: center;
 }
 
+table.mannschaft{
+    margin-left: 10px;
+}
+
+table.mannschaft td{
+    padding-right: 10px;
+}
+
 table.ergebnis{
     margin: auto;
 }
