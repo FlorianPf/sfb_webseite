@@ -79,6 +79,25 @@ table.kalender td, th {
     text-align: left;
 }
 
+table.archiv {
+    border: 1px solid;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+table.archiv td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: left;
+}
+
+table.archiv td:nth-child(3) {
+    text-align: center;
+}
+
 table.dwz {
     border: 1px solid;
     border-collapse: collapse;
