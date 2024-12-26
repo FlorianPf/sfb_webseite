@@ -18,6 +18,11 @@ if(isset($_POST['submit'])){
 
     $headers = "From:" . $from;
     mail($to,$subject,$message,$headers);
+
+    $fileName = "teilnehmerliste_stm.csv";
+    $data = $name . ", " . $dateofbirth . ", " . $email . ", " . $phone . ", " . $club . ", " . $dwz . "\n";
+    file_put_contents($fileName, $data, FILE_APPEND);
+
     // mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
     echo "Anmeldung erfolgreich!";
     // You can also use header('Location: thank_you.php'); to redirect to another page.
