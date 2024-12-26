@@ -66,10 +66,62 @@
                     <a href="documents/stm_2025_ausschreibung.pdf" target="_blank" download="ausschreibung_braunfels_stm_2025.pdf"><img src="media/pdf_logo_alte_webseite.png" style="vertical-align: middle; opacity: 0.9; margin-right: 10px;" alt="PDF-Logo" width="30px" height="30px">Ausschreibung</a>
                     <!-- Das ist das Logo, was wir auch auf der alten Webseite bei Ionos hatten. Ich bin mir aber nicht sicher, ob wir das so verwenden dürfen. -->
                 </p>
-		<p>
-		    Anmeldung bitte unter Angabe von Name, Vorname, Geburtsdatum, Mobilfunknummer und ggf. DWZ und Verein an <a href="mailto:vorstand@schachfreunde-braunfels.de">den Turnierleiter</a>.
-		</p>
-                <!-- Ich mag nicht, dass das hier so umstaendlich ist. Am liebsten haette ich gerne eine Funktion, der man filename und Text gibt und die einem dann das entsprechende <p>-Element hier rein schreibt. Das geht aber anscheinend nur mit php, und das wird von GitHub nicht supported... Vielleicht geht das aber mit css?-->
+                <p>
+                    Anmeldeformular:
+                </p>
+                <form action="anmeldung_stm.php" method="post">
+                    <table>
+                        <tr>
+                            <td>
+                                <label for="name">Name:</label>
+                            </td>
+                            <td>
+                                <input type="text" name="name" size="30" required>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="dateofbirth">Geburtsdatum:</label>
+                            </td>
+                            <td>
+                                <input type="date" name="dateofbirth" required>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="email">E-Mail-Adresse:</label>
+                            </td>
+                            <td>
+                                <input type="email" name="email" size="30" required><br>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="phone">Mobilfunknummer:</label>
+                            </td>
+                            <td>
+                                <input type="text" name="phone" size="30"><br>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="club">Verein:</label>
+                            </td>
+                            <td>
+                                <input type="text" name="club" size="30"><br>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="dwz">DWZ:</label>
+                            </td>
+                            <td>
+                                <input type="number" name="dwz"><br>
+                            </td>
+                        </tr>
+                    </table>
+                    <input type="submit" name="submit" value="Abschicken">
+                </form>
                 <hr>
                 <h3>
                     <b><u>+++ Vereinsmeister 2024: Ralf Stehning +++</u></b>
