@@ -31,6 +31,10 @@ h3.vm {
     text-align: center;
 }
 
+input[type] {
+    color: black;
+}
+
 table.impressum{
     margin-left: 10px;
 }
