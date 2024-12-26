@@ -32,7 +32,7 @@ h3.vm {
 }
 
 input[type] {
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 table.impressum{
