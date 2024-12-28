@@ -23,9 +23,9 @@ if(isset($_POST['submit'])){
     $message = "Name:\t\t\t" . $name . "\nGeburtsdatum:\t" . $dateofbirth . "\nE-Mail-Adresse:\t" . $email . "\nTelefonnummer:\t" . $phone . "\nVerein:\t\t\t" . $club . "\nDWZ:\t\t\t" . $dwz;
 
     $headers = "From:" . $from;
-    mail($to1,$subject,$message,$headers);
-    mail($to2,$subject,$message,$headers);
-    mail($to3,$subject,$message,$headers);
+    // mail($to1,$subject,$message,$headers);
+    // mail($to2,$subject,$message,$headers);
+    // mail($to3,$subject,$message,$headers);
 
     $fileName = "teilnehmerliste_stm.csv";
     $data = $name . ", " . $dateofbirth . ", " . $email . ", " . $phone . ", " . $club . ", " . $dwz . "\n";
