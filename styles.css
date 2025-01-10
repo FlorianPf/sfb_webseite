@@ -130,6 +130,38 @@ table.dwz td:nth-child(2) {
     text-align: left;
 }
 
+table.tn-liste {
+    border: 1px solid;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+table.tn-liste td{
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: right;
+}
+
+table.tn-liste th{
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: left;
+}
+
+table.tn-liste td:nth-child(2){
+    text-align: left;
+}
+
+table.tn-liste td:nth-child(4){
+    text-align: left;
+}
+
 /* table.kalender th {
     border: 1px solid;
     border-collapse: collapse;
