@@ -3,14 +3,14 @@
 3.	 	 	Schlitter,Achim	 	1993 -125	2107	
 4.	 	 	Baumhackel,Mario	 	1972 -124	2118	
 5.	 	 	Diehl,Andreas,Dr.	 	1948 -172	2102	
-6.	 	 	Stehning,Toni	 	1909 -  41	1894	
-7.	 	 	Schultze,Jörg-Martin,Dr.	 	1902 -  46	1956	
-8.	 	 	Darsania,Badri	 	1902 -    2	-----	
+6.	 	 	Schultze,Jörg-Martin,Dr.	 	1902 -  46	1956	
+7.	 	 	Darsania,Badri	 	1902 -    2	-----	
+8.	 	 	Stehning,Toni	 	1884 -  42	1894	
 9.	 	 	Ploder,Udo	 	1868 -  93	1913	
 10.	 	 	Wüst,Klaus,Dr.	 	1867 -  99	1930	
 11.	 	 	Grass,Ernest	 	1864 -117	1989	
-12.	 	 	Stehning,Ralf	 	1864 -  56	1914	
-13.	 	 	Hilgert,Felix	 	1823 -109	1921	
+12.	 	 	Hilgert,Felix	 	1840 -110	1921	
+13.	 	 	Stehning,Ralf	 	1828 -  57	1914	
 14.	 	 	Bolte,Christoph	 	1821 -  93	1969	
 15.	 	 	Kriesch,Achim	 	1798 -218	1898	
 16.	 	 	van der Riet,Ernst	 	1785 -  74	1964	
@@ -26,15 +26,15 @@
 26.	 	 	Stripling,Valentin	 	1694 -  56	1844	
 27.	 	 	Saltenberger,Leon	 	1675 -  10	-----	
 28.	 	 	Ewin,Hans-Peter	 	1673 -287	1842	
-29.	 	 	Hennemann,Maik	 	1658 -  27	-----	
-30.	 	 	Stehning,Michel	 	1636 -  32	1730	
+29.	 	 	Stehning,Michel	 	1660 -  33	1730	
+30.	 	 	Hennemann,Maik	 	1658 -  27	-----	
 31.	 	 	Gasser,Horst,Dr.	 	1624 -111	1850	
 32.	 	 	Kohlmeyer,Klaus	 	1622 -175	1810	
 33.	 	 	Schneider,Udo	 	1607 -154	1874	
-34.	 	 	Förster,Rudi	 	1593 -171	1819	
-35.	 	 	Schneider,Christian	 	1579 -126	-----	
-36.	 	 	Löhr,Holger	 	1564 -127	1825	
-37.	 	 	Kühn,Thomas	 	1559 -222	1880	
+34.	 	 	Kühn,Thomas	 	1590 -223	1880	
+35.	 	 	Förster,Rudi	 	1585 -172	1819	
+36.	 	 	Schneider,Christian	 	1579 -126	-----	
+37.	 	 	Löhr,Holger	 	1564 -127	1825	
 38.	 	 	Watz,Sebastian	 	1533 -  44	-----	
 39.	 	 	Scherer,Andreas	 	1521 -  27	-----	
 40.	 	 	Milberg,Mario	 	1487 -  28	-----	
@@ -56,4 +56,4 @@
 56.	 	 	Kokoska,Christian	 	Restp.	-----	
 57.	 	 	Geist,Wladislav	 	Restp.	-----	
 58.	 	 	Anschütz,Jonathan	 		-----	
-59.	 	 	Weinhold,Finn	 		-----	
+59.	 	 	Weinhold,Finn	 		-----
