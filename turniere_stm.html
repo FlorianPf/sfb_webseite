@@ -1,285 +1,297 @@
 <!DOCTYPE html>
 <html lang="de">
-    <head>
-        <link rel="stylesheet" href="styles.css">
-        <title>
-            Schachfreunde Braunfels e.V.: Stadtmeisterschaft
-        </title>
-    </head>
-    <body>
-        <div class="clearfix">
-            <div class="header">
-                <div class="headbox_left"><img src="media/logo.png" alt="Unser Logo" width="70px" height="70px"></div>
-                <div class="headbox_center"><h1>Schachfreunde Braunfels e.V.</h1></div>
-                <div class="headbox_right"><img src="media/wappen.png" alt="Wappen der Stadt Braunfels" width="60px" height="70px"></div>
-            </div>
-        </div>
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for HTML5 for Apple macOS version 5.8.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Schachfreunde Braunfels e.V.: Stadtmeisterschaft</title>
+</head>
+<body>
+  <div class="clearfix">
+    <div class="header">
+      <div class="headbox_left"><img src="media/logo.png" alt=
+      "Unser Logo" width="70px" height="70px"></div>
+      <div class="headbox_center">
+        <h1>Schachfreunde Braunfels e.V.</h1>
+      </div>
+      <div class="headbox_right"><img src="media/wappen.png" alt=
+      "Wappen der Stadt Braunfels" width="60px" height=
+      "70px"></div>
+    </div>
+  </div>
+  <hr>
+  <div class="clearfix">
+    <div class="sidemenu">
+      <ul>
+        <li>
+          <a href="index.html">Aktuelles</a>
+        </li>
         <hr>
-        <div class="clearfix">
-            <div class="sidemenu">
-                <ul>
-                    <li><a href="index.html">Aktuelles</a></li>
-                    <hr>
-                    <li><a href="kalender.html">Kalender</a></li>
-                    <hr>
-                    <li><a href="turniere.html">Turniere</a>
-                        <hr>
-                        <ul>
-                            <li><a href="turniere_stm.html" class="active">Stadtmeisterschaft</a></li>
-                            <hr>
-                            <li><a href="turniere_vm.html">Vereinsmeisterschaft</a></li>
-                            <hr>
-                            <li><a href="turniere_schlopo.html">Schlosspokal</a></li>
-                        </ul>
-                    </li>
-                    <hr>
-                    <li><a href="mannschaften.html">Mannschaften</a></li>
-                    <hr>
-                    <li><a href="dwz-liste.html">DWZ-Liste</a></li>
-                    <hr>
-                    <li><a href="vorstand.html">Vorstand</a></li>
-                    <hr>
-                    <li><a href="archiv.html">Archiv</a></li>
-                    <hr>
-                    <li><a href="vereinsgeschichte.html">Vereinsgeschichte</a></li>
-                    <hr>
-                    <li><a href="impressum.html">Impressum</a></li>
-                </ul>
-                <p style="margin-top: 100px;">
-                    <h3 style="text-align: center;">Sponsoren:</h3>
-                    <div class="imageflex">
-                        <img src="media/sparkasse_wetzlar.jpg" alt="Sparkasse Wetzlar" style="width:150px; opacity: 0.9;", class="center">
-                    </div>
-                    <hr style="width: 150px">
-                    <div class="imageflex">
-                        <img src="media/schach_niggemann.jpg" alt="Schachversand E. Niggemann" style="width:150px; opacity: 0.9;", class="center">
-                    </div>
-                </p>
-            </div>
-            <div class="content">
-                <h2>
-                    <b>Stadtmeisterschaft 2025</b>
-                </h2>
-                <hr>
-                <p>
-                    Die Schachfreunde Braunfels laden herzlich zur Teilnahme an der offenen Braunfelser Stadtmeisterschaft ein. Im kommenden Fr&uuml;hjahr wird das siebenrundige Traditionsturnier im schweizer System zum 28. Mal ausgetragen. Der Preisfond winkt mit mindestens 500&euro;, mitmachen lohnt sich!
-                </p>
-                <p>
-                    Termine: 07.02., 21.02., 07.03., 21.03., 25.04., 09.05. und 23.05.
-                </p>
-                <p>
-                    <a href="documents/stm_2025_ausschreibung.pdf" target="_blank" download="ausschreibung_braunfels_stm_2025.pdf"><img src="media/pdf_logo_alte_webseite.png" style="vertical-align: middle; opacity: 0.9; margin-right: 10px;" alt="PDF-Logo" width="30px" height="30px">Ausschreibung</a>
-                </p>
-                <p>
-                    Anmeldeformular:
-                </p>
-                <form action="anmeldung_stm.php" method="post">
-                    <table>
-                        <tr>
-                            <td>
-                                <label for="name">Name:</label>
-                            </td>
-                            <td>
-                                <input type="text" name="name" size="30" required>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="dateofbirth">Geburtsdatum:</label>
-                            </td>
-                            <td>
-                                <input type="date" name="dateofbirth" required>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="email">E-Mail-Adresse:</label>
-                            </td>
-                            <td>
-                                <input type="email" name="email" size="30" required><br>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="phone">Mobilfunknummer:</label>
-                            </td>
-                            <td>
-                                <input type="text" name="phone" size="30"><br>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="club">Verein:</label>
-                            </td>
-                            <td>
-                                <input type="text" name="club" size="30"><br>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="dwz">DWZ:</label>
-                            </td>
-                            <td>
-                                <input type="number" name="dwz"><br>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="captcha">Name des aktuellen<br>Schachweltmeisters:<br>(Spam-Schutz)</label>
-                            </td>
-                            <td>
-                                <input type="text" name="captcha" required><br>
-                            </td>
-                        </tr>
-                    </table>
-                    <input type="submit" name="submit" value="Abschicken">
-                </form>
-                <p>Aktuelle Teilnehmerliste (Stand 29.01.2025):</p>
-                <table class="tn-liste" style="margin-left: 10pt;">
-                    <tr>
-                        <th>Nr.</th>
-                        <th>Name</th>
-                        <th>DWZ</th>
-                        <th>Verein</th>
-                    </tr>
-                    <tr>
-                        <td>1</td>
-                        <td>Dr. Andreas Diehl</td>
-                        <td>1948</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>Badri Darsania</td>
-                        <td>1902</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>Toni Stehning</td>
-                        <td>1882</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>4</td>
-                        <td>Ralf Stehning</td>
-                        <td>1828</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>5</td>
-                        <td>Felix Hilgert</td>
-                        <td>1823</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>6</td>
-                        <td>Achim Kriesch</td>
-                        <td>1798</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>7</td>
-                        <td>Dominik Gerhard</td>
-                        <td>1796</td>
-                        <td>SV Oberursel</td>
-                    </tr>
-                    <tr>
-                        <td>8</td>
-                        <td>Dr. Ulrich Zalewski</td>
-                        <td>1747</td>
-                        <td>Biebertaler SF</td>
-                    </tr>
-                    <tr>
-                        <td>9</td>
-                        <td>Maxim Himmelspacht</td>
-                        <td>1732</td>
-                        <td>SK 1858 Gie&szlig;en</td>
-                    </tr>
-                    <tr>
-                        <td>10</td>
-                        <td>Valentin Stripling</td>
-                        <td>1694</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>11</td>
-                        <td>Hans-Peter Ewin</td>
-                        <td>1673</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>12</td>
-                        <td>Michel Stehning</td>
-                        <td>1659</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>13</td>
-                        <td>Michael Eckert</td>
-                        <td>1632</td>
-                        <td>SK Herborn</td>
-                    </tr>
-                    <tr>
-                        <td>14</td>
-                        <td>Christian Schneider</td>
-                        <td>1579</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>15</td>
-                        <td>Thomas K&uuml;hn</td>
-                        <td>1559</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>16</td>
-                        <td>Matthias Stelter</td>
-                        <td>1460</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>17</td>
-                        <td>Kai Alexander Stelter</td>
-                        <td>1294</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>18</td>
-                        <td>J&ouml;rg Risius</td>
-                        <td>1288</td>
-                        <td>Biebertaler SF</td>
-                    </tr>
-                    <tr>
-                        <td>19</td>
-                        <td>Dietrich Maier</td>
-                        <td>1221</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>20</td>
-                        <td>Schrapel</td>
-                        <td>1168</td>
-                        <td>SK 1858 Gie&szlig;en</td>
-                    </tr>
-                    <tr>
-                        <td>21</td>
-                        <td>Wladislav Geist</td>
-                        <td>-</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>22</td>
-                        <td>Christian Kokoska</td>
-                        <td>-</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                </table>
-            </div>
-        </div>
-        <div class="footer">
+        <li>
+          <a href="kalender.html">Kalender</a>
+        </li>
+        <hr>
+        <li>
+          <a href="turniere.html">Turniere</a>
+          <hr>
+          <ul>
+            <li>
+              <a href="turniere_stm.html" class=
+              "active">Stadtmeisterschaft</a>
+            </li>
             <hr>
-            &copy;<script>document.write((new Date()).getFullYear());</script> Wladislav Geist und Florian Pfeiffer, Schachfreunde Braunfels e.V.
-        </div>
-    </body>
+            <li>
+              <a href="turniere_vm.html">Vereinsmeisterschaft</a>
+            </li>
+            <hr>
+            <li>
+              <a href="turniere_schlopo.html">Schlosspokal</a>
+            </li>
+          </ul>
+        </li>
+        <hr>
+        <li>
+          <a href="mannschaften.html">Mannschaften</a>
+        </li>
+        <hr>
+        <li>
+          <a href="dwz-liste.html">DWZ-Liste</a>
+        </li>
+        <hr>
+        <li>
+          <a href="vorstand.html">Vorstand</a>
+        </li>
+        <hr>
+        <li>
+          <a href="archiv.html">Archiv</a>
+        </li>
+        <hr>
+        <li>
+          <a href="vereinsgeschichte.html">Vereinsgeschichte</a>
+        </li>
+        <hr>
+        <li>
+          <a href="impressum.html">Impressum</a>
+        </li>
+      </ul>
+      <p style="margin-top: 100px;"></p>
+      <h3 style="text-align: center;">Sponsoren:</h3>
+      <div class="imageflex"><img src="media/sparkasse_wetzlar.jpg"
+      alt="Sparkasse Wetzlar" style="width:150px; opacity: 0.9;"
+      class="center"></div>
+      <hr style="width: 150px">
+      <div class="imageflex"><img src="media/schach_niggemann.jpg"
+      alt="Schachversand E. Niggemann" style=
+      "width:150px; opacity: 0.9;" class="center"></div>
+    </div>
+    <div class="content">
+      <h2><b>Stadtmeisterschaft 2025</b></h2>
+      <hr>
+      <p>Die Schachfreunde Braunfels laden herzlich zur Teilnahme
+      an der offenen Braunfelser Stadtmeisterschaft ein. Im
+      kommenden Fr&uuml;hjahr wird das siebenrundige
+      Traditionsturnier im schweizer System zum 28. Mal
+      ausgetragen. Der Preisfond winkt mit mindestens 500&euro;,
+      mitmachen lohnt sich!</p>
+      <p>Termine: 07.02., 21.02., 07.03., 21.03., 25.04., 09.05.
+      und 23.05.</p>
+      <p><a href="documents/stm_2025_ausschreibung.pdf" target=
+      "_blank" download=
+      "ausschreibung_braunfels_stm_2025.pdf"><img src=
+      "media/pdf_logo_alte_webseite.png" style=
+      "vertical-align: middle; opacity: 0.9; margin-right: 10px;"
+      alt="PDF-Logo" width="30px" height=
+      "30px">Ausschreibung</a></p>
+      <p>Anmeldeformular:</p>
+      <form action="anmeldung_stm.php" method="post">
+        <table>
+          <tr>
+            <td><label for="name">Name:</label></td>
+            <td><input type="text" name="name" size="30" required=
+            ""></td>
+          </tr>
+          <tr>
+            <td><label for="dateofbirth">Geburtsdatum:</label></td>
+            <td><input type="date" name="dateofbirth" required=
+            ""></td>
+          </tr>
+          <tr>
+            <td><label for="email">E-Mail-Adresse:</label></td>
+            <td><input type="email" name="email" size="30"
+            required=""><br></td>
+          </tr>
+          <tr>
+            <td><label for="phone">Mobilfunknummer:</label></td>
+            <td><input type="text" name="phone" size="30"><br></td>
+          </tr>
+          <tr>
+            <td><label for="club">Verein:</label></td>
+            <td><input type="text" name="club" size="30"><br></td>
+          </tr>
+          <tr>
+            <td><label for="dwz">DWZ:</label></td>
+            <td><input type="number" name="dwz"><br></td>
+          </tr>
+          <tr>
+            <td><label for="captcha">Name des aktuellen<br>
+            Schachweltmeisters:<br>
+            (Spam-Schutz)</label></td>
+            <td><input type="text" name="captcha" required=
+            ""><br></td>
+          </tr>
+        </table><input type="submit" name="submit" value=
+        "Abschicken">
+      </form>
+      <p>Aktuelle Teilnehmerliste (Stand 29.01.2025):</p>
+      <table class="tn-liste" style="margin-left: 10pt;">
+        <tr>
+          <th>Nr.</th>
+          <th>Name</th>
+          <th>DWZ</th>
+          <th>Verein</th>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>Dr. Andreas Diehl</td>
+          <td>1948</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Badri Darsania</td>
+          <td>1902</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Toni Stehning</td>
+          <td>1882</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Ralf Stehning</td>
+          <td>1828</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Felix Hilgert</td>
+          <td>1823</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Achim Kriesch</td>
+          <td>1798</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Dominik Gerhard</td>
+          <td>1796</td>
+          <td>SV Oberursel</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>Dr. Ulrich Zalewski</td>
+          <td>1747</td>
+          <td>Biebertaler SF</td>
+        </tr>
+        <tr>
+          <td>9</td>
+          <td>Maxim Himmelspacht</td>
+          <td>1732</td>
+          <td>SK 1858 Gie&szlig;en</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>Valentin Stripling</td>
+          <td>1694</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>Hans-Peter Ewin</td>
+          <td>1673</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td>Michel Stehning</td>
+          <td>1659</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <td>Michael Eckert</td>
+          <td>1632</td>
+          <td>SK Herborn</td>
+        </tr>
+        <tr>
+          <td>14</td>
+          <td>Christian Schneider</td>
+          <td>1579</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td>Thomas K&uuml;hn</td>
+          <td>1559</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>16</td>
+          <td>Matthias Stelter</td>
+          <td>1460</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>17</td>
+          <td>Kai Alexander Stelter</td>
+          <td>1294</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>18</td>
+          <td>J&ouml;rg Risius</td>
+          <td>1288</td>
+          <td>Biebertaler SF</td>
+        </tr>
+        <tr>
+          <td>19</td>
+          <td>Dietrich Maier</td>
+          <td>1221</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>20</td>
+          <td>Schrapel</td>
+          <td>1168</td>
+          <td>SK 1858 Gie&szlig;en</td>
+        </tr>
+        <tr>
+          <td>21</td>
+          <td>Wladislav Geist</td>
+          <td>-</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>22</td>
+          <td>Christian Kokoska</td>
+          <td>-</td>
+          <td>SF Braunfels</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="footer">
+    <hr>
+    &copy;
+    <script>
+    document.write((new Date()).getFullYear());
+    </script> Wladislav Geist und Florian Pfeiffer, Schachfreunde
+    Braunfels e.V.
+  </div>
+</body>
 </html>

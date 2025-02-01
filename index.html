@@ -1,515 +1,534 @@
 <!DOCTYPE html>
 <html lang="de">
-    <head>
-        <link rel="stylesheet" href="styles.css">
-        <!-- <link rel="icon" type="image/x-icon" href="media/logo.png"> -->
-        <title>
-            Schachfreunde Braunfels e.V.
-        </title>
-    </head>
-    <body>
-        <div class="clearfix">
-            <div class="header">
-                <div class="headbox_left"><img src="media/logo.png" alt="Unser Logo" width="70px" height="70px"></div>
-                <div class="headbox_center"><h1>Schachfreunde Braunfels e.V.</h1></div>
-                <div class="headbox_right"><img src="media/wappen.png" alt="Wappen der Stadt Braunfels" width="60px" height="70px"></div>
-            </div>
-        </div>
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for HTML5 for Apple macOS version 5.8.0">
+  <link rel="stylesheet" href="styles.css">
+  <!-- <link rel="icon" type="image/x-icon" href="media/logo.png"> -->
+  <title>Schachfreunde Braunfels e.V.</title>
+</head>
+<body>
+  <div class="clearfix">
+    <div class="header">
+      <div class="headbox_left"><img src="media/logo.png" alt=
+      "Unser Logo" width="70px" height="70px"></div>
+      <div class="headbox_center">
+        <h1>Schachfreunde Braunfels e.V.</h1>
+      </div>
+      <div class="headbox_right"><img src="media/wappen.png" alt=
+      "Wappen der Stadt Braunfels" width="60px" height=
+      "70px"></div>
+    </div>
+  </div>
+  <hr>
+  <div class="clearfix">
+    <div class="sidemenu">
+      <ul>
+        <li>
+          <a href="index.html" class="active">Aktuelles</a>
+        </li>
         <hr>
-        <div class="clearfix">
-            <div class="sidemenu">
-                <ul>
-                    <li><a href="index.html" class="active">Aktuelles</a></li>
-                    <hr>
-                    <li><a href="kalender.html">Kalender</a></li>
-                    <hr>
-                    <li><a href="turniere.html">Turniere</a></li>
-                    <hr>
-                    <li><a href="mannschaften.html">Mannschaften</a></li>
-                    <hr>
-                    <li><a href="dwz-liste.html">DWZ-Liste</a></li>
-                    <hr>
-                    <li><a href="vorstand.html">Vorstand</a></li>
-                    <hr>
-                    <li><a href="archiv.html">Archiv</a></li>
-                    <hr>
-                    <li><a href="vereinsgeschichte.html">Vereinsgeschichte</a></li>
-                    <hr>
-                    <li><a href="impressum.html">Impressum</a></li>
-                </ul>
-                <p style="margin-top: 100px;">
-                    <h3 style="text-align: center;">Sponsoren:</h3>
-                    <div class="imageflex">
-                        <img src="media/sparkasse_wetzlar.jpg" alt="Sparkasse Wetzlar" style="width:150px; opacity: 0.9;", class="center">
-                    </div>
-                    <hr style="width: 150px">
-                    <div class="imageflex">
-                        <img src="media/schach_niggemann.jpg" alt="Schachversand E. Niggemann" style="width:150px; opacity: 0.9;", class="center">
-                    </div>
-                </p>
-            </div>
-            <div class="content">
-                <h2>
-                    <b>Aktuelles aus dem Verein</b>
-                </h2>
-                <hr>
-                <h3>
-                    <b><u>+++ Anmeldung f&uuml;r Braunfelser Stadtmeisterschaft 2025 gestartet+++</u></b>
-                </h3>
-                <p>
-                    Die Schachfreunde Braunfels laden herzlich zur Teilnahme an der offenen Braunfelser Stadtmeisterschaft ein. Im kommenden Fr&uuml;hjahr wird das siebenrundige Traditionsturnier im schweizer System zum 28. Mal ausgetragen. Der Preisfond winkt mit mindestens 500&euro;, mitmachen lohnt sich!
-                </p>
-                <p>
-                    Termine: 07.02., 21.02., 07.03., 21.03., 25.04., 09.05. und 23.05.
-                </p>
-                <p>
-                    <a href="documents/stm_2025_ausschreibung.pdf" target="_blank" download="ausschreibung_braunfels_stm_2025.pdf"><img src="media/pdf_logo_alte_webseite.png" style="vertical-align: middle; opacity: 0.9; margin-right: 10px;" alt="PDF-Logo" width="30px" height="30px">Ausschreibung</a>
-                    <!-- Das ist das Logo, was wir auch auf der alten Webseite bei Ionos hatten. Ich bin mir aber nicht sicher, ob wir das so verwenden dürfen. -->
-                </p>
-                <p>
-                    Anmeldeformular:
-                </p>
-                <form action="anmeldung_stm.php" method="post">
-                    <table>
-                        <tr>
-                            <td>
-                                <label for="name">Name:</label>
-                            </td>
-                            <td>
-                                <input type="text" name="name" size="30" required>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="dateofbirth">Geburtsdatum:</label>
-                            </td>
-                            <td>
-                                <input type="date" name="dateofbirth" required>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="email">E-Mail-Adresse:</label>
-                            </td>
-                            <td>
-                                <input type="email" name="email" size="30" required><br>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="phone">Mobilfunknummer:</label>
-                            </td>
-                            <td>
-                                <input type="text" name="phone" size="30"><br>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="club">Verein:</label>
-                            </td>
-                            <td>
-                                <input type="text" name="club" size="30"><br>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="dwz">DWZ:</label>
-                            </td>
-                            <td>
-                                <input type="number" name="dwz"><br>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <label for="captcha">Name des aktuellen<br>Schachweltmeisters:<br>(Spam-Schutz)</label>
-                            </td>
-                            <td>
-                                <input type="text" name="captcha" required><br>
-                            </td>
-                        </tr>
-                    </table>
-                    <input type="submit" name="submit" value="Abschicken">
-                </form>
-                <p>Aktuelle Teilnehmerliste (Stand 29.01.2025):</p>
-                <table class="tn-liste" style="margin-left: 10pt;">
-                    <tr>
-                        <th>Nr.</th>
-                        <th>Name</th>
-                        <th>DWZ</th>
-                        <th>Verein</th>
-                    </tr>
-                    <tr>
-                        <td>1</td>
-                        <td>Dr. Andreas Diehl</td>
-                        <td>1948</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>Badri Darsania</td>
-                        <td>1902</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>Toni Stehning</td>
-                        <td>1882</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>4</td>
-                        <td>Ralf Stehning</td>
-                        <td>1828</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>5</td>
-                        <td>Felix Hilgert</td>
-                        <td>1823</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>6</td>
-                        <td>Achim Kriesch</td>
-                        <td>1798</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>7</td>
-                        <td>Dominik Gerhard</td>
-                        <td>1796</td>
-                        <td>SV Oberursel</td>
-                    </tr>
-                    <tr>
-                        <td>8</td>
-                        <td>Dr. Ulrich Zalewski</td>
-                        <td>1747</td>
-                        <td>Biebertaler SF</td>
-                    </tr>
-                    <tr>
-                        <td>9</td>
-                        <td>Maxim Himmelspacht</td>
-                        <td>1732</td>
-                        <td>SK 1858 Gie&szlig;en</td>
-                    </tr>
-                    <tr>
-                        <td>10</td>
-                        <td>Valentin Stripling</td>
-                        <td>1694</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>11</td>
-                        <td>Hans-Peter Ewin</td>
-                        <td>1673</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>12</td>
-                        <td>Michel Stehning</td>
-                        <td>1659</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>13</td>
-                        <td>Michael Eckert</td>
-                        <td>1632</td>
-                        <td>SK Herborn</td>
-                    </tr>
-                    <tr>
-                        <td>14</td>
-                        <td>Christian Schneider</td>
-                        <td>1579</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>15</td>
-                        <td>Thomas K&uuml;hn</td>
-                        <td>1559</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>16</td>
-                        <td>Matthias Stelter</td>
-                        <td>1460</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>17</td>
-                        <td>Kai Alexander Stelter</td>
-                        <td>1294</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>18</td>
-                        <td>J&ouml;rg Risius</td>
-                        <td>1288</td>
-                        <td>Biebertaler SF</td>
-                    </tr>
-                    <tr>
-                        <td>19</td>
-                        <td>Dietrich Maier</td>
-                        <td>1221</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>20</td>
-                        <td>Schrapel</td>
-                        <td>1168</td>
-                        <td>SK 1858 Gie&szlig;en</td>
-                    </tr>
-                    <tr>
-                        <td>21</td>
-                        <td>Wladislav Geist</td>
-                        <td>-</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                    <tr>
-                        <td>22</td>
-                        <td>Christian Kokoska</td>
-                        <td>-</td>
-                        <td>SF Braunfels</td>
-                    </tr>
-                </table>                
-                <hr>
-                <h3>
-                    <b><u>+++ Vereinsmeisterschaft 2025 gestartet +++</u></b>
-                </h3>
-                <p>
-                    Ergebnisse der 1. Runde vom 17. Januar:
-                </p>
-                <table class="ergebnis" style="margin-left: 10pt;">
-                    <tr>
-                        <td>G&uuml;nter Hilgert</td>
-                        <td>-</td>
-                        <td>Andreas Diehl</td>
-                        <td>0 - 1</td>
-                    </tr>
-                    <tr>
-                        <td>Wladislav Geist</td>
-                        <td>-</td>
-                        <td>Badri Darsania</td>
-                        <td>0 - 1</td>
-                    </tr>
-                    <tr>
-                        <td>Christian Schneider</td>
-                        <td>-</td>
-                        <td>Toni Stehning</td>
-                        <td>0 - 1</td>
-                    </tr>
-                    <tr>
-                        <td>Thomas K&uuml;hn</td>
-                        <td>-</td>
-                        <td>Felix Hilgert</td>
-                        <td>0 - 1</td>
-                    </tr>
-                    <tr>
-                        <td>Michel Stehning</td>
-                        <td>-</td>
-                        <td>Ralf Stehning</td>
-                        <td>&half; - &half;</td>
-                    </tr>
-                    <tr>
-                        <td>Lukas Averianov</td>
-                        <td>-</td>
-                        <td>Valentin Stripling</td>
-                        <td>0 - 1</td>
-                    </tr>              
-                </table>
-                <hr>
-                <h3>
-                    <b><u>+++ Hessische Jugend ist Sieger der DJM +++</u></b>
-                </h3>
-                <div class="imageflex">
-                    <img src="media/toni_djm_2024.jpg" alt="Toni Stehning bei der DJM" style="height:200px; margin-right: 10px;">
-                    <p>
-                        Mit Toni Stehning gewann Hessen die deutsche Jugend-L&auml;ndermeisterschaft. Der Braunfelser konnte vom 2.-6. Oktober in T&uuml;bingen mit drei Punkten aus sieben Partien nennenswert zum Erfolg beitragen.
-                        <br><br>
-                        <a href="https://www.deutsche-schachjugend.de/news/2024/dlm-2024-tag-4-hessen-kroent-sich-zum-sieger-der-laender/">Mehr Informationen auf der Seite der deutschen Schachjugend.</a>
-                    </p>
-                </div>
-                <hr>
-                <h3>
-                    <b><u>+++ Kalender +++</u></b>
-                </h3>
-                <table class="kalender" style="margin-left: 10pt;">
-                    <tr>
-                        <b>
-                            <th style="width: 90px;">Datum</th>
-                            <th style="width: 120px;">Ort</th>
-                            <th>Veranstaltung</th>
-                        </b>
-                    </tr>
-                    <tr>
-                        <td>24.01.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Vereinsabend</td>
-                    </tr>
-                    <tr>
-                        <td>26.01.2025</td>
-                        <td>Raum Bagnols<br>K&ouml;nigsberg</td>
-                        <td>BOL: SF Braunfels III - SK Herborn I<br>KL: K&ouml;nigsberg I - SF Braunfels IV</td>
-                    </tr>
-                    <tr>
-                        <td>31.01.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Vereinsmeisterschaft Runde 2</td>
-                    </tr>
-                    <tr>
-                        <td>07.02.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Stadtmeisterschaft Runde 1</td>
-                    </tr>
-                    <tr>
-                        <td>09.02.2025</td>
-                        <td>Biebertal<br>Marburg</td>
-                        <td>LK West: Biebertal II - SF Braunfels I<br>LK West: Marburg II - SF Braunfels II</td>
-                    </tr>
-                    <tr>
-                        <td>14.02.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Vereinsabend</td>
-                    </tr>
-                    <tr>
-                        <td>16.02.2025</td>
-                        <td>Wieseck</td>
-                        <td>BOL: Wieseck I - SF Braunfels III</td>
-                    </tr>
-                    <tr>
-                        <td>21.02.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Stadtmeisterschaft Runde 2</td>
-                    </tr>
-                    <tr>
-                        <td>28.02.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Vereinsabend</td>
-                    </tr>
-                    <tr>
-                        <td>07.03.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Stadtmeisterschaft Runde 3</td>
-                    </tr>
-                    <tr>
-                        <td>09.03.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>LK West: SF Braunfels I - Niederbrechen II<br>LK West: SF Braunfels II - Idstein I</td>
-                    </tr>
-                    <tr>
-                        <td>14.03.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Vereinsabend</td>
-                    </tr>
-                    <tr>
-                        <td>16.03.2025</td>
-                        <td>Marburg<br>Schwalm</td>
-                        <td>BOL: Marburg IV - SF Braunfels III<br>KL: Schwalm I - SF Braunfels IV</td>
-                    </tr>
-                    <tr>
-                        <td>21.03.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Stadtmeisterschaft Runde 4</td>
-                    </tr>
-                    <tr>
-                        <td>28.03.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Vereinsabend</td>
-                    </tr>
-                    <tr>
-                        <td>30.03.2025</td>
-                        <td>Dotzheim<br>Schierstein</td>
-                        <td>LK West: Dotzheim I - SF Braunfels I<br>LK West: Schierstein I - SF Braunfels II</td>
-                    </tr>
-                    <tr>
-                        <td>04.04.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Vereinsabend</td>
-                    </tr>
-                    <tr>
-                        <td>06.04.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>BOL: SF Braunfels III - Heuchelheim I<br>KL: SF Braunfels IV - Marburg VI</td>
-                    </tr>
-                    <tr>
-                        <td>11.04.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Vereinsabend</td>
-                    </tr>
-                    <tr>
-                        <td>18.04.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Vereinsabend</td>
-                    </tr>
-                    <tr>
-                        <td>25.04.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Stadtmeisterschaft Runde 5</td>
-                    </tr>
-                    <tr>
-                        <td>27.04.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>LK West: SF Braunfels I - Idstein I<br>LK West: SF Braunfels II - Eltville I</td>
-                    </tr>
-                    <tr>
-                        <td>02.05.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Vereinsabend</td>
-                    </tr>
-                    <tr>
-                        <td>04.05.2025</td>
-                        <td>Marburg</td>
-                        <td>BOL: Marburg III - SF Braunfels III<br>KL: Marburg VII - SF Braunfels IV</td>
-                    </tr>
-                    <tr>
-                        <td>09.05.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Stadtmeisterschaft Runde 6</td>
-                    </tr>
-                    <tr>
-                        <td>11.05.2025</td>
-                        <td>Eltville<br>Biebertal</td>
-                        <td>LK West: Eltville I - SF Braunfels I<br>LK West: Biebertal II - SF Braunfels II</td>
-                    </tr>
-                    <tr>
-                        <td>16.05.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Vereinsabend</td>
-                    </tr>
-                    <tr>
-                        <td>18.05.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>BOL: SF Braunfels III - Marburg V<br>KL: SF Braunfels IV - K&ouml;nigsberg I</td>
-                    </tr>
-                    <tr>
-                        <td>23.05.2025</td>
-                        <td>Raum Bagnols</td>
-                        <td>Stadtmeisterschaft Runde 7</td>
-                    </tr>
-                </table>
-                <hr>
-                <h3>
-                    <b><u>+++ Allgemeine Informationen +++</u></b>
-                </h3>
-                <p>
-                    <u>Spiellokale:</u>
-                    <ul>
-                        <li>Haus des Gastes, F&uuml;rst-Ferdinand-Stra&szlig;e 4A, 35619 Braunfels (R&auml;ume Bagnols, Newbury und Rohrmoos-Untertal im Nebengeb&auml;ude &uuml;ber der Stadtb&uuml;cherei)</li>
-                        <li>Kurparktreff Braunfels, Am Kurpark 6B, 35619 Braunfels (Ausweichm&ouml;glichkeit)</li>
-                    </ul>
-                    <u>Zeiten:</u>
-                    <ul>
-                        <li>Jugendtraining (Montags): <span class="tab"></span>&Ouml;ffnung um 17:25, Beginn um 17:30 (bis 19:00)</li>
-                        <li>Vereinsabend (Freitags): &Ouml;ffnung um 19:00, Turniere starten um 20:15</li>
-                        <li>Mannschaftswettk&auml;mpfe (Sonntags): &Ouml;ffnung um 13:30, Partien starten um 14:00</li>
-                    </ul>
-                </p>
-                <hr>
-            </div>
-        </div>
-        <div class="footer">
-            <a href="index.html">Nach oben</a>
-            <hr>
-            &copy;<script>document.write((new Date()).getFullYear());</script> Wladislav Geist und Florian Pfeiffer, Schachfreunde Braunfels e.V.
-        </div>
-    </body>
+        <li>
+          <a href="kalender.html">Kalender</a>
+        </li>
+        <hr>
+        <li>
+          <a href="turniere.html">Turniere</a>
+        </li>
+        <hr>
+        <li>
+          <a href="mannschaften.html">Mannschaften</a>
+        </li>
+        <hr>
+        <li>
+          <a href="dwz-liste.html">DWZ-Liste</a>
+        </li>
+        <hr>
+        <li>
+          <a href="vorstand.html">Vorstand</a>
+        </li>
+        <hr>
+        <li>
+          <a href="archiv.html">Archiv</a>
+        </li>
+        <hr>
+        <li>
+          <a href="vereinsgeschichte.html">Vereinsgeschichte</a>
+        </li>
+        <hr>
+        <li>
+          <a href="impressum.html">Impressum</a>
+        </li>
+      </ul>
+      <p style="margin-top: 100px;"></p>
+      <h3 style="text-align: center;">Sponsoren:</h3>
+      <div class="imageflex"><img src="media/sparkasse_wetzlar.jpg"
+      alt="Sparkasse Wetzlar" style="width:150px; opacity: 0.9;"
+      class="center"></div>
+      <hr style="width: 150px">
+      <div class="imageflex"><img src="media/schach_niggemann.jpg"
+      alt="Schachversand E. Niggemann" style=
+      "width:150px; opacity: 0.9;" class="center"></div>
+    </div>
+    <div class="content">
+      <h2><b>Aktuelles aus dem Verein</b></h2>
+      <hr>
+      <h3><b><u>+++ Anmeldung f&uuml;r Braunfelser
+      Stadtmeisterschaft 2025 gestartet+++</u></b></h3>
+      <p>Die Schachfreunde Braunfels laden herzlich zur Teilnahme
+      an der offenen Braunfelser Stadtmeisterschaft ein. Im
+      kommenden Fr&uuml;hjahr wird das siebenrundige
+      Traditionsturnier im schweizer System zum 28. Mal
+      ausgetragen. Der Preisfond winkt mit mindestens 500&euro;,
+      mitmachen lohnt sich!</p>
+      <p>Termine: 07.02., 21.02., 07.03., 21.03., 25.04., 09.05.
+      und 23.05.</p>
+      <p><a href="documents/stm_2025_ausschreibung.pdf" target=
+      "_blank" download=
+      "ausschreibung_braunfels_stm_2025.pdf"><img src=
+      "media/pdf_logo_alte_webseite.png" style=
+      "vertical-align: middle; opacity: 0.9; margin-right: 10px;"
+      alt="PDF-Logo" width="30px" height="30px">Ausschreibung</a> 
+      <!-- Das ist das Logo, was wir auch auf der alten Webseite bei Ionos hatten. Ich bin mir aber nicht sicher, ob wir das so verwenden dürfen. --></p>
+      <p>Anmeldeformular:</p>
+      <form action="anmeldung_stm.php" method="post">
+        <table>
+          <tr>
+            <td><label for="name">Name:</label></td>
+            <td><input type="text" name="name" size="30" required=
+            ""></td>
+          </tr>
+          <tr>
+            <td><label for="dateofbirth">Geburtsdatum:</label></td>
+            <td><input type="date" name="dateofbirth" required=
+            ""></td>
+          </tr>
+          <tr>
+            <td><label for="email">E-Mail-Adresse:</label></td>
+            <td><input type="email" name="email" size="30"
+            required=""><br></td>
+          </tr>
+          <tr>
+            <td><label for="phone">Mobilfunknummer:</label></td>
+            <td><input type="text" name="phone" size="30"><br></td>
+          </tr>
+          <tr>
+            <td><label for="club">Verein:</label></td>
+            <td><input type="text" name="club" size="30"><br></td>
+          </tr>
+          <tr>
+            <td><label for="dwz">DWZ:</label></td>
+            <td><input type="number" name="dwz"><br></td>
+          </tr>
+          <tr>
+            <td><label for="captcha">Name des aktuellen<br>
+            Schachweltmeisters:<br>
+            (Spam-Schutz)</label></td>
+            <td><input type="text" name="captcha" required=
+            ""><br></td>
+          </tr>
+        </table><input type="submit" name="submit" value=
+        "Abschicken">
+      </form>
+      <p>Aktuelle Teilnehmerliste (Stand 29.01.2025):</p>
+      <table class="tn-liste" style="margin-left: 10pt;">
+        <tr>
+          <th>Nr.</th>
+          <th>Name</th>
+          <th>DWZ</th>
+          <th>Verein</th>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>Dr. Andreas Diehl</td>
+          <td>1948</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Badri Darsania</td>
+          <td>1902</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Toni Stehning</td>
+          <td>1882</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Ralf Stehning</td>
+          <td>1828</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Felix Hilgert</td>
+          <td>1823</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Achim Kriesch</td>
+          <td>1798</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Dominik Gerhard</td>
+          <td>1796</td>
+          <td>SV Oberursel</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>Dr. Ulrich Zalewski</td>
+          <td>1747</td>
+          <td>Biebertaler SF</td>
+        </tr>
+        <tr>
+          <td>9</td>
+          <td>Maxim Himmelspacht</td>
+          <td>1732</td>
+          <td>SK 1858 Gie&szlig;en</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>Valentin Stripling</td>
+          <td>1694</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>Hans-Peter Ewin</td>
+          <td>1673</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td>Michel Stehning</td>
+          <td>1659</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <td>Michael Eckert</td>
+          <td>1632</td>
+          <td>SK Herborn</td>
+        </tr>
+        <tr>
+          <td>14</td>
+          <td>Christian Schneider</td>
+          <td>1579</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td>Thomas K&uuml;hn</td>
+          <td>1559</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>16</td>
+          <td>Matthias Stelter</td>
+          <td>1460</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>17</td>
+          <td>Kai Alexander Stelter</td>
+          <td>1294</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>18</td>
+          <td>J&ouml;rg Risius</td>
+          <td>1288</td>
+          <td>Biebertaler SF</td>
+        </tr>
+        <tr>
+          <td>19</td>
+          <td>Dietrich Maier</td>
+          <td>1221</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>20</td>
+          <td>Schrapel</td>
+          <td>1168</td>
+          <td>SK 1858 Gie&szlig;en</td>
+        </tr>
+        <tr>
+          <td>21</td>
+          <td>Wladislav Geist</td>
+          <td>-</td>
+          <td>SF Braunfels</td>
+        </tr>
+        <tr>
+          <td>22</td>
+          <td>Christian Kokoska</td>
+          <td>-</td>
+          <td>SF Braunfels</td>
+        </tr>
+      </table>
+      <hr>
+      <h3><b><u>+++ Vereinsmeisterschaft 2025 gestartet
+      +++</u></b></h3>
+      <p>Ergebnisse der 1. Runde vom 17. Januar:</p>
+      <table class="ergebnis" style="margin-left: 10pt;">
+        <tr>
+          <td>G&uuml;nter Hilgert</td>
+          <td>-</td>
+          <td>Andreas Diehl</td>
+          <td>0 - 1</td>
+        </tr>
+        <tr>
+          <td>Wladislav Geist</td>
+          <td>-</td>
+          <td>Badri Darsania</td>
+          <td>0 - 1</td>
+        </tr>
+        <tr>
+          <td>Christian Schneider</td>
+          <td>-</td>
+          <td>Toni Stehning</td>
+          <td>0 - 1</td>
+        </tr>
+        <tr>
+          <td>Thomas K&uuml;hn</td>
+          <td>-</td>
+          <td>Felix Hilgert</td>
+          <td>0 - 1</td>
+        </tr>
+        <tr>
+          <td>Michel Stehning</td>
+          <td>-</td>
+          <td>Ralf Stehning</td>
+          <td>&half; - &half;</td>
+        </tr>
+        <tr>
+          <td>Lukas Averianov</td>
+          <td>-</td>
+          <td>Valentin Stripling</td>
+          <td>0 - 1</td>
+        </tr>
+      </table>
+      <hr>
+      <h3><b><u>+++ Hessische Jugend ist Sieger der DJM
+      +++</u></b></h3>
+      <div class="imageflex">
+        <img src="media/toni_djm_2024.jpg" alt=
+        "Toni Stehning bei der DJM" style=
+        "height:200px; margin-right: 10px;">
+        <p>Mit Toni Stehning gewann Hessen die deutsche
+        Jugend-L&auml;ndermeisterschaft. Der Braunfelser konnte vom
+        2.-6. Oktober in T&uuml;bingen mit drei Punkten aus sieben
+        Partien nennenswert zum Erfolg beitragen.<br>
+        <br>
+        <a href=
+        "https://www.deutsche-schachjugend.de/news/2024/dlm-2024-tag-4-hessen-kroent-sich-zum-sieger-der-laender/">
+        Mehr Informationen auf der Seite der deutschen
+        Schachjugend.</a></p>
+      </div>
+      <hr>
+      <h3><b><u>+++ Kalender +++</u></b></h3>
+      <table class="kalender" style="margin-left: 10pt;">
+        <tr>
+          <th style="width: 90px;"><b>Datum</b></th>
+          <th style="width: 120px;">Ort</th>
+          <th>Veranstaltung</th>
+        </tr>
+        <tr>
+          <td>24.01.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Vereinsabend</td>
+        </tr>
+        <tr>
+          <td>26.01.2025</td>
+          <td>Raum Bagnols<br>
+          K&ouml;nigsberg</td>
+          <td>BOL: SF Braunfels III - SK Herborn I<br>
+          KL: K&ouml;nigsberg I - SF Braunfels IV</td>
+        </tr>
+        <tr>
+          <td>31.01.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Vereinsmeisterschaft Runde 2</td>
+        </tr>
+        <tr>
+          <td>07.02.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Stadtmeisterschaft Runde 1</td>
+        </tr>
+        <tr>
+          <td>09.02.2025</td>
+          <td>Biebertal<br>
+          Marburg</td>
+          <td>LK West: Biebertal II - SF Braunfels I<br>
+          LK West: Marburg II - SF Braunfels II</td>
+        </tr>
+        <tr>
+          <td>14.02.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Vereinsabend</td>
+        </tr>
+        <tr>
+          <td>16.02.2025</td>
+          <td>Wieseck</td>
+          <td>BOL: Wieseck I - SF Braunfels III</td>
+        </tr>
+        <tr>
+          <td>21.02.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Stadtmeisterschaft Runde 2</td>
+        </tr>
+        <tr>
+          <td>28.02.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Vereinsabend</td>
+        </tr>
+        <tr>
+          <td>07.03.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Stadtmeisterschaft Runde 3</td>
+        </tr>
+        <tr>
+          <td>09.03.2025</td>
+          <td>Raum Bagnols</td>
+          <td>LK West: SF Braunfels I - Niederbrechen II<br>
+          LK West: SF Braunfels II - Idstein I</td>
+        </tr>
+        <tr>
+          <td>14.03.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Vereinsabend</td>
+        </tr>
+        <tr>
+          <td>16.03.2025</td>
+          <td>Marburg<br>
+          Schwalm</td>
+          <td>BOL: Marburg IV - SF Braunfels III<br>
+          KL: Schwalm I - SF Braunfels IV</td>
+        </tr>
+        <tr>
+          <td>21.03.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Stadtmeisterschaft Runde 4</td>
+        </tr>
+        <tr>
+          <td>28.03.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Vereinsabend</td>
+        </tr>
+        <tr>
+          <td>30.03.2025</td>
+          <td>Dotzheim<br>
+          Schierstein</td>
+          <td>LK West: Dotzheim I - SF Braunfels I<br>
+          LK West: Schierstein I - SF Braunfels II</td>
+        </tr>
+        <tr>
+          <td>04.04.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Vereinsabend</td>
+        </tr>
+        <tr>
+          <td>06.04.2025</td>
+          <td>Raum Bagnols</td>
+          <td>BOL: SF Braunfels III - Heuchelheim I<br>
+          KL: SF Braunfels IV - Marburg VI</td>
+        </tr>
+        <tr>
+          <td>11.04.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Vereinsabend</td>
+        </tr>
+        <tr>
+          <td>18.04.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Vereinsabend</td>
+        </tr>
+        <tr>
+          <td>25.04.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Stadtmeisterschaft Runde 5</td>
+        </tr>
+        <tr>
+          <td>27.04.2025</td>
+          <td>Raum Bagnols</td>
+          <td>LK West: SF Braunfels I - Idstein I<br>
+          LK West: SF Braunfels II - Eltville I</td>
+        </tr>
+        <tr>
+          <td>02.05.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Vereinsabend</td>
+        </tr>
+        <tr>
+          <td>04.05.2025</td>
+          <td>Marburg</td>
+          <td>BOL: Marburg III - SF Braunfels III<br>
+          KL: Marburg VII - SF Braunfels IV</td>
+        </tr>
+        <tr>
+          <td>09.05.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Stadtmeisterschaft Runde 6</td>
+        </tr>
+        <tr>
+          <td>11.05.2025</td>
+          <td>Eltville<br>
+          Biebertal</td>
+          <td>LK West: Eltville I - SF Braunfels I<br>
+          LK West: Biebertal II - SF Braunfels II</td>
+        </tr>
+        <tr>
+          <td>16.05.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Vereinsabend</td>
+        </tr>
+        <tr>
+          <td>18.05.2025</td>
+          <td>Raum Bagnols</td>
+          <td>BOL: SF Braunfels III - Marburg V<br>
+          KL: SF Braunfels IV - K&ouml;nigsberg I</td>
+        </tr>
+        <tr>
+          <td>23.05.2025</td>
+          <td>Raum Bagnols</td>
+          <td>Stadtmeisterschaft Runde 7</td>
+        </tr>
+      </table>
+      <hr>
+      <h3><b><u>+++ Allgemeine Informationen +++</u></b></h3>
+      <p><u>Spiellokale:</u></p>
+      <ul>
+        <li>Haus des Gastes, F&uuml;rst-Ferdinand-Stra&szlig;e 4A,
+        35619 Braunfels (R&auml;ume Bagnols, Newbury und
+        Rohrmoos-Untertal im Nebengeb&auml;ude &uuml;ber der
+        Stadtb&uuml;cherei)</li>
+        <li>Kurparktreff Braunfels, Am Kurpark 6B, 35619 Braunfels
+        (Ausweichm&ouml;glichkeit)</li>
+      </ul><u>Zeiten:</u>
+      <ul>
+        <li>Jugendtraining (Montags): &Ouml;ffnung um 17:25, Beginn
+        um 17:30 (bis 19:00)</li>
+        <li>Vereinsabend (Freitags): &Ouml;ffnung um 19:00,
+        Turniere starten um 20:15</li>
+        <li>Mannschaftswettk&auml;mpfe (Sonntags): &Ouml;ffnung um
+        13:30, Partien starten um 14:00</li>
+      </ul>
+      <hr>
+    </div>
+  </div>
+  <div class="footer">
+    <a href="index.html">Nach oben</a>
+    <hr>
+    &copy;
+    <script>
+    document.write((new Date()).getFullYear());
+    </script> Wladislav Geist und Florian Pfeiffer, Schachfreunde
+    Braunfels e.V.
+  </div>
+</body>
 </html>
