@@ -1,4 +1,4 @@
-Mon Feb  3 16:14:42 CET 2025
+Mon Feb  3 16:18:44 CET 2025
 archiv.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -74,12 +74,12 @@ line 158 column 17 - Warning: <input> attribute "type" has invalid value "email"
 line 158 column 17 - Warning: <input> proprietary attribute "required"
 line 183 column 17 - Warning: <input> attribute "type" has invalid value "number"
 line 193 column 17 - Warning: <input> proprietary attribute "required"
-line 202 column 9 - Warning: <table> lacks "summary" attribute
-line 561 column 9 - Warning: <table> lacks "summary" attribute
-line 663 column 42 - Warning: <a> proprietary attribute "download"
-line 665 column 46 - Warning: <img> attribute "width" has invalid value "30px"
-line 665 column 46 - Warning: <img> attribute "height" has invalid value "30px"
-line 696 column 9 - Warning: <table> lacks "summary" attribute
+line 200 column 9 - Warning: <table> lacks "summary" attribute
+line 359 column 9 - Warning: <table> lacks "summary" attribute
+line 461 column 42 - Warning: <a> proprietary attribute "download"
+line 463 column 46 - Warning: <img> attribute "width" has invalid value "30px"
+line 463 column 46 - Warning: <img> attribute "height" has invalid value "30px"
+line 494 column 9 - Warning: <table> lacks "summary" attribute
 kalender.html
 Config: unknown option: preserve-entities
 line 15 column 11 - Warning: <img> attribute "width" has invalid value "70px"
