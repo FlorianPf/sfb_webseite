@@ -2,7 +2,22 @@ echo Improving all HTML files using tidy.
 
 date > tidy.log
 
-for i in *.html; do
+declare -a arr=("archiv.html"
+                "dwz-liste.html"
+                "impressum.html"
+                "index.html"
+                "kalender.html"
+                "mannschaften.html"
+                "turniere_schlopo.html"
+                "turniere_stm.html"
+                "turniere_vm.html"
+                "turniere.html"
+                "vereinsgeschichte.html"
+                "vorstand.html"
+                )
+                
+for i in "${arr[@]}"
+do
     echo $i >> tidy.log
     tidy -o $i -config tidy.conf $i 2>> tidy.log
 done

@@ -27,20 +27,20 @@ tn_anzahl = 0
 with open('teilnehmerliste_stm.html', 'w') as ofh:
     ofh.write('<p>Aktuelle Teilnehmerliste (Stand {}):</p>\n'.format(datetime.datetime.today().strftime('%d.%m.%Y')))
     ofh.write('<table class="tn-liste" style="margin-left: 10pt;">\n')
-    ofh.write('    <tr>\n')
-    ofh.write('        <th>Nr.</th>\n')
-    ofh.write('        <th>Name</th>\n')
-    ofh.write('        <th>DWZ</th>\n')
-    ofh.write('        <th>Verein</th>\n')
-    ofh.write('    </tr>\n')
+    ofh.write('  <tr>\n')
+    ofh.write('    <th>Nr.</th>\n')
+    ofh.write('    <th>Name</th>\n')
+    ofh.write('    <th>DWZ</th>\n')
+    ofh.write('    <th>Verein</th>\n')
+    ofh.write('  </tr>\n')
     for row in data:
         tn_anzahl += 1
-        ofh.write('    <tr>\n')
-        ofh.write('        <td>{}</td>\n'.format(tn_anzahl))
+        ofh.write('  <tr>\n')
+        ofh.write('    <td>{}</td>\n'.format(tn_anzahl))
         for item in row:
             if item == '0':
-                ofh.write('        <td>-</td>\n')
+                ofh.write('    <td>-</td>\n')
             else:
-                ofh.write('        <td>{}</td>\n'.format(item))
-        ofh.write('    </tr>\n')
+                ofh.write('    <td>{}</td>\n'.format(item))
+        ofh.write('  </tr>\n')
     ofh.write('</table>\n')
