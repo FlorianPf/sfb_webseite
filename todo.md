@@ -18,3 +18,4 @@
 	Im Kalender könnten die vergangenen Daten automatisch entfernt werden.
 - Startseite mit Inhalt füllen
 - LaTeX-Template für Ausschreibungen aufsetzen
+- Die Warnings in tidy.log beheben
