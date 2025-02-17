@@ -1,4 +1,4 @@
-Sun Feb 16 16:52:47 CET 2025
+Mon Feb 17 10:15:11 CET 2025
 archiv.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -20,27 +20,29 @@ line 221 column 28 - Warning: <img> attribute "width" has invalid value "30px"
 line 221 column 28 - Warning: <img> attribute "height" has invalid value "30px"
 line 236 column 28 - Warning: <img> attribute "width" has invalid value "30px"
 line 236 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 459 column 13 - Warning: <table> lacks "summary" attribute
-line 480 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 480 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 495 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 495 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 510 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 510 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 525 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 525 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 540 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 540 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 555 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 555 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 570 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 570 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 585 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 585 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 699 column 13 - Warning: <table> lacks "summary" attribute
-line 720 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 720 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 908 column 9 - Warning: <table> lacks "summary" attribute
+line 590 column 13 - Warning: <table> lacks "summary" attribute
+line 611 column 28 - Warning: <img> attribute "width" has invalid value "30px"
+line 611 column 28 - Warning: <img> attribute "height" has invalid value "30px"
+line 626 column 28 - Warning: <img> attribute "width" has invalid value "30px"
+line 626 column 28 - Warning: <img> attribute "height" has invalid value "30px"
+line 641 column 28 - Warning: <img> attribute "width" has invalid value "30px"
+line 641 column 28 - Warning: <img> attribute "height" has invalid value "30px"
+line 656 column 28 - Warning: <img> attribute "width" has invalid value "30px"
+line 656 column 28 - Warning: <img> attribute "height" has invalid value "30px"
+line 671 column 28 - Warning: <img> attribute "width" has invalid value "30px"
+line 671 column 28 - Warning: <img> attribute "height" has invalid value "30px"
+line 686 column 28 - Warning: <img> attribute "width" has invalid value "30px"
+line 686 column 28 - Warning: <img> attribute "height" has invalid value "30px"
+line 701 column 28 - Warning: <img> attribute "width" has invalid value "30px"
+line 701 column 28 - Warning: <img> attribute "height" has invalid value "30px"
+line 716 column 28 - Warning: <img> attribute "width" has invalid value "30px"
+line 716 column 28 - Warning: <img> attribute "height" has invalid value "30px"
+line 1034 column 13 - Warning: <table> lacks "summary" attribute
+line 1055 column 28 - Warning: <img> attribute "width" has invalid value "30px"
+line 1055 column 28 - Warning: <img> attribute "height" has invalid value "30px"
+line 1070 column 28 - Warning: <img> attribute "width" has invalid value "30px"
+line 1070 column 28 - Warning: <img> attribute "height" has invalid value "30px"
+line 1451 column 9 - Warning: <table> lacks "summary" attribute
 dwz-liste.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -75,11 +77,14 @@ line 135 column 60 - Warning: <img> attribute "height" has invalid value "30px"
 line 140 column 11 - Warning: <a> proprietary attribute "download"
 line 141 column 59 - Warning: <img> attribute "width" has invalid value "30px"
 line 141 column 59 - Warning: <img> attribute "height" has invalid value "30px"
-line 154 column 9 - Warning: <table> lacks "summary" attribute
-line 256 column 11 - Warning: <a> proprietary attribute "download"
-line 258 column 46 - Warning: <img> attribute "width" has invalid value "30px"
-line 258 column 46 - Warning: <img> attribute "height" has invalid value "30px"
-line 289 column 9 - Warning: <table> lacks "summary" attribute
+line 158 column 11 - Warning: <a> proprietary attribute "download"
+line 159 column 40 - Warning: <img> attribute "width" has invalid value "30px"
+line 159 column 40 - Warning: <img> attribute "height" has invalid value "30px"
+line 172 column 9 - Warning: <table> lacks "summary" attribute
+line 274 column 11 - Warning: <a> proprietary attribute "download"
+line 275 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 275 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 307 column 9 - Warning: <table> lacks "summary" attribute
 kalender.html
 Config: unknown option: preserve-entities
 line 15 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -104,9 +109,10 @@ line 13 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 22 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 22 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 126 column 9 - Warning: <table> lacks "summary" attribute
-line 159 column 9 - Warning: <table> lacks "summary" attribute
-line 223 column 9 - Warning: <table> lacks "summary" attribute
-line 276 column 9 - Warning: <table> lacks "summary" attribute
+line 153 column 9 - Warning: <table> lacks "summary" attribute
+line 186 column 9 - Warning: <table> lacks "summary" attribute
+line 250 column 9 - Warning: <table> lacks "summary" attribute
+line 303 column 9 - Warning: <table> lacks "summary" attribute
 turniere_stm.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
