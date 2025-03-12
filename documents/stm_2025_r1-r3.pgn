@@ -1,4 +1,4 @@
-﻿[Event "Braunfels Stadtmeisterschaft 2025"]
+﻿[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -13,7 +13,7 @@
 
 {[%evp 17,64,51,56,42,31,27,11,10,12,-49,-5,-4,21,3,3,2,13,19,39,46,26,25,27,25,41,13,68,13,23,-7,48,-47,-38,-896,-158,-179,-170,-183,-187,-258,-255,-287,-279,-633,-530,-1042,-1033,-1314,-1336]} 1. c4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nc3 d6 6. d4 O-O 7. O-O Qe8 8. d5 a5 9. Rb1 Na6 10. a3 {A87: Holländische Verteidigung (Leningrader Variante).} Bd7 11. b4 axb4 12. axb4 {Die Stellung ist ausgeglichen.} c6 {[#]} 13. e4 $146 {[%eval -49,17]} (13. dxc6 bxc6 14. b5 Nc5 15. Nd4 Nfe4 16. Nxe4 fxe4 17. Be3 Ra2 18. Re1 Kh8 19. bxc6 Bxc6 20. Nxc6 Qxc6 {½-½ Bartell,T (2354)-Shamatava,A (2155) Continental op 51st Sturbridge 2021 (5)}) 13... fxe4 {[%eval -5,17]} (13... c5 $15 {[%eval -49,17]} 14. e5 Ng4) 14. Ng5 $11 {Weiß hat einen Bauern geopfert} Bf5 15. Ngxe4 cxd5 16. cxd5 (16. Nxf6+ Bxf6 17. Qxd5+ (17. Bxd5+ e6 $14) 17... e6 $15) 16... Rc8 17. Nxf6+ {[%mdl 64] [#] Verteidiger eliminieren} Bxf6 18. Ne4 Bg7 19. Bb2 Rc4 20. Bxg7 Kxg7 21. Re1 {[%cal Oe4d6] Und jetzt Sxd6! wäre schön.} ({Vergiftet wäre} 21. Qb3 $2 Rxe4 22. Bxe4 Bxe4 $17) (21. Qe2 $5 Qc8 22. b5 Bxe4 23. Bxe4 $14) 21... Qc8 {[%eval 68,19]} (21... Qf7 $11 {[%eval 13,17]}) 22. Qd2 {[%eval 13,18]} (22. Nd2 $14 {[%eval 68,19]} Rd4 23. Rxe7+ Kg8 24. Rc1) 22... Rc2 $1 23. Qf4 $132 {[%mdl 2048] Weiss hat Gegenspiel} Kg8 {[%eval 48,19]} (23... Bxe4 $1 $11 {[%eval -7,18]} 24. Qxe4 Rf7) 24. Rb3 {[%eval -47,20]} ({Besser ist} 24. Qh6 $1 $14 {[%eval 48,19]} Rf7 (24... Bxe4 $2 25. Bxe4 Rf7 26. Bxc2 $18) 25. Ng5) 24... Bxe4 $1 $15 25. Bxe4 $4 {[%eval -896,16][%mdl 8192] Ein Fehler, der zur Niederlage führt.} (25. Qxe4 $15 {[%eval -38,19]} Rfxf2 (25... Rcxf2 26. Bf3 $11) 26. Bf1) 25... Rxf2 $2 {[%eval -158,20]} (25... Rxf4 $19 {[%eval -896,16]} 26. gxf4 Rc1) 26. Qxf2 Rxf2 27. Kxf2 Nxb4 {[%mdl 64] ...Sc2 wäre nun fies. Verteidiger eliminieren, Hinlenkung} 28. Reb1 {[%eval -258,19]} (28. Rxb4 Qc5+ 29. Kg2 Qxb4 $19) (28. Rbe3 $142 {[%eval -187,18]}) 28... Qc5+ $19 29. Kg2 Nxd5 30. Kh3 $2 {[%eval -633,22]} (30. Bxd5+ Qxd5+ 31. Kg1 Qd4+ 32. Kg2 Qe4+ 33. Kg1 d5 34. Rxb7 d4 $15) (30. Rb5 {[%eval -279,19]} Ne3+ 31. Kh1) 30... Nc3 {Schwarz steht klar auf Gewinn.} 31. Re1 Nxe4 32. Rxe4 Qf5+ {Gewichteter Fehlerwert: Weiß=1.12/Schwarz=0.36  Verlustzug:     	Weiß=1     	---        Gewinn verpasst:   	---       	Schwarz=1     Fehler:       	Weiß=5     	Schwarz=3     Ungenau:       	Weiß=2     	---        OK:         	Weiß=3     	Schwarz=6     Bester:       	Weiß=1     	---        Stark:        	---       	Schwarz=2} 0-1
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.14"]
 [Round "1"]
@@ -28,7 +28,7 @@
 
 {[%evp 14,40,14,-9,-18,-21,-21,-18,-14,-62,-31,-42,-16,-48,-3,-29,45,30,34,-32,-25,-17,-14,-63,-75,-71,-71,-60,-61]} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nc6 5. c3 Nf6 6. Bd3 Bg4 7. O-O e6 8. Re1 Bd6 {B13: Caro-Kann (Abtausch-Variante 4.c4).} 9. h3 Bh5 10. Nbd2 O-O {Die Stellung ist ausgeglichen.} 11. b3 {[%eval -62,17]} (11. Nb3 $11 {[%eval -14,17] war vorzuziehen.}) 11... Rc8 12. Bb2 a6 13. c4 $146 (13. a3 Qc7 14. Qc2 Bg6 15. Bxg6 hxg6 16. c4 dxc4 17. bxc4 Bf4 18. Ne5 Rfd8 19. Ndf3 {1-0 Berndt,J (2165)-Wichmann,C (2306) Canarias en Red prel 3rd Playchess.com INT blitz 2004 (5)}) 13... Re8 {[%eval -3,16]} (13... Bf4 $15 {[%eval -48,16]}) 14. a3 Bf8 {[%eval 45,18]} ({Günstiger ist} 14... Bf4 $11 {[%eval -29,16]}) 15. Qb1 Bg6 16. Ne5 {[%eval -32,20]} (16. c5 $14 {[%eval 34,18]}) 16... Bxd3 17. Qxd3 Nxe5 18. dxe5 {[%eval -63,20]} (18. Rxe5 $11 {[%eval -14,17]} b6 19. a4) 18... dxc4 $15 {[%csl Od3][%mdl 64] [#] Abzugsangriff} 19. Qxd8 Rexd8 20. Nxc4 Nd5 {Gewichteter Fehlerwert: Weiß=0.28 (präzise) /Schwarz=0.21 (präzise)   Fehler:       	Weiß=3     	Schwarz=2     Ungenau:       	Weiß=2     	Schwarz=2     OK:         	Weiß=4     	Schwarz=4     Bester:       	---       	Schwarz=1} 1/2-1/2
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -43,7 +43,7 @@
 
 {[%evp 18,48,-4,-5,0,0,51,21,123,142,144,144,195,194,199,188,197,197,179,192,208,210,229,226,242,191,219,115,266,103,199,0,269]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 8. Be3 O-O 9. Bxc6 bxc6 10. O-O $1 Bxd4 {C56: Zweispringerspiel.} 11. Qxd4 Ba6 $146 {[%eval 51,19]} (11... f6 $11 {[%eval 0,19]}) (11... c5 12. Qd3 Bf5 13. Qe2 Re8 14. f3 Nf6 15. Bxc5 Nd7 16. Qf2 Rxe5 17. Nc3 Nxc5 18. Qxc5 Bxc2 {½-½ Kravtsiv,M (2598)-Dubov,D (2708) Airthings Masters Div 2 W Chess.com INT rapid 2023 (1.4)}) 12. Rd1 Bc4 {[%eval 123,19] [#]} (12... f6 $1 $11 {[%eval 21,19] hält das Gleichgewicht.}) 13. Nc3 $1 $16 Nxc3 (13... c5 $2 14. Qxc4 dxc4 15. Rxd8 (15. Nxe4 $2 Qb8 $19) 15... Rfxd8 16. Nxe4 $18) 14. Qxc3 {Schwarz muss nun b3 beachten.} Qc8 {[%eval 195,19] Schwarz hat schwache schwarze Felder} (14... Re8 $16 {[%eval 144,20]} 15. b3 Ba6) 15. b3 $18 Ba6 16. Qxc6 Bb7 17. Qc5 Re8 {[%cal Bf8e8,Be8e6,Be6g6][%mdl 32]} 18. f4 Re6 19. Rd2 Rg6 20. Rf1 Rc6 21. Qe7 (21. Qxd5 $6 Rxc2 22. Qd3 Rxd2 23. Qxd2 (23. Bxd2 $2 Ba6 $17 {[%mdl 64] Spiess}) 23... a5) 21... Re6 22. Qc5 {[%eval 115,18]} (22. Qb4 $18 {[%eval 219,19]}) 22... Rc6 $16 23. Qe7 {[%eval 103,18] [#]} ({Jedoch nicht} 23. Qxd5 $6 Rxc2 24. Qd3 Rxd2 25. Qxd2 (25. Bxd2 $2 {zu gefräßig.} Ba6 $19 {[%mdl 64] Spiess, Ablenkung}) 25... a5 $16) (23. Qd4 $18 {[%eval 266,18] bietet bessere Gewinnchancen.}) 23... Re6 24. Qc5 {[%eval 269,18]} (24. Qb4 $142 {[%eval 199,19]}) 24... Rc6 $1 {[%mdl 32768] Gewichteter Fehlerwert: Weiß=0.42/Schwarz=0.19 (sehr präzise)  Ein unerwartetes Ergebnis.  Gewinn verpasst:   	Weiß=1     	---        Fehler:       	Weiß=2     	Schwarz=3     Ungenau:       	Weiß=1     	---        OK:         	Weiß=6     	Schwarz=5     Bester:       	---       	Schwarz=2     Stark:        	---       	Schwarz=1} 1/2-1/2
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -57,7 +57,7 @@
 
  1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -72,7 +72,7 @@
 
 {[%evp 17,103,-12,22,-6,0,-43,108,1,4,-19,-12,-37,-30,-27,-21,-35,-9,0,8,17,15,-3,30,27,31,17,50,14,19,0,33,15,40,15,97,130,146,180,180,176,146,233,246,118,198,150,192,165,253,178,289,264,616,439,632,430,1403,728,1283,800,747,490,1322,321,353,344,342,96,247,90,132,76,112,50,140,129,180,156,184,151,393,396,1238,402,2025,1884,29977,29977]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O d6 7. b4 Bb6 8. a4 a6 9. Be3 Bg4 10. Nbd2 {C54: Italienische Partie (Hauptvariante).} d5 {Droht stark ...Lxe3.} 11. exd5 {[%eval -43,18]} (11. Bxb6 $11 {[%eval 0,18]} cxb6 12. exd5 Nxd5 13. Ne4) 11... Bxe3 $2 {[%eval 108,16]} (11... Nxd5 $15 {[%eval -43,18] bleibt weiter vorne.} 12. Bxb6 Nxb6) 12. fxe3 {[%eval 1,17]} (12. dxc6 $16 {[%eval 108,16]} Bxd2 13. cxb7 Bxc3 14. bxa8=B (14. bxa8=Q Qxa8 15. Rb1 Bh5 $18) 14... Qxa8 15. Rb1) 12... Nxd5 $11 13. Bxd5 (13. Qe1 {wäre vielleicht verwirrender.} Nxc3 14. b5 Nb4 15. bxa6 Rxa6 16. Bxa6 Nc2 17. Qf2) 13... Qxd5 {[%emt 0:00:03]} 14. Qc2 Rad8 $146 ({Vorgänger:} 14... f5 15. e4 fxe4 16. Nxe4 Bxf3 17. Rxf3 Rxf3 18. gxf3 Rf8 19. Rf1 Ne7 20. Qe2 Nf5 {1-0 Deniz,E-Ozen,Z TUR-ch U07/12 Girls Antalya 2023 (5)}) 15. d4 exd4 16. exd4 Bf5 {Wehrt De4 ab} 17. Qb3 Ne7 18. c4 Qd6 19. b5 {Verhindert Sc6} axb5 20. axb5 Ra8 21. Rfe1 b6 22. Qe3 {[%eval 14,19]} (22. Ra6 $14 {[%eval 50,18] kam in Betracht.}) 22... Ng6 23. d5 Rxa1 24. Rxa1 {[%emt 0:00:02]} Qf6 25. Qd4 {Droht Dxf6.} Qxd4+ {[%eval 97,16]} (25... Qd6 $11 {[%eval 15,18] hält das Gleichgewicht.}) 26. Nxd4 $16 Bd3 27. Ra3 $1 Ne5 {[%cal Of7f6]} 28. Nc6 Nxc6 29. bxc6 $18 {[%mdl 4096] Endspiel KTL-KTS} Bf5 {[#]} 30. Ra7 {[%eval 118,19]} (30. Nf3 $1 $18 {[%eval 246,20][%cal Rf3d4] ist der präzise Gewinnweg.} Rc8 31. Nd4) 30... Rc8 $16 31. Kf2 {[%eval 150,20]} (31. Nb3 $18 {[%eval 198,24] Droht Sd4 und aus.} Bd3 32. Nd4 Bxc4 33. d6 cxd6 34. Nf5) 31... Kf8 {[%eval 192,21]} (31... g6 $16 {[%eval 150,20]} 32. Ke3 Re8+ 33. Kd4 Re7) 32. Ke3 $18 Ke7 {[%eval 253,19]} (32... g6 $142 {[%eval 165,21]} 33. Kd4 g5) 33. Nb3 Kd8 {[%eval 289,24]} (33... Re8 {[%eval 178,18]}) 34. Nd4 Bb1 {[%eval 616,19]} (34... g6 {[%eval 264,23]} 35. Nb5 h5) 35. Nb5 g6 {[%eval 632,22]} (35... Bf5 $142 {[%eval 439,22]} 36. Rb7 h5) 36. Kd4 f5 {[%eval 1403,20]} (36... Bf5 $142 {[%eval 430,23]} 37. Rb7 (37. c5 bxc5+ 38. Kxc5 Bd3 $16) 37... f6) 37. g3 g5 38. Ke5 Bd3 39. Kd4 Bf1 {[%eval 1322,19]} (39... Be4 $142 {[%eval 490,22]} 40. Ke5 Bd3) 40. Kc3 $2 {[%eval 321,23]} (40. d6 {[%eval 1322,19]} Bg2 41. d7 (41. Rxc7 Bxc6 42. Ke5 Bxb5 $16) (41. dxc7+ Ke7 $18) (41. Nxc7 Rxc7 42. Rxc7 f4 $18) 41... Bxc6 42. dxc8=Q+ (42. dxc8=B Bxb5 43. Bxf5 Bc6 $18) (42. dxc8=R+ Kxc8 43. Rxc7+ Kd8 $18) 42... Kxc8 43. Rxc7+ Kd8 44. Rxc6 f4 45. Ke5 (45. Rxb6 Ke7 $18)) 40... f4 41. gxf4 gxf4 42. Nd4 {[%eval 96,21] Pariert f3.} (42. d6 $18 {[%eval 342,21] jetzt d7 und aus.} Bh3 43. Kd4 (43. Rxc7 Rxc7 {[%mdl 64] Verteidiger eliminieren} 44. dxc7+ Kc8 $14) (43. Nxc7 f3 $18) (43. dxc7+ Ke7 $18)) 42... Bh3 {[%eval 247,21]} (42... Ke7 $16 {[%eval 96,21]} 43. Nb5 Kf6 44. Nxc7 f3) 43. Ra2 $2 {[%eval 90,20]} (43. Kd3 $18 {[%eval 247,21] und Weiss behält klar die Oberhand.}) 43... Ke7 $16 {[#]} 44. Rf2 $1 {Weiß steht aktiver.} Rf8 45. Kd3 {[%eval 50,19]} (45. Nb5 $16 {[%eval 112,18]} Kd8 46. Nd4) 45... Rf7 {[%eval 140,19]} (45... Bf5+ $1 $14 {[%eval 50,19]} 46. Nxf5+ Rxf5) 46. Ke4 {[%cal Od4b5]} Kd6 {[%eval 180,18]} (46... f3 $16 {[%eval 129,18]}) 47. Nb5+ Kc5 48. Rxf4 Rxf4+ {[%eval 393,18]} (48... Rg7 $16 {[%eval 151,18] war angesagt.}) 49. Kxf4 $18 Kxc4 $2 {[%eval 1238,22]} (49... Bf1 {[%eval 396,24]} 50. Nxc7 Bxc4) 50. Nxc7 Kc5 {[%eval 2025,20]} (50... Bg2 $142 {[%eval 402,18]} 51. Ke5 b5) 51. Ke5 Bg2 52. Ne6+ {Gewichteter Fehlerwert: Weiß=0.76/Schwarz=1.12  Verlustzug:     	---       	Schwarz=1     Gewinn verpasst:   	Weiß=1     	---        Fehler:       	Weiß=7     	Schwarz=13    Ungenau:       	---       	Schwarz=6     OK:         	Weiß=6     	Schwarz=9     Bester:       	Weiß=4     	Schwarz=4     Stark:        	Weiß=1     	---} 1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -87,7 +87,7 @@
 
 {[%evp 9,147,-25,35,22,20,8,20,-65,19,-61,-1,-6,4,18,11,17,13,-24,-33,-41,-46,-56,-32,-43,-50,-82,-71,-128,-116,-132,-101,-129,-103,-346,-136,-123,-128,-146,-160,-175,-178,-173,-172,-342,-168,-172,-151,-163,-163,-213,-59,-127,-127,-122,-126,-126,-81,-81,-74,-96,-22,-21,0,-65,-70,-91,-81,-99,-8,-75,-58,-96,-48,-115,-44,-57,-49,-49,-50,-104,0,0,5,24,24,-12,-13,-31,-9,-32,0,0,3,0,1,0,158,179,205,205,533,637,831,819,657,686,802,754,804,813,808,749,779,754,794,793,874,874,882,882,946,946,2008,1293,1573,1333,1589,1233,1321,786,738,755,693,788,755,784,855,842,904,29979]} 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 c5 {[%eval 35,18]} (5... Be7 $11 {[%eval -25,17]}) 6. Bb5+ $1 $14 {C29: Wiener Partie.} Nc6 7. Nxd5 Qxd5 8. d3 $146 {[%eval -65,18] [#]} ({Weiss kommt nicht vorbei an} 8. Qe2 $1 $11 {[%eval 20,18]}) (8. Qe2 Bg4 9. d3 Bxf3 10. Qxf3 Qxe5 11. Bxc6+ bxc6 12. O-O O-O-O 13. Bf4 Qd4+ 14. Be3 {½-½ Pervai,L (1793)-Birovecz,B (1879) HUN-chT2 Erkel 1718 Hungary 2017 (8.10)}) 8... Bg4 {[%eval 19,17]} 9. dxe4 {[%eval -61,17]} (9. Qe2 $11 {[%eval 19,17]}) 9... Qxe4+ {[%eval -1,19]} (9... Qxd1+ $1 $15 {[%eval -61,17]} 10. Kxd1 O-O-O+ 11. Bd2 (11. Ke1 Bxf3 12. gxf3 Nd4 $17) 11... Nxe5) 10. Qe2 $132 {[%mdl 2048] Weiss leistet Widerstand} Bf5 (10... Qxe2+ {vereinfacht} 11. Kxe2 Bd7 12. Bc4 Be7) 11. Be3 {Sg5 ist jetzt zu beachten} Be7 {[%cal Oe8g8]} 12. O-O O-O 13. Bd3 {[%eval -24,19]} (13. Qf2 {[%eval 13,18] ist eher angebracht.} Qxc2 14. Qxc2 Bxc2 15. Bxc6 bxc6 16. Rfc1) 13... Qg4 $1 14. h3 Bxd3 15. cxd3 Qg6 16. Rad1 Rad8 17. a3 Rfe8 18. Bc1 {[%eval -128,19]} (18. Kh1 $142 {[%eval -71,17]}) 18... Rd5 $17 19. Qe4 Qe6 20. b4 Nxe5 21. Bb2 $2 {[%eval -346,16]} (21. Nxe5 $17 {[%eval -103,19]} Qxe5 (21... Rxe5 22. Qxb7 Qd5 23. Qxd5 $17) 22. Qxe5 Rxe5 23. d4 cxd4 24. Bb2) 21... Nxf3+ $2 {[%eval -136,15]} (21... Nxd3 $19 {[%eval -346,16] ist viel giftiger.} 22. Qxe6 fxe6) 22. Qxf3 f6 (22... cxb4 $2 23. Rde1 Bc5+ 24. d4 Qxe1 (24... Bxd4+ $2 25. Bxd4 Rd7 26. Rxe6 $18) 25. Qxf7+ Kh8 26. dxc5 $18) 23. Rfe1 Qf5 24. Qg3 cxb4 25. axb4 Qd7 {[%cal Oe8c8]} 26. Re4 $2 {[%eval -342,17]} (26. Bc3 {[%eval -172,16]}) 26... Bd6 {[%eval -168,17]} (26... Bc5+ $142 {[%eval -342,17]} 27. bxc5 Rxe4 {[%mdl 64] Fesselung} 28. Bxf6 Re8 (28... Rxc5 29. Bxg7 Qxg7 30. Qb8+ Qf8 31. Qg3+ Qg7 32. Qb8+ Qf8 33. Qg3+ Qg7 $16)) 27. Qe3 $19 Rxe4 28. Qxe4 Bc7 29. Rc1 {[%eval -213,19]} (29. d4 {[%eval -163,17] ist eine bessere Verteidigung.}) 29... Be5 $2 {[%eval -59,18]} (29... Rxd3 30. Qc4+ Kh8 31. Qxc7 $18) (29... Bb6+ $19 {[%eval -213,19]} 30. d4 Bxd4+ 31. Bxd4 Rxd4) 30. Bxe5 {[%eval -127,16]} (30. Rc8+ $1 $15 {[%eval -59,18]} Kf7 (30... Qxc8 31. Qxd5+ Kf8 32. Bxe5 $11) 31. Bxe5 Rxe5 32. Qc4+ Kg6 33. Rc7) 30... Rxe5 $15 {[%mdl 4096] Endspiel KDT-KDT. Schwarz hat einen Mehrbauern.} (30... fxe5 31. Rc8+ Kf7 32. Qc4 $14) 31. Qc4+ Kf8 32. Rc3 Qe8 {[%eval -81,18]} (32... a6 $142 {[%eval -126,17]} 33. d4 b5) 33. d4 $17 Re1+ 34. Kh2 Qe6 {[%eval -22,19]} (34... Re7 $17 {[%eval -96,17]} 35. d5 Qb8+ 36. Kg1 Qe5) 35. Qc5+ $11 Kf7 36. Qh5+ {[%eval -65,20]} (36. Qc7+ $1 $11 {[%eval 0,19]} Qe7 37. Qg3 (37. Qxe7+ $2 Rxe7 38. Ra3 b6 $19)) 36... Kg8 $15 37. Qc5 {Es drohte Dd6+} h6 (37... g5 38. Qc7 Qd5 39. Qc5 Qd8) 38. Qc7 Qe7 {[%eval -8,21]} (38... Qd5 $17 {[%eval -99,20]} 39. Qf4 Re4) 39. b5 {[%eval -75,19]} (39. Qb8+ $11 {[%eval -8,21] bleibt in der Remisbreite.} Kh7 40. Qg3) 39... Re6 (39... Qe4 {wäre vielleicht verwirrender.} 40. Qc4+ Kh7 41. Qd3 f5) 40. Qf4 {[%eval -96,18]} (40. Rc4 $15 {[%eval -58,18]}) 40... Qd6 {[%eval -48,23]} (40... Rd6 $17 {[%eval -96,18]} 41. Ra3 a6) 41. Kg3 {[%eval -115,16]} ({Günstiger ist} 41. Qxd6 $15 {[%eval -48,23]} Rxd6 42. Rc8+ Kh7 43. Rc7) 41... Qxf4+ {[%eval -44,13]} (41... Qd5 $17 {[%eval -115,16][%cal Oe6e4] Und jetzt ...Te4! wäre schön.} 42. Rc5 Qd7) 42. Kxf4 $17 {KT-KT. Schwarz hat einen Mehrbauern.} Kf7 43. d5 g5+ 44. Kf3 {[%eval -104,22] [#]} (44. Kg4 $15 {[%eval -50,22]} Re4+ 45. Kf3) 44... Rd6 {[%eval 0,22]} (44... Rb6 $1 $17 {[%eval -104,22]} 45. Rc7+ Ke8) 45. Rc7+ $11 Kg6 46. Ke4 Rb6 47. Rc5 {[%eval -12,19]} (47. Kd4 $142 {[%eval 24,21]} Rxb5 48. d6) 47... h5 48. Kd4 Kf5 49. g3 h4 50. g4+ Kf4 51. Rc3 a6 (51... Rxb5 $2 52. d6 Rb6 53. Kd5 Rb5+ 54. Rc5 $18) 52. bxa6 bxa6 {[%eval 158,21] [#]} (52... Rxa6 $11 {[%eval 0,22]} 53. Rb3 f5 54. gxf5 Ra4+ 55. Kd3 (55. Kc5 Ra5+ 56. Kd6 Kxf5 $14) 55... Kxf5) 53. Kc5 $1 $16 Rb5+ 54. Kc6 Ke5 {[%eval 533,19]} (54... f5 {[%eval 205,22] ist zäher.} 55. gxf5 Rb8) 55. d6 $18 {[%cal Bd5d6,Bd6d7][%mdl 32] Weiß steht klar auf Gewinn.} Rb1 56. Kc7 f5 57. gxf5 Rd1 58. d7 Kxf5 59. Rc4 (59. d8=B a5 $14) 59... g4 60. Rxg4 (60. d8=B g3 61. Bxh4 (61. Rxh4 $2 {geht unter.} g2 $19) 61... g2 $11) (60. hxg4+ Kg5 $11) 60... Rc1+ 61. Kd8 Kf6 62. Rxh4 Kf7 63. Rh7+ Kg8 64. Re7 Kf8 65. Re6 {Beabsichtigt Tf6+ und Matt.} Rc3 66. h4 Rh3 67. Rh6 {[%cal Od8c7]} a5 68. Ra6 {Kc7 wäre nun fies.} Rxh4 69. Rxa5 Kf7 70. Rc5 Rh8+ 71. Kc7 Ke7 72. Re5+ Kf6 73. Re1 ({Lieber nicht} 73. d8=Q+ Rxd8 74. Kxd8 Kxe5 $11) 73... Rh7 74. Kc8 {Weiß hat die Chance genutzt.   Gewichteter Fehlerwert: Weiß=0.34/Schwarz=0.45  Verlustzug:     	Weiß=1     	---        Gewinn verpasst:   	---       	Schwarz=1     Fehler:       	Weiß=13    	Schwarz=12    Ungenau:       	Weiß=1     	Schwarz=2     OK:         	Weiß=12    	Schwarz=14    Bester:       	Weiß=1     	Schwarz=1     Stark:        	Weiß=1     	Schwarz=1} 1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -102,7 +102,7 @@
 
 {[%evp 16,58,31,29,54,54,58,39,26,33,81,38,84,80,81,71,56,43,22,0,17,21,13,15,24,0,135,135,90,516,442,457,323,565,363,333,641,1,1,267,641,1,1,0,583]} 1. Nf3 e6 2. e4 c5 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 Bb4 7. Bd3 O-O 8. O-O Bxc3 9. bxc3 d5 {B45: Sizilianisch (Klassisches System).} 10. Nxc6 bxc6 11. e5 Nd7 $1 {Weiß steht etwas besser.} 12. f4 g6 $146 {[%eval 81,19] Gegen Dh5 gerichtet. Schwarz hat schwache schwarze Felder} (12... Qa5 $14 {[%eval 33,18] sieht stärker aus.}) (12... f5 13. exf6 Nxf6 14. Bc5 Re8 15. Qd2 Qa5 16. Bd4 Ne4 17. Bxe4 dxe4 18. Qe3 Qd5 {1-0 Priansh,D (1754)-Tenguundalai,G (1281) World Cup U12 Prel Tornelo INT rapid 2021 (5)}) 13. Qf3 {[%eval 38,18]} (13. Qe1 $16 {[%eval 81,19]}) 13... Bb7 {[%eval 84,18]} (13... Qa5 $14 {[%eval 38,18]}) 14. Rab1 $16 Qc7 15. h4 {[%cal Bh2h4,Bh4h5][%mdl 32] Weiß hat aktiveres Spiel.} c5 16. h5 c4 {[#]} 17. Bxc4 {[%mdl 64] Ld3 wäre nun fies. Ablenkung} Nb6 18. Bxb6 axb6 19. Bd3 $36 {[%mdl 2048] Weiss hat Initiative. Gegenspiel Schwarz} Rxa2 20. Qg4 (20. Qf2 {vereinfacht} Ba6 21. Qxb6 Qxb6+ 22. Rxb6 Bxd3 23. cxd3 Kg7 24. hxg6 hxg6 25. Rb3) 20... Kg7 {[%eval 135,18]} (20... Ba6 $11 {[%eval 0,16] hält das Gleichgewicht.}) 21. Qg5 f5 {[%eval 90,17]} ({Besser ist} 21... Kg8 {[%eval 135,17]} 22. h6 f6 23. exf6 Qxc3 24. Rxb6 Bc8) 22. exf6+ $2 {[%eval 516,18][%mdl 8192] Weiß greift an} (22. Rf3 $16 {[%eval 90,17]}) 22... Rxf6 $18 {[#]} 23. h6+ $1 Kf7 {[#]} 24. f5 $1 {[%mdl 512]} exf5 {[#]} 25. Bxf5 $1 {[%mdl 512]} Qc5+ 26. Kh2 $2 {[%eval 1,19]} (26. Kh1 $18 {[%eval 641,17][%cal Of5g6]} Rxf5 27. Rxf5+ gxf5 28. Qg7+ {[%mdl 64] Spiess} Ke6 29. Qxb7) 26... Qd6+ $11 (26... Rxf5 $2 27. Rxf5+ gxf5 28. Qxf5+ (28. Qg7+ Ke8 $18) 28... Ke8 29. Re1+ (29. Qxh7 Qxc3 30. Rf1 Qe5+ 31. Kh1 Ra1 $18) 29... Kd8 30. Qxh7 $18) 27. Kg1 $2 {[%eval 267,19][%mdl 8192]} (27. Kh1 $11 {[%eval 1,20]} gxf5 28. Rxf5 (28. Qg7+ Ke8 $15) 28... Rxf5 (28... Rxc2 29. Re1) 29. Qxf5+ Qf6 (29... Kg8 $2 30. Qg5+ Kf7 31. Rf1+ Ke8 32. Qg8+ Kd7 33. Qxh7+ Kc6 34. Qg7 $18) 30. Qxf6+ {[%mdl 64] Verteidiger eliminieren} (30. Qxh7+ Kf8 $14) 30... Kxf6 31. Rxb6+ Kg5 32. Rxb7) 27... Qc5+ $2 {[%eval 641,19]} (27... Rxf5 {[%eval 267,19]} 28. Rxf5+ gxf5) 28. Kh2 $2 {[%eval 1,19]} ({Weiss kommt nicht vorbei an} 28. Kh1 $18 {[%eval 641,19][%cal Of5g6] Beabsichtigt Lxg6+! und Matt.} Rxf5 29. Rxf5+ gxf5 30. Qg7+ Ke6 31. Re1+ (31. Qxb7 Ke5 $18) (31. Qxh7 Qxc3 32. Qg6+ Ke7 $16) 31... Kd6 32. Qe7+ (32. Qxb7 Ra5 $18) (32. Qxh7 Kc6 $18) 32... Kc6 33. Qe8+ (33. Qxh7 Qf2 $11) (33. Re6+ Kb5 $11) 33... Kd6 34. Re6+ Kc7 35. Re7+ {[%mdl 64] Spiess} Qxe7 36. Qxe7+ Kb8 37. Qxh7) 28... Qd6+ (28... Rxf5 $2 29. Rxf5+ gxf5 30. Qxf5+ (30. Qg7+ Ke8 $18) 30... Ke8 31. Re1+ (31. Qxh7 Qxc3 32. Qg8+ Ke7 $16) 31... Kd8 32. Qxh7 $18) 29. Kg1 $2 {[%eval 583,17][%mdl 8192]} (29. Kh1 $11 {[%eval 1,21]} gxf5 30. Rxf5 (30. Qg7+ Ke8 $17) 30... Rxf5 (30... Rxc2 31. Re1) 31. Qxf5+ Qf6 (31... Kg8 $2 32. Qg5+ Kf7 33. Qg7+ {[%csl Of7,Oh7][%mdl 64] Spiess, Doppelangriff} Ke8 34. Re1+ Kd8 35. Qxh7 $18) 32. Qxf6+ {[%mdl 64] Verteidiger eliminieren} (32. Qxh7+ Kf8 $14) 32... Kxf6 33. Rxb6+ Kg5 34. Rxb7) 29... Qc5+ {[%mdl 32768] Gewichteter Fehlerwert: Weiß=0.56/Schwarz=0.53 Ein unerwartetes Ergebnis.  Gewinn verpasst:   	Weiß=2     	---        Fehler:       	Weiß=2     	Schwarz=5     OK:         	Weiß=6     	Schwarz=3     Bester:       	---       	Schwarz=6     Stark:        	Weiß=1     	Schwarz=1     Brilliant:      	Weiß=1     	---} (29... Rxf5 $2 {ist das falsche Schlagen.} 30. Rxf5+ gxf5 31. Qxf5+ (31. Qg7+ Ke8 $18) 31... Ke8 (31... Kg8 $2 32. Qg5+ Kf7 33. Re1 $18) 32. Re1+ (32. Qxh7 Qc5+ 33. Kh1 Qxc3 $18) 32... Kd8 33. Qxh7 Qc5+ 34. Kh1 $18) 1/2-1/2
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -117,7 +117,7 @@
 
 {[%evp 18,41,32,21,30,-2,3,4,46,39,66,-30,-43,-96,15,-24,12,12,46,-17,9,0,17,11,138,138]} 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6 8. Bd3 Bg4 9. O-O e6 10. c3 Bd6 {B17: Caro-Kann-Verteidigung.} 11. Be2 Qc7 12. h3 h5 {[%eval 46,18]} 13. Bg5 (13. hxg4 hxg4 14. Re1 (14. Ne5 Bxe5 15. dxe5 Rd8 $19) 14... gxf3 15. Bxf3 O-O-O $15) 13... Bf5 $146 (13... O-O-O 14. Qc2 Kb8 15. Rfe1 Bf5 16. Bd3 Bxd3 17. Qxd3 Rd7 18. Ne5 Bxe5 19. Rxe5 Qxe5 20. dxe5 Rxd3 21. exf6 {0-1 Molera Valero,M-Sanchez Jerez,E (2033) Narciso Yepes Memorial Lorca 2004 (9)}) 14. Nd2 {[%eval -30,18]} (14. Bd3 $14 {[%eval 66,18]}) 14... Ng4 $11 {[%cal Od6e7]} 15. Bh4 {[%eval -96,19] [#]} (15. hxg4 $2 Bh2+ 16. Kh1 hxg4 $19) (15. Nc4 $15 {[%eval -43,18]}) 15... Nf6 {[%eval 15,18]} (15... g5 $1 $17 {[%eval -96,19] ...Lh2+ soll folgen} 16. Bxg5 (16. hxg4 $2 {verliert.} Bh2+ 17. Kh1 hxg4 $19) 16... Be7 17. Bxg4 (17. hxg4 hxg4 18. f4 Bxg5 $17) 17... hxg4 18. Bxe7 Kxe7) 16. Bg5 {[%eval -24,17]} (16. Nf3 {[%eval 15,18] verdient Beachtung.}) 16... O-O-O {[%eval 12,17]} (16... Nd5 $142 {[%eval -24,17]}) 17. Nc4 $36 {[%mdl 2048] Weiss hat Initiative.} Rdg8 18. Qa4 {[%eval -17,20]} (18. Nxd6+ $14 {[%eval 46,20]} Qxd6 19. Re1) 18... Ne4 19. Nxd6+ Qxd6 20. Be3 {Ein starkes Läuferpaar.} Kb8 {[%eval 138,17] [#]} (20... a6 $11 {[%eval 11,17]}) 21. d5 $1 {[%mdl 512] Gewichteter Fehlerwert: Weiß=0.33/Schwarz=0.44  Fehler:       	Weiß=4     	Schwarz=4     Ungenau:       	Weiß=1     	Schwarz=3     OK:         	Weiß=4     	Schwarz=2     Brilliant:      	Weiß=1     	---} 1/2-1/2
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -132,7 +132,7 @@
 
 {[%evp 21,84,-3,0,-50,-17,-20,13,-41,22,22,33,27,32,27,38,52,50,14,12,-1,13,1,54,13,-2,5,23,2,15,-41,-36,-41,3,-29,-9,-476,-461,-688,-246,-219,-251,-237,-206,-206,-212,-211,-179,-230,-221,-243,-187,-192,-118,-249,-246,-256,-241,-433,-245,-237,-246,-256,-225,-387,-397]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3 d6 9. a4 Bg4 10. c3 Rb8 11. Nbd2 b4 12. Bc2 $146 {[%eval -50,18] C90: Spanische Partie (Abweichungen von der Hauptvariante).} (12. h3 $11 {[%eval 0,17]} Bxf3 13. Nxf3) (12. h3 Bh5 13. g4 Bg6 14. Nh4 Kh8 15. Bc4 d5 16. Nxg6+ fxg6 17. exd5 Nxd5 18. Ne4 bxc3 19. bxc3 Na5 {½-½ Carlsen,M (2714)-Kamsky,G (2714) Moscow Tal Memorial 2nd 2007 (9)}) 12... h6 13. Nf1 Re8 14. Ng3 {[%eval -41,17]} (14. Ne3 $11 {[%eval 13,17]}) 14... Bf8 {[%eval 22,17]} (14... bxc3 $15 {[%eval -41,17]} 15. bxc3 d5) 15. h3 $11 Bd7 16. d4 bxc3 17. bxc3 exd4 18. cxd4 Nb4 19. Bb1 {[%eval 14,17]} (19. Bd2 $14 {[%eval 50,18]}) 19... c5 20. Bd2 cxd4 21. Nxd4 Nc6 {[%eval 54,17]} (21... g6 $11 {[%eval 1,17]}) 22. Ndf5 {[%eval 13,16]} (22. Nxc6 $1 $14 {[%eval 54,17]} Bxc6 23. Qc2) 22... d5 23. exd5 Rxe1+ 24. Qxe1 (24. Bxe1 $5 Nb4 25. d6 $14) 24... Nxd5 25. Qe4 {[%eval -41,19]} (25. Be4 $11 {[%eval 15,17]} Ncb4 26. Qd1) 25... Nf6 $15 26. Qe1 Bc5 {[%eval 3,17]} (26... Be6 $15 {[%eval -41,17] verdient Beachtung.}) 27. Be3 Bb4 28. Qe2 {[%eval -476,15][%mdl 8192] [#]} (28. Qc1 $11 {[%eval -9,18] und Weiss steht sicher.}) 28... Bc3 $19 29. Qa2 {[%eval -688,17]} (29. Bf4 $142 {[%eval -461,18]} Bxa1 30. Bxb8 Qxb8 31. Bd3) 29... Bxa1 $2 {[%eval -246,17]} (29... Be6 {[%eval -688,17]} 30. Qc2 Bxa1) 30. Qxa1 Bxf5 31. Bxf5 Ne7 32. Bc2 Ned5 33. Bd4 Rc8 34. Bf5 {[%eval -230,18]} (34. Bd3 {[%eval -179,18] kämpft weiter.}) 34... Rc6 35. Qb2 Ne7 36. Bb1 Rd6 {[%eval -118,20]} ({Besser ist} 36... Qc7 $19 {[%eval -192,19]} 37. Bd3 Ned5) 37. Bc3 {[%eval -249,20]} (37. Bxf6 $17 {[%eval -118,20]} Rd1+ (37... gxf6 $2 38. Kh2 $19) (37... Rxf6 38. Nh5 $11) 38. Kh2 gxf6 39. Ba2) 37... Rb6 38. Qc2 {Pariert Dd1+.} Rc6 39. Qb2 $2 {[%eval -433,21] [#]} (39. Ne2 {[%eval -241,20]}) 39... Qb6 {[%eval -245,22]} ({Viel schwächer ist} 39... Qd1+ 40. Nf1 $19) (39... Rxc3 $142 {[%eval -433,21]} 40. Qxc3 Qd1+ 41. Kh2 Qxb1) 40. Qxb6 Rxb6 41. Bd3 Nfd5 42. Bd4 {[%eval -387,21]} (42. Ba5 {[%eval -225,21]} Rc6 43. Bd2) 42... Rb4 {[%csl LRa4,LRd4] Gewichteter Fehlerwert: Weiß=0.64/Schwarz=0.44  Verlustzug:     	Weiß=1     	---        Fehler:       	Weiß=9     	Schwarz=6     Ungenau:       	Weiß=1     	Schwarz=2     OK:         	Weiß=9     	Schwarz=8     Bester:       	Weiß=1     	Schwarz=1} 0-1
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -147,13 +147,13 @@
 
 {[%evp 9,41,60,58,61,58,58,125,93,172,121,113,54,96,92,108,111,121,96,94,98,201,199,239,233,277,408,290,395,544,461,1839,1840,29988,1777]} 1. e4 c5 2. Nf3 e6 3. Be2 d6 4. c4 Nc6 5. d4 cxd4 6. Nxd4 {B40: Sizilianisch (Klassisches System mit e7-e6).} Nf6 7. Nc3 g6 {[%eval 125,18]} (7... Be7 $14 {[%eval 58,19]}) 8. Be3 {Weiß steht besser.} Bg7 {[%eval 172,18]} (8... Be7 $16 {[%eval 93,17]}) 9. O-O {[%eval 121,19]} (9. Ndb5 $18 {[%eval 172,18]}) 9... O-O 10. Nb3 {[%eval 54,17]} ({Vorzuziehen ist} 10. Ndb5 $16 {[%eval 113,17]}) 10... e5 {[%eval 96,19]} (10... b6 $14 {[%eval 54,17]}) 11. f3 $146 ({Vorgänger:} 11. h3 Ne8 12. c5 Be6 13. cxd6 Bxb3 14. Qxb3 Nxd6 15. Bc5 b6 16. Ba3 {1-0 Bandeira,G-Costa,F (1517) Fortaleza Schoonenborch U1900 5th 2018 (2.8)}) 11... b6 12. Qd2 Ne8 13. Rad1 {Weiß steht deutlich aktiver. Die schwarzen Türme stehen passiv.} Be6 14. Nd5 {[%csl Od5] Starkes Feld Weiß (d5)} h6 {[%eval 201,18]} (14... Rc8 $16 {[%eval 98,17]}) 15. Bxh6 $18 Bxh6 {[%eval 239,14]} (15... Rc8 {[%eval 199,16] war einen Versuch wert.} 16. Bg5 Qd7) 16. Qxh6 {[%emt 0:00:02]} Rc8 17. f4 {[%cal Bf3f4,Bf4f5,Bf5f6][%mdl 32] [#] und f5 wäre nun die Entscheidung} Bxd5 18. exd5 ({Finger weg von} 18. cxd5 Nd4 $18) 18... Nb4 19. f5 g5 {[%eval 1839,19] Schwarz ist schwach auf den weissen Feldern} (19... Qf6 $142 {[%eval 461,18]} 20. Qd2 Nxa2 21. fxg6 (21. Ra1 gxf5 22. Rxa2 f4 $18) 21... Qxg6) 20. f6 e4 21. Rf5 {[%eval 1777,18] Gewichteter Fehlerwert: Weiß=0.26 (präzise) /Schwarz=0.99  Fehler:       	Weiß=2     	Schwarz=6     Ungenau:       	---       	Schwarz=2     OK:         	Weiß=4     	Schwarz=3     Bester:       	Weiß=1     	---} (21. Qxg5+ $142 {[%eval 32744,16]} Kh8 22. Rf4 Nxf6 23. Rxf6 Qxf6 24. Qxf6+ Kh7 25. Nd4 (25. Qxd6 Nc2 $18) 25... Rg8 26. Qh4+ (26. Qxf7+ Rg7 $18) 26... Kg7 27. Nf5+ (27. Qxe4 Rce8 $18) 27... Kg6 28. Qh6+ (28. Qxe4 Nxd5 29. Rxd5 Rce8 30. Qg4+ Kf6 31. Qd4+ Re5 32. Rxd6+ Kxf5 33. Qf2+ {[%mdl 64] Spiess} Kg5 34. h4#) 28... Kxf5 29. Rf1+ {[%mdl 64] Spiess} Ke5 30. Qf6#) 1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
 [Board "11"]
 [White "Schrapel, Vian"]
-[Black "Himmelspacht, Maximilian"]
+[Black "Himmelspacht, Maxim"]
 [Result "1-0"]
 [PlyCount "0"]
 [GameId "2146373301941327"]
@@ -161,7 +161,7 @@
 
  1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -176,7 +176,7 @@
 
 {[%evp 9,49,179,171,161,171,158,171,94,200,214,368,398,467,483,527,536,548,527,551,518,518,507,542,542,532,547,759,625,918,803,829,842,1218,1189,1217,1195,1499,1258,1346,1329,29981,29982]} 1. d4 d5 2. Nf3 Bg4 3. c4 Nd7 4. cxd5 $146 (4. Nc3 Bxf3 5. exf3 g6 6. Bd3 Bg7 7. Ne2 e6 8. O-O Ne7 9. Re1 O-O 10. Bg5 Bf6 11. Bh6 Re8 12. f4 {0-1 Nameer,N (2257)-Gagunashvili,M (2578) IRQ CupT Duhok 2012 (2.1)}) 4... Ngf6 5. Nc3 e6 6. dxe6 {D02: Damenbauernspiele.} fxe6 7. h3 Bxf3 8. gxf3 {[%eval 94,17]} (8. exf3 $18 {[%eval 171,15] und Lc4 wäre nun die Entscheidung} Nd5 9. Bc4) 8... a6 {[%eval 200,19]} (8... c5 $16 {[%eval 94,17]}) 9. Qb3 $18 {[%csl LRb7,LRe6]} b6 $2 {[%eval 368,16] [#]} (9... Kf7 {[%eval 214,19]} 10. e4 (10. Qxb7 c5 $18) 10... b5) 10. Qxe6+ Be7 11. e4 Nf8 12. Qc6+ N8d7 13. e5 O-O 14. exf6 Rxf6 15. Qc4+ Kf8 16. Be3 b5 {[%cal Bb6b5,Bb5b4][%mdl 32]} 17. Qd3 b4 18. Nd5 Rxf3 19. Nxe7 Qxe7 20. Bg2 {[%cal Bf1g2,Bg2a8,Ba8c6][%mdl 32]} Rf7 21. Bxa8 g6 22. O-O-O Nb6 23. Bc6 Kg7 {Verhindert Lh6+} 24. Rhe1 Qe6 {[#]} 25. Bh6+ $1 {Gewichteter Fehlerwert: Weiß=0.11 (sehr präzise) /Schwarz=0.53  Fehler:       	Weiß=1     	Schwarz=2     Ungenau:       	---       	Schwarz=2     OK:         	Weiß=8     	Schwarz=4} 1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -191,7 +191,7 @@
 
 {[%evp 9,48,-68,-6,-121,-77,-127,-67,-87,-134,-132,-127,-157,-136,-134,-133,-163,-138,-138,-133,-208,-149,-213,-107,-113,-112,-191,-187,-272,-219,-258,-219,-347,-308,-313,-256,-459,-412,-460,-399,-848,-856]} 1. e4 e6 2. d4 d5 3. e5 c5 4. Be3 Nc6 5. dxc5 Nxe5 {[%eval -6,18]} (5... d4 $15 {[%eval -68,18]} 6. Bf4 g5) 6. b4 {[%eval -121,18] C02: Französische Verteidigung (Vorstoßvariante).} (6. Nf3 $11 {[%eval -6,18]} Nxf3+ 7. gxf3) 6... Nf6 {[%eval -77,17]} (6... a5 $142 {[%eval -121,18]} 7. c3 Ne7) 7. Nf3 $146 {[%eval -127,18]} (7. Nd2 $142 {[%eval -77,17]}) (7. f4 Ng6 8. Nf3 Be7 9. Bd3 Ng4 10. Qe2 Bf6 11. c3 O-O 12. O-O e5 13. fxe5 N6xe5 {1-0 Bernabeu,X (1720)-Roy,A (1990) Syre Memorial op 17th Issy les Moulineaux 1994 (4)}) 7... Nxf3+ $17 8. Qxf3 {Schwarz steht etwas besser.} a5 9. c3 Be7 10. Bd3 axb4 11. cxb4 O-O 12. O-O e5 {[#] Lässt Ld4 nicht zu} 13. Bb5 Bd7 14. Nc3 {[%eval -208,20]} (14. Bxd7 $17 {[%eval -133,19]} Qxd7 15. Rc1) 14... d4 $19 15. Bxd7 {[%eval -213,16]} (15. Rad1 $17 {[%eval -149,18]}) 15... Nxd7 {[%eval -107,18]} ({Vorzuziehen ist} 15... Qxd7 $19 {[%eval -213,16]} 16. Rfd1 Qc6 17. Qxc6 bxc6 18. Bxd4 exd4 19. Rxd4 Ne8) 16. Rfd1 dxe3 (16... dxc3 17. Qxb7 Rb8 18. Qxd7) 17. Qxe3 {[%eval -191,19]} (17. Qxb7 $17 {[%eval -112,17]} Nxc5 18. bxc5 exf2+ 19. Kf1) 17... Qc8 18. Ne4 {[%eval -272,18]} (18. a4 {[%eval -187,17] war einen Versuch wert.}) 18... Qc7 19. a4 Rfd8 20. g4 {[%eval -347,18]} (20. a5 $142 {[%eval -219,19]}) 20... Nf8 {[%cal Oa8a4] ...Txa4! soll folgen} 21. Nc3 Rxd1+ 22. Nxd1 $2 {[%eval -459,19] [#]} (22. Rxd1 {[%eval -256,17] ist der einzige Weg für Weiss..} Qc6 23. Nd5) 22... Ne6 23. Nb2 Bf6 24. Rc1 $2 {[%eval -848,18]} (24. Rd1 {[%eval -399,19]}) 24... Bg5 {Gewichteter Fehlerwert: Weiß=0.76/Schwarz=0.30  Fehler:       	Weiß=8     	Schwarz=2     OK:         	Weiß=2     	Schwarz=6     Bester:       	---       	Schwarz=2} 0-1
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.07"]
 [Round "1"]
@@ -205,7 +205,7 @@
 
  0-1
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -220,7 +220,7 @@
 
 {[%evp 17,39,122,117,51,52,-30,96,101,141,103,196,179,226,211,210,188,306,319,327,357,323,312,967,1001]} 1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Be6 6. Nf3 Nc6 7. O-O Bc5 8. Nxe5 Bxf2+ 9. Rxf2 Nxe5 10. Nxd5 {[%eval 51,16] A29: Englische Eröffnung (Vierspringer-Variante).} (10. Qb3 $16 {[%eval 117,18]} c6 11. Nxd5 (11. Qxb7 O-O $14) 11... cxd5 12. Qxb7) 10... Bxd5 $14 11. e4 $146 {[%eval -30,19]} (11. Qa4+ $1 $14 {[%eval 52,18]} c6 12. Rf5) (11. Rf5 f6 12. Qa4+ Bc6 13. Bxc6+ Nxc6 14. d3 Qd4+ 15. Qxd4 Nxd4 16. Rf2 Kf7 17. Bd2 Rhe8 {½-½ Ankudinova,E (2133)-Kerimov,T (1449) Pavlodar op 2017 (1)}) 11... Be6 {[%eval 96,21]} (11... Bc4 $1 $11 {[%eval -30,19] hält das Gleichgewicht.} 12. Qc2 (12. d4 Nd3 $15) 12... Qd4) 12. d4 $16 {Weiß steht besser.} Ng4 {[%eval 141,18]} ({Günstiger ist} 12... O-O {[%eval 101,19]}) 13. Rf1 {[%eval 103,19]} (13. Rf4 $142 {[%eval 141,18]}) 13... Qd6 {[%eval 196,18] [#]} (13... c6 $16 {[%eval 103,19]}) 14. h3 $1 $18 Nh6 15. Bf4 Qb6 16. Rf2 O-O-O {[%eval 306,18]} (16... O-O $142 {[%eval 188,17]} 17. d5 Bd7) 17. Rc1 {[%cal Ba1c1,Bc1c7,Bc7c8][%mdl 32]} Rxd4 18. Rxc7+ Kd8 19. Qc2 Bxa2 $2 {[%eval 967,15] [#]} (19... Re8 {[%eval 312,16]} 20. Kh2 Rd7) 20. Rc8+ {[%mdl 64] Spiess.   Gewichteter Fehlerwert: Weiß=0.27 (präzise) /Schwarz=0.98  Fehler:       	Weiß=2     	Schwarz=5     OK:         	Weiß=4     	Schwarz=2     Bester:       	Weiß=3     	Schwarz=1} 1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -235,7 +235,7 @@
 
 {[%evp 17,54,21,44,17,29,24,25,16,12,21,9,22,22,17,25,23,58,22,38,20,57,60,47,63,65,59,59,0,0,-415,0,-104,-31,-42,-36,-41,-20,-32,-19]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qe7 8. Qd1 d6 9. Nc3 Nf6 10. Bg5 {B32: Sizilianisch (Löwenthal-Variante).} Be6 11. Nd5 Bxd5 12. exd5 {Weiß hat minimalen Vorteil.} Nb8 13. c4 Nbd7 14. Be2 O-O 15. O-O h6 16. Be3 Nh7 17. f4 {[%eval 22,16]} (17. f3 $14 {[%eval 58,16]}) 17... f5 {[%cal Bf7f5,Bf5f4][%mdl 32]} 18. b4 {[%cal Oc4c5]} Rae8 $146 {[%eval 57,18]} (18... a5 $11 {[%eval 20,18] ist überlegen.}) (18... b6 19. Rc1 a5 20. bxa5 Rxa5 21. fxe5 Qxe5 22. Bd4 Qe7 23. Bd3 Rxa2 24. Bxf5 Qg5 {1-0 Kanakova,N (2061)-Fuskova,M (2040) CZE-ch U18/20 Girls Doksy 2015 (6)}) 19. Bd3 $14 exf4 20. Bxf4 g5 21. Bd2 {Weiß steht aktiver. Das Läuferpaar ist gut.} f4 22. Qh5 {[%eval 0,19]} (22. Qc2 $14 {[%eval 59,18]} Ne5 23. Bf5) 22... Qg7 $11 {und ...Dd4+ wäre nun die Entscheidung} 23. Rae1 $2 {[%eval -415,16][%mdl 8192]} (23. Bf5 $11 {[%eval 0,19] und Weiss muss sich keine Sorgen machen.}) 23... Nhf6 $2 {[%eval 0,19]} (23... Qd4+ $19 {[%eval -415,16]} 24. Rf2 Rxe1+ 25. Bxe1 Qxd3) 24. Qg6 {[%eval -104,22] [#]} (24. Qh3 $11 {[%eval 0,19]}) 24... Ne5 {[%eval -31,21]} ({Besser ist} 24... Qxg6 $1 $17 {[%eval -104,22]} 25. Bxg6 Rxe1 26. Rxe1 Ne5 27. Rxe5 dxe5) 25. Qxg7+ $1 $15 Kxg7 26. Be2 Rc8 27. Rc1 Ne4 {Gewichteter Fehlerwert: Weiß=0.55/Schwarz=0.42  Verlustzug:     	Weiß=1     	---        Gewinn verpasst:   	---       	Schwarz=1     Fehler:       	Weiß=3     	Schwarz=2     Ungenau:       	---       	Schwarz=1     OK:         	Weiß=8     	Schwarz=10    Stark:        	Weiß=1     	---} 1/2-1/2
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -249,7 +249,7 @@
 
  1/2-1/2
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -264,7 +264,22 @@
 
 {[%evp 9,84,15,17,-36,-33,-67,-39,-39,-2,-11,-11,-64,-33,-39,-21,-18,-15,-95,-12,-156,-143,-138,-138,-235,-200,-243,-218,-242,-224,-246,-129,-211,-211,-259,-245,-298,-271,-292,-284,-310,-305,-294,-183,-629,-615,-628,-609,-638,-683,-983,-855,-1754,-1754,-1627,-1653,-1254,-846,-820,-773,-854,-756,-852,-696,-858,-810,-1079,-891,-916,-916,-981,-989,-1598,-1596,-2112,-2138,-29973,-29971]} 1. e4 c5 2. Nf3 a6 3. c3 d5 4. e5 d4 5. cxd4 cxd4 6. Qa4+ {[%eval -36,19] B28: Sizilianisch (Frühes a7-a6).} (6. Bd3 $11 {[%eval 17,19]}) 6... Nc6 $15 7. d3 Bg4 $146 (7... e6 8. Be2 Bc5 9. O-O Nge7 10. a3 Qd5 11. b4 b5 12. Qc2 Bb6 13. Bf4 Ng6 {1-0 Lucero,S (1592)-Doval,O (1673) Buenos Aires Rubinstein Memorial 26th 2016 (4)}) 8. Be2 {Schwarz steht etwas besser.} b5 {[%eval -2,19]} (8... e6 $15 {[%eval -39,19] scheint genauer.}) 9. Qb3 $11 {Sg5 wäre nun fies.} e6 10. Bf4 {[%eval -64,17]} (10. a4 $11 {[%eval -11,18]}) 10... Nge7 $15 {[%cal Bg8e7,Be7d5,Bd5f4,Bf4d3][%mdl 32]} 11. h3 Bh5 (11... Nd5 {wäre vielleicht verwirrender.} 12. Bg5 Be7 13. Bxe7 Qa5+) 12. O-O Nd5 13. Bg5 {[%eval -95,19]} (13. Bg3 $11 {[%eval -15,20] bleibt in der Remisbreite.}) 13... Qd7 {[%eval -12,18]} (13... Be7 $17 {[%eval -95,19]} 14. Bxe7 Qxe7 (14... Ndxe7 15. Nbd2 $11)) 14. a3 {[%eval -156,19] Ab hier gerät Weiß ins Schliddern.} (14. a4 $1 $11 {[%eval -12,18]}) 14... h6 $1 $36 {[%mdl 2048] Weiss steht unter starkem Druck.} 15. Bh4 {[#]} Nf4 $1 {Schwarz steht aktiver.} 16. Bd1 {[%eval -235,20]} (16. Re1 $17 {[%eval -138,20]}) 16... Rc8 $19 17. Bg3 Na5 18. Qa2 Nxd3 19. b4 {[#]} Nc4 {[%eval -129,18]} ({Vorzuziehen ist} 19... Bxf3 $1 $19 {[%eval -246,19]} 20. gxf3 Nc4) 20. Be2 {[%eval -211,21]} (20. Nbd2 $17 {[%eval -129,18]}) 20... Ndb2 {Weiss muss nun ...d3 beachten.} 21. Bxc4 Nxc4 22. Rd1 Bxf3 23. gxf3 Be7 24. Nc3 O-O 25. Rd3 Qa7 26. Rad1 $2 {[%eval -629,18]} (26. Ne2 {[%eval -183,20]}) 26... dxc3 27. Rxc3 Rfd8 28. Rxd8+ Rxd8 29. a4 Qd4 30. Rc2 Qd1+ 31. Kg2 Rd2 {( -> ...Se3+)} 32. Rxd2 Qxd2 33. Qb3 Bxb4 34. axb5 axb5 35. f4 Qb2 36. Qf3 Bf8 37. h4 Qd4 38. f5 Nxe5 39. Bxe5 Qxe5 40. fxe6 Qxe6 41. Qe3 Qxe3 42. fxe3 b4 {Gewichteter Fehlerwert: Weiß=0.80/Schwarz=0.59  Fehler:       	Weiß=6     	Schwarz=3     Ungenau:       	Weiß=1     	Schwarz=2     OK:         	Weiß=6     	Schwarz=8     Bester:       	Weiß=1     	Schwarz=3     Stark:        	---       	Schwarz=1} 0-1
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.02.28"]
+[Round "2"]
+[Board "5"]
+[White "Hilgert, Guenter"]
+[Black "Himmelspacht, Maxim"]
+[Result "0-1"]
+[ECO "C01"]
+[PlyCount "50"]
+[GameId "2154003819423653"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 21,49,4,5,-9,-12,-163,-165,-168,-167,-163,-114,-256,-110,-111,-113,-225,-75,-202,-94,-104,-102,-196,-211,-212,-211,-217,-217,-900,-908,-29999]} 1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bg5 Bd6 6. Bd3 O-O 7. O-O Bg4 8. Nbd2 Nbd7 9. c3 c6 10. Re1 Qc7 11. Qc2 Rfe8 12. Rxe8+ {C01: Französische Verteidigung (Abtauschvariante).} Rxe8 13. Re1 $2 {[%eval -163,21]} (13. h3 $11 {[%eval -12,19]} Be6 14. Nf1) 13... Rxe1+ $19 14. Nxe1 {Schwarz steht deutlich besser.} Bxh2+ 15. Kf1 $146 (15. Kh1 Bf4 16. Nef3 h6 17. Bxf4 Qxf4 18. g3 Bxf3+ 19. Kg1 Qg4 20. Nxf3 Qxf3 21. Be2 {0-1 Turner,S-Fathallah,J (1962) South Wales op 4th Caerleon 2007 (4)}) 15... Bf4 {[%eval -114,18]} ({Vorzuziehen ist} 15... h6 $19 {[%eval -163,19]} 16. Be3 Bd6) 16. Nef3 {[%eval -256,22]} (16. Bxf4 $17 {[%eval -114,18] war nötig.} Qxf4 17. Kg1) 16... h6 {[%eval -110,19]} (16... Bxg5 $19 {[%eval -256,22]} 17. Nxg5 Qh2) 17. Bxf4 $17 Qxf4 18. Qb3 {[%eval -225,19]} (18. g3 $17 {[%eval -113,19]} Bh3+ 19. Kg1) 18... Nb6 {[%eval -75,19]} (18... Ne4 $19 {[%eval -225,19]} 19. Ke1 b5) 19. Qa3 {[%eval -202,19] [#]} (19. g3 $17 {[%eval -75,19]} Bh3+ 20. Kg1) 19... Nc8 {[%eval -94,20]} (19... Bxf3 $1 $19 {[%eval -202,19] und Schwarz behält klar die Oberhand.} 20. Nxf3 Nc8) 20. Qa5 b6 $36 {[%mdl 2048] Schwarz bestimmt, wo es lang geht.} 21. Qa6 {[%eval -196,19]} (21. Qa4 $17 {[%eval -102,20]}) 21... Ne4 $19 22. Bxe4 dxe4 23. g3 Qf5 24. Ng1 {[%eval -900,16]} (24. Nh4 {[%eval -217,20]} Qg5 25. Nc4) 24... e3 {[%csl Ge3][%cal Rf5f2] [#]} 25. Nc4 Qxf2# {Gewichteter Fehlerwert: Weiß=1.20/Schwarz=0.43  Fehler:       	Weiß=6     	Schwarz=4     Ungenau:       	Weiß=1     	---        OK:         	Weiß=2     	Schwarz=4     Bester:       	Weiß=2     	Schwarz=2} 0-1
+
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -278,7 +293,7 @@
 
  1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -293,7 +308,7 @@
 
 {[%evp 9,75,53,67,14,8,-17,47,62,82,83,100,55,44,30,24,-48,-53,-72,-15,-17,8,-59,-49,-38,12,0,54,0,0,-37,-29,-50,79,95,108,116,164,43,67,63,71,58,45,45,63,44,40,38,162,151,171,159,233,162,179,179,162,183,185,184,166,120,147,149,246,253,266,265]} 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 g6 5. Nc3 Bg7 6. Qc2 {[%eval 14,17] D94: Grünfeldindisch (Geschlossenes System).} (6. Bd3 $14 {[%eval 67,18]}) 6... O-O $11 7. h3 dxc4 {[%eval 47,18]} (7... c5 $11 {[%eval -17,17]}) 8. Bxc4 $14 {Weiß steht etwas besser.} Nbd7 9. O-O a5 $146 (9... c5 10. Rd1 cxd4 11. exd4 Nb6 12. Bb3 Nbd5 13. Nxd5 Nxd5 14. Bg5 Be6 15. Qe4 Rc8 {0-1 Zeitler,H (2052)-Baramidze,D (2569) Nuremberg LGA Cup 4th 2007 (1)}) 10. a4 {[%eval 55,19] Weiß steht deutlich aktiver.} (10. e4 $16 {[%eval 100,18]}) 10... Nb6 11. Bd3 Nfd5 12. b3 {[%eval -48,17]} (12. Nxd5 $11 {[%eval 24,18]} Nxd5 13. Qe2) 12... Nb4 $15 13. Qd2 Nxd3 {[%eval -15,16]} (13... e5 $17 {[%eval -72,18]}) 14. Qxd3 $11 e5 15. Rd1 {[%eval -59,19]} (15. Ba3 $11 {[%eval 8,19]}) 15... exd4 $15 16. Nxd4 Qh4 {[%eval 12,19]} (16... c5 $1 $15 {[%eval -38,19]} 17. Nde2 Qxd3 18. Rxd3 Bf5) 17. Bb2 Nd7 {[%eval 54,18]} (17... Rd8 $11 {[%eval 0,17]} 18. Qe2 h6) 18. Nf3 {[%eval 0,19]} (18. Ba3 $14 {[%eval 54,18]}) 18... Qh5 $11 19. Rab1 {[%eval -37,20]} (19. Nd4 $11 {[%eval 0,19]}) 19... Nc5 $15 {[%csl LRb3,LRd3][%cal Bd7c5,Bc5e6,Be6f4,Bf4h3][%mdl 32]} 20. Qc2 {[%cal Oc3d5]} Bf5 {[%eval 79,21]} (20... Bxh3 $1 $15 {[%eval -50,18] behält die Oberhand.} 21. Ne2 Qf5) 21. e4 $36 {[%mdl 2048] Läuft bei Weiss.} Bxh3 {[#]} 22. Ne2 $1 Bxb2 {[%eval 164,18] [#]} (22... Qg4 $16 {[%eval 116,19]} 23. Ng3 Bxb2) 23. Rxb2 {[%eval 43,19]} ({Weiss braucht} 23. Ng3 $1 $18 {[%eval 164,18][%cal Rg3h5]} Qh6 24. Qxc5 (24. Rxb2 Ne6 $16)) 23... Ne6 {[%cal Oh3g2]} 24. Ng3 $1 Qg4 {[%cal Oh3g2] Zielt auf ...Lxg2! ab.} 25. Nh2 (25. gxh3 $2 Qxf3 26. Rd3 Qf4 $19) (25. Ne5 $5 Qg5 26. Nd7 $16) 25... Qh4 26. gxh3 Nf4 27. Qc1 Nxh3+ 28. Kg2 g5 {[%eval 162,19]} (28... Nf4+ $14 {[%eval 38,19]} 29. Kh1 Rae8) 29. Qe3 Nf4+ 30. Kg1 Rad8 {[%eval 233,17]} (30... Qh3 $16 {[%eval 159,18]} 31. Qf3 h5) 31. Rbd2 Rxd2 32. Rxd2 {Zielt auf Sf5 ab.} (32. Qxd2 Qh3 33. f3 Qxg3+ 34. Kh1 Nh3 $19) 32... Qh3 33. Qf3 {Pariert Dg2+.} h5 34. Nf5 Re8 35. Qxh3 {[%eval 120,14]} ({Günstiger ist} 35. Rd7 $18 {[%eval 166,18]}) 35... Nxh3+ 36. Kg2 g4 {[%eval 246,20]} (36... Nf4+ $16 {[%eval 149,19] ist wohl besser.} 37. Kf3 Ne6) 37. f3 Ng5 38. Nd6 {Gewichteter Fehlerwert: Weiß=0.30/Schwarz=0.31  Fehler:       	Weiß=7     	Schwarz=9     Ungenau:       	Weiß=1     	---        OK:         	Weiß=7     	Schwarz=11    Bester:       	Weiß=2     	Schwarz=4     Stark:        	Weiß=2     	---} 1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -308,7 +323,7 @@
 
 {[%evp 9,49,132,127,110,183,177,179,169,179,174,140,140,191,82,146,94,174,157,228,228,326,333,321,325,331,58,380,363,556,575,580,594,864,864,1059,1034,887,878,1286,1286,1254,733]} 1. e4 d6 2. d4 c6 3. Nc3 Qc7 4. f4 e6 5. Nf3 Nd7 6. Bd3 {B12: Caro-Kann (Vorstoß-Variante).} Ne7 {[%eval 183,18]} (6... e5 $16 {[%eval 110,17]}) 7. O-O $18 d5 $146 (7... a5 8. Re1 a4 9. Qe2 g6 10. f5 Bg7 11. fxe6 fxe6 12. Bg5 Nf6 13. e5 dxe5 14. dxe5 {1-0 Phuyal,A (1914)-Thaiba,B (1467) Budha Bhandari Memorial Budhanilkantha 2019 (1)}) 8. exd5 {Weiß steht deutlich besser.} Nxd5 9. Nxd5 cxd5 10. f5 {[%cal Bf4f5,Bf5e6][%mdl 32]} Nf6 {[%eval 191,16] [#]} (10... exf5 $16 {[%eval 140,18]} 11. Qe2+ (11. Bxf5 Nf6 $14) 11... Be7) 11. Ne5 {[%eval 82,17]} (11. Bb5+ $1 $18 {[%eval 191,16] ist viel giftiger.} Bd7 12. Bxd7+ Qxd7 13. Ne5) 11... a6 {[%eval 146,17]} (11... Bd6 $142 {[%eval 82,17]}) 12. c4 {[%eval 94,17] Weiß steht aktiver.} (12. Qe1 $142 {[%eval 146,17]}) 12... Be7 {[%eval 174,17]} (12... Bd6 $16 {[%eval 94,17] ist eine bessere Verteidigung.}) 13. Bf4 {[%cal Oe5f7]} Qb6 {[%eval 228,16]} (13... dxc4 $16 {[%eval 157,18]} 14. Bxc4 (14. Nxf7 Qb6 $15) 14... Qa5) 14. c5 Qxb2 {[%eval 326,17]} (14... Qb4 $142 {[%eval 228,19]}) 15. fxe6 Qxd4+ 16. Kh1 {[%cal Od3b5]} Bxc5 (16... Bxe6 17. Bb5+ axb5 18. Qxd4 $18) 17. Nxf7 $2 {[%eval 58,18]} (17. exf7+ $18 {[%eval 331,14]} Kf8 18. Rb1) 17... Bxe6 $2 {[%eval 380,17][%mdl 8192] Das kostet Schwarz die Partie.} (17... O-O) 18. Nxh8 Ng4 {[%eval 556,15]} (18... Kd7 $142 {[%eval 363,17]} 19. Bg3 b6) 19. Qe2 {Weiß steht klar auf Gewinn.} (19. Bxh7 $2 {wird mattgesetzt.} Qg1+ 20. Rxg1 Nf2#) 19... Kd7 {[#]} 20. Rab1 $1 b6 {[#]} 21. Nf7 $1 {[%cal Ob1b6][%mdl 512] Und Txb6! würde nun gewinnen.} Nf2+ {[#]} (21... Qf2 22. Ne5+) 22. Rxf2 $1 Qxf2 23. Ne5+ Ke8 24. Qh5+ Kd8 25. Bg5+ {Schön gespielt von Stehning!   Gewichteter Fehlerwert: Weiß=0.24 (präzise) /Schwarz=1.05  Verlustzug:     	---       	Schwarz=1     Gewinn verpasst:   	Weiß=1     	---        Fehler:       	Weiß=2     	Schwarz=7     OK:         	Weiß=6     	Schwarz=2     Bester:       	Weiß=3     	---} 1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -323,7 +338,7 @@
 
 {[%evp 11,135,29,44,10,45,28,29,14,50,43,50,34,26,31,38,0,-17,-7,-17,-7,-10,-4,42,38,42,40,51,0,0,-62,-54,-45,-41,-64,-74,-68,-67,-83,-81,-76,-72,-120,-85,-89,-94,-96,-29,-28,290,0,11,17,149,119,219,198,197,186,193,99,121,114,167,174,216,121,148,103,124,128,169,103,149,76,91,76,106,117,120,48,71,71,134,144,157,216,10,5,5,7,240,68,250,218,253,130,385,374,374,378,381,366,374,400,364,404,421,466,468,473,469,588,475,615,615,654,614,713,676,721,727,724,724,754,734,779]} 1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Be7 5. Nbd2 O-O 6. Bd3 Nbd7 7. Qe2 {D02: Damenbauernspiele.} a6 8. c3 c5 9. h4 {Weiß hat minimalen Vorteil.} c4 {[%eval 50,18]} (9... Qb6 $11 {[%eval 14,17]}) 10. Bc2 $14 b5 $146 (10... Re8 11. Ne5 Nf8 12. Qf3 Bd7 13. g4 Bc6 14. Rb1 {1-0 Ludewig,R (1897)-Bishop,P (1813) LUX-ch AB Differdingen 2007 (8.9)}) 11. e4 dxe4 12. Nxe4 Bb7 13. h5 {[%eval -17,16]} (13. Nxf6+ $1 $14 {[%eval 38,17]} Nxf6 14. O-O-O) 13... Nxe4 $11 14. Bxe4 Bxe4 15. Qxe4 Nf6 16. Qe2 Qd5 {[%eval 42,19]} (16... Nd5 $11 {[%eval -4,19]} 17. Be5 h6) 17. h6 $14 g6 18. Bg5 Rfe8 19. O-O {[%eval 0,20]} (19. Rh4 $14 {[%eval 51,19]}) 19... Ng4 $1 $11 20. Qd2 {[%eval -62,20]} (20. Bxe7 $11 {[%eval 0,20]} Rxe7 21. b3) 20... Bxg5 21. Nxg5 Nxh6 22. Rfe1 Ng4 23. f3 Nf6 24. Re5 Qd6 25. Qf4 Kg7 26. Rd1 {[%eval -120,17]} (26. Qxf6+ $142 {[%eval -72,18]} Kxf6 27. Ne4+ Ke7 28. Nxd6 Kxd6 29. a4) 26... h6 27. Ne4 Nxe4 28. Qxe4 f6 {[%eval -29,21]} (28... Rab8 $17 {[%eval -96,18]} 29. Qe3 Red8) 29. Rc5 e5 $2 {[%eval 290,18][%mdl 8192]} (29... Qd7 $11 {[%eval -28,18]}) 30. Rc6 $2 {[%eval 0,20]} (30. Rd5 f5 $16) (30. Qb7+ $1 $18 {[%eval 290,18]} Kf8 31. Rc6) 30... Qd8 31. d5 f5 {[%eval 149,19]} (31... Qd7 $11 {[%eval 17,19]}) 32. Qe3 $16 {Weiß steht deutlich aktiver.} Qd7 {[%eval 219,16]} (32... Rb8 $16 {[%eval 119,18]}) 33. Qb6 $18 Qd8 34. Rxg6+ {Weiß greift an} Kf7 35. Rxh6 {[%eval 99,20]} (35. Qc6 $18 {[%eval 193,20]} Rc8 36. Qxa6) 35... Qxb6+ $16 36. Rxb6 $18 {[%mdl 4096] Endspiel KTT-KTT. Weiß hat einen Mehrbauern.} Red8 {[%eval 167,19]} (36... Reb8 $16 {[%eval 114,21] war einen Versuch wert.} 37. Rc6 Rc8) 37. Kf2 Ra7 {[%eval 216,20]} (37... Rdb8 $142 {[%eval 174,21]} 38. Rc6 Rc8) 38. Rh6 {[%eval 121,20]} (38. Ke3 $18 {[%eval 216,20]}) 38... Rad7 $16 39. Rxa6 {[%eval 103,23]} (39. Ke3 $142 {[%eval 148,22]}) 39... Rxd5 40. Rxd5 Rxd5 {[#] KT-KT. Weiß hat einen Mehrbauern.} 41. Ke2 {[%eval 103,22] Gegen Td2+ gerichtet.} (41. Ke3 $1 $18 {[%eval 169,23]}) 41... Ke7 {[%eval 149,20]} (41... f4 $142 {[%eval 103,22]} 42. Rc6 Ke7) 42. a4 {[%eval 76,22]} (42. g3 $142 {[%eval 149,20]}) 42... bxa4 43. Rxa4 Rb5 44. Rb4 (44. Rxc4 Rxb2+ 45. Kf1 Rc2 $11) 44... Rc5 45. Rb6 {[%eval 48,22]} ({Vorzuziehen ist} 45. g4 $16 {[%eval 120,20]}) 45... Rc8 46. g4 fxg4 {[%eval 134,23]} (46... f4 $142 {[%eval 71,22]}) 47. fxg4 Rf8 48. b4 {[%eval 216,22]} (48. Ke3 $16 {[%eval 157,24]}) 48... cxb3 $2 {[%eval 10,21]} (48... Rg8 $18 {[%eval 216,22]} 49. Kf3 Rd8) 49. Rxb3 $11 Rf4 50. Rb4 {Zielt auf Txf4 ab.} Rf6 {[%eval 240,22] [#] Weiß behält die Zügel nun fest in der Hand.} (50... e4 $11 {[%eval 7,22] und Schwarz muss sich keine Sorgen machen.}) 51. Rb7+ $2 {[%eval 68,21]} ({Weiss braucht} 51. Rb5 $1 $18 {[%eval 240,22][%cal Rb5e5]}) 51... Ke8 $2 {[%eval 250,21]} (51... Kd8 $1 $14 {[%eval 68,21]}) 52. Rb5 $18 Re6 53. Ke3 {[%eval 130,22]} (53. c4 $18 {[%eval 253,21]}) 53... Kd7 $2 {[%eval 385,19][%mdl 8192]} (53... Kf7 $16 {[%eval 130,22]}) 54. Ke4 Rc6 55. Rxe5 ({Nicht} 55. Kxe5 Rc4 56. Rb4 Rxc3 $18) 55... Rxc3 56. Kf4 Rc1 57. Kf5 Rf1+ 58. Kg6 Kd6 59. Re2 {Weiß steht klar auf Gewinn.} Rg1 60. g5 {[%cal Bg4g5,Bg5g6,Bg6g7][%mdl 32]} Rf1 61. Kg7 Rg1 62. g6 Kd5 63. Kf7 Rf1+ 64. Kg8 Rg1 65. g7 Kd6 66. Rh2 Ke7 67. Kh8 Kf7 68. Rf2+ {Gewichteter Fehlerwert: Weiß=0.34/Schwarz=0.43  Verlustzug:     	---       	Schwarz=4     Gewinn verpasst:   	Weiß=2     	---        Fehler:       	Weiß=12    	Schwarz=10    Ungenau:       	---       	Schwarz=3     OK:         	Weiß=16    	Schwarz=16    Bester:       	Weiß=6     	Schwarz=5     Stark:        	---       	Schwarz=1} 1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -338,7 +353,7 @@
 
 {[%evp 9,56,71,76,33,35,38,53,21,19,6,18,16,-9,-13,-16,-14,-18,-43,-30,-27,0,-8,0,-8,-6,-37,-18,-15,-29,-29,0,-27,-35,-35,-22,-41,-34,-39,36,38,34,44,74,66,83,79,89,90,89]} 1. d4 b5 2. e3 Bb7 3. Nf3 a6 4. c4 bxc4 5. Bxc4 e6 6. Nbd2 {[%eval 33,20] A40: Verschiedene (seltene) Antworten auf 1.d4.} (6. O-O $16 {[%eval 76,19]}) 6... Nf6 $14 7. O-O {[%cal Oe3e4]} c5 8. dxc5 {Weiß steht etwas besser.} Bxc5 9. Nb3 Be7 10. Bd2 $146 (10. Nbd2 Nc6 11. a3 Qa5 12. b4 Qh5 13. Bb2 g5 14. Be2 g4 15. Nd4 Rg8 16. Nxc6 Bxc6 {0-1 Somma,E (1561)-Di Meo,A (1811) Napoli Autunno Vomero op-A 2016 (1)}) 10... Nc6 {Es drohte Sa5} 11. Nfd4 Nxd4 12. exd4 O-O 13. Ba5 Qb8 14. Qe2 d6 {Verhindert Sc5} 15. Rac1 Rc8 16. Bd3 Qa7 17. Qd2 h6 18. Rxc8+ Rxc8 19. Rc1 Rxc1+ 20. Qxc1 Qa8 21. Bf1 Nd5 22. Bd2 Bf6 23. Qc4 Bc6 {[%eval 36,20]} (23... Ne7 $1 $15 {[%eval -39,19]}) 24. Qxa6 Qxa6 25. Bxa6 Nc7 26. Bd3 Bd5 27. Bc3 Bxb3 28. axb3 Kf8 {Gewichteter Fehlerwert: Weiß=0.10 (sehr präzise) /Schwarz=0.12 (sehr präzise)   Fehler:       	---       	Schwarz=1     Ungenau:       	Weiß=3     	Schwarz=2     OK:         	Weiß=6     	Schwarz=10    Bester:       	Weiß=1     	---} 1/2-1/2
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -353,7 +368,7 @@
 
 {[%evp 9,31,-75,114,-20,70,70,502,151,130,99,333,344,617,637,638,651,788,772,795,784,816,808,1038,1046]} 1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 {[#]} b6 $2 {[%eval 114,19] [#]} (5... Bb4 $1 $17 {[%eval -75,17] und ...0-0 wäre nun die Entscheidung} 6. Bd2 O-O) 6. Bd2 {[%eval -20,18] C22: Mittelgambit.} (6. e5 $1 $16 {[%eval 114,19][%cal Re5f6]} Bc5 7. Qg5) 6... Bb7 {[%eval 70,18]} (6... Bc5 $11 {[%eval -20,18]} 7. Qg3 O-O) 7. O-O-O $14 d5 $146 {[%eval 502,16][%mdl 8192]} (7... Bc5 8. Qg3 O-O 9. Bh6 Ne8 10. Nf3 Kh8 11. Bf4 d6 12. e5 Qe7 13. Nd5 Qe6 {1-0 Zimniok,L (2081)-Chrostek,L (1853) Moravia-Silesia Region-chT 2223 Czech Republic 2022 (9)}) 8. Nxd5 $2 {[%eval 151,18]} (8. exd5+ $18 {[%eval 502,16] ist der präzise Gewinnweg.} Ne7 9. Bb5+ Nd7 10. Nf3) 8... Bc5 $16 9. Qe1 {Weiß steht aktiver.} O-O $2 {[%eval 333,15]} (9... Nxd5 $16 {[%eval 99,17] war einen Versuch wert.} 10. exd5+ {[%csl Oe8][%mdl 64] Abzugsangriff (Schach)} Ne7) 10. Bg5 $18 {Droht stark Sxf6+.} Be7 {[%eval 617,16]} (10... Nd4 {[%eval 344,20]} 11. Nxf6+ gxf6) 11. Nxf6+ {[%csl Od8][%mdl 64] Abzugsangriff. Weiß steht klar auf Gewinn.} Bxf6 12. Rxd8 Raxd8 13. Bxf6 gxf6 14. Bd3 Rfe8 15. f4 Kh8 16. Qh4 {Gewichteter Fehlerwert: Weiß=0.60/Schwarz=1.68  Verlustzug:     	---       	Schwarz=2     Gewinn verpasst:   	Weiß=1     	---        Fehler:       	---       	Schwarz=2     Bester:       	Weiß=3     	Schwarz=1} 1-0
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -368,7 +383,7 @@
 
 {[%evp 14,42,17,-3,18,-1,0,-7,0,-8,0,-12,-8,-13,69,-13,41,36,52,25,42,41,173,44,37,38,33,26,30,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. Bxc6+ bxc6 7. O-O Be7 8. Nc3 O-O {C77: Spanische Partie (Anderssen-Variante).} 9. Re1 Bg4 10. h3 Bh5 11. b3 $146 (11. Bg5 Rb8 12. b3 h6 13. Bh4 Nh7 14. Bxe7 Qxe7 15. Rc1 Ng5 16. g4 Nxh3+ 17. Kg2 Bxg4 {0-1 Mjatezs,I (1406)-Orozbaev,E (1554) Wch U10 Batumi 2016 (6)}) 11... Qd7 12. Bb2 h6 13. Re3 g5 {[%eval 69,19]} (13... c5 $11 {[%eval -13,18]}) 14. g4 {[%eval -13,19]} ({Besser ist} 14. d4 $14 {[%eval 69,19]}) 14... Bg6 {[%eval 41,17]} (14... Nxg4 $1 $11 {[%eval -13,19]} 15. hxg4 Qxg4+ 16. Kh1 Qf4) 15. d4 $14 exd4 16. Nxd4 Rfe8 17. Qf3 Nh7 {[%eval 173,18] [#]} (17... d5 $14 {[%eval 41,18]}) 18. Nf5 {[%eval 44,17]} ({Der einzige Zug:} 18. e5 $1 $18 {[%eval 173,18]}) 18... Bxf5 $1 19. Qxf5 Qxf5 20. exf5 Bf6 21. Na4 Rxe3 {Gewichteter Fehlerwert: Weiß=0.33/Schwarz=0.31  Fehler:       	Weiß=2     	Schwarz=3     Ungenau:       	Weiß=2     	---        OK:         	Weiß=1     	Schwarz=5     Bester:       	Weiß=1     	---        Stark:        	---       	Schwarz=1} 1/2-1/2
 
-[Event "Braunfels Stadtmeisterschaft 2025"]
+[Event "Braunfels SM 2025"]
 [Site "?"]
 [Date "2025.02.21"]
 [Round "2"]
@@ -381,4 +396,211 @@
 [SourceVersionDate "2025.02.08"]
 
  0-1
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "1"]
+[White "Stripling, Valentin"]
+[Black "Diehl, Andreas"]
+[Result "0-1"]
+[ECO "A48"]
+[PlyCount "62"]
+[GameId "525878658023"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 9,62,-19,-18,-28,-7,-10,22,10,43,28,27,24,17,23,63,37,40,4,18,21,20,9,14,-33,-38,-52,-45,-47,-39,-179,-179,-191,-168,-289,-188,-258,-254,-252,-266,-258,-234,-238,-238,-258,-205,-199,-192,-193,-182,-238,-176,-256,-162,-460,-443]} 1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Bd3 d6 5. Nbd2 O-O 6. b3 {A48: Königsindisch (ohne c2-c4).} Nbd7 7. Bb2 c6 {[%cal Oe7e5]} 8. O-O {Die Stellung ist ausgeglichen.} Qc7 9. Rc1 e5 10. c4 Re8 {[#] Droht ...e4 und aus.} 11. Qc2 Nf8 {[%eval 63,17]} (11... Qd8 $11 {[%eval 23,17]}) 12. dxe5 $146 (12. h3 Bd7 13. Rfe1 c5 14. Qc3 e4 15. dxc5 exd3 16. cxd6 Qxd6 17. Nd4 Ne6 18. Qxd3 Nxd4 19. exd4 {0-1 Nguyen Thi Diem,T-Ngo Thi Cam,T VIE-ch U20 Girls Vietnam 2002 (8)}) 12... dxe5 13. Ng5 {[%eval 4,18]} (13. c5 $14 {[%eval 40,17]}) 13... h6 14. Nge4 Nxe4 15. Nxe4 Bf5 16. Kh1 {[%eval -33,21]} (16. h4 $11 {[%eval 14,18] sieht stärker aus.}) 16... Ne6 17. Rg1 Bxe4 18. Bxe4 f5 19. Bxf5 {[%eval -179,18] Ein Fehler, der zur Niederlage führt.} gxf5 $19 20. Qxf5 Qf7 21. Qg4 {[%eval -289,19]} (21. Qc2 $142 {[%eval -168,19]}) 21... Kh8 22. Qg3 {[%eval -258,18]} (22. Qe2 $142 {[%eval -188,19]}) 22... Nc5 23. f3 {Lässt Se4 nicht zu} Nd3 24. Rc2 Nxb2 25. Rxb2 Rad8 {Verhindert Td2.} 26. e4 Rd3 27. Qf2 b6 28. Rd2 Red8 29. Rgd1 Rxd2 30. Rxd2 Qf6 31. g3 $2 {[%eval -460,19] [#]} (31. Rxd8+ {[%eval -162,19]} Qxd8 32. h4) 31... Rxd2 {Gewichteter Fehlerwert: Weiß=0.42/Schwarz=0.20 (präzise)   Fehler:       	Weiß=6     	Schwarz=1     Ungenau:       	Weiß=2     	Schwarz=4     OK:         	Weiß=8     	Schwarz=6     Bester:       	---       	Schwarz=2} 0-1
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "2"]
+[White "Swoboda, Sebastian"]
+[Black "Stehning, Toni"]
+[Result "0-1"]
+[ECO "D34"]
+[PlyCount "42"]
+[GameId "525876939550"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 20,42,37,2,7,-20,8,-3,27,-22,13,-17,-20,-11,20,28,17,14,14,-64,-62,-139,-126,-213,-213]} 1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O O-O 9. dxc5 Bxc5 10. Bg5 Be6 11. a3 h6 {D34: Damengambit (Tarrasch-Verteidigung, Hauptvariante).} 12. Bxf6 Qxf6 13. Rc1 {[%cal Oe2e4]} Rad8 {Die Stellung ist ausgeglichen.} 14. h3 $146 {[%eval -22,16]} (14. Ne1 {[%eval 27,17] ist eher angebracht.}) (14. b4 Be7 15. Na4 Ne5 16. Nxe5 Qxe5 17. Nc5 b6 18. Nxe6 fxe6 19. Qd3 Rc8 20. e3 {0-1 Zrost,R (1941)-Stevik,P (2275) SVK-ch Amateurs Liptovsky Jan 2023 (2)}) 14... Bb6 15. b4 Rfe8 16. Na4 Nd4 17. Nxb6 Nxf3+ 18. exf3 axb6 19. Rc7 {[%eval -64,19]} (19. f4 $11 {[%eval 14,18]}) 19... d4 $15 {[#]} 20. f4 {[%eval -139,21]} ({Vorzuziehen ist} 20. Qd2 $15 {[%eval -62,18]}) 20... d3 $17 {Weiss muss nun ...Db2 beachten. Schwarz spielt im Zentrum} 21. Re1 {[%eval -213,20]} (21. Qd2 $17 {[%eval -126,19] ist eine bessere Verteidigung.}) 21... Qb2 {Gewichteter Fehlerwert: Weiß=0.39/Schwarz=0.15 (sehr präzise)   Fehler:       	Weiß=4     	---        Ungenau:       	Weiß=2     	Schwarz=4     OK:         	Weiß=1     	Schwarz=5} 0-1
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "3"]
+[White "Hilgert, Felix"]
+[Black "Henzelmann, Matthias"]
+[Result "*"]
+[PlyCount "0"]
+[GameId "2154004775393666"]
+[SourceVersionDate "2025.02.08"]
+
+ *
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "4"]
+[White "Stehning, Michel"]
+[Black "Risius, Joerg"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "41"]
+[GameId "525878359813"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 11,41,0,36,4,7,9,41,9,25,14,20,7,14,1,25,-13,3,-9,-9,0,19,20,113,135,121,121,182,182,523,617,622,675]} 1. d4 Nf6 2. Bf4 e6 3. e3 d5 4. Nf3 Be7 5. Nbd2 O-O 6. Bd3 Nbd7 {[%eval 36,18]} (6... Nh5 $11 {[%eval 0,18]}) 7. Qe2 {D02: Damenbauernspiele.} c5 8. c3 b6 9. h4 {Weiß steht etwas besser.} Bb7 10. h5 h6 11. Ne5 Nxe5 12. Bxe5 Bd6 $146 (12... Nd7 13. Bh2 Re8 14. O-O-O Bf6 15. f4 Rc8 16. Kb1 c4 17. Bc2 b5 18. Kc1 a5 {0-1 Eichhorn,E (1306)-Meixner,P (1669) Vienna State-chC 2022 (5)}) 13. Qf3 {[%eval -13,19]} (13. O-O-O $142 {[%eval 25,17]}) 13... Bxe5 $11 14. dxe5 {Eine scharfe Eröffnung} Nd7 15. Qg3 (15. Qf4 {vereinfacht} f6 16. exf6 Qxf6 17. Qxf6 Rxf6 18. Rd1) 15... f6 16. Qg6 {[#] jetzt Dh7+ und aus.} Nxe5 {[%eval 113,17]} (16... fxe5 $11 {[%eval 20,20] hält das Gleichgewicht.} 17. Qh7+ Kf7) 17. Qh7+ $16 Kf7 {und ...f5 wäre nun die Entscheidung} 18. Bg6+ Nxg6 {[%eval 182,14]} (18... Ke7 $16 {[%eval 121,19] war nötig.}) 19. hxg6+ $18 Ke7 $2 {[%eval 523,15] [#]} (19... Ke8 {[%eval 182,20]}) 20. Qxg7+ ({Minderwertig wäre} 20. Rxh6 Rg8 $15) 20... Kd6 21. Qxb7 {Gewichteter Fehlerwert: Weiß=0.13 (sehr präzise) /Schwarz=0.46  Fehler:       	Weiß=1     	Schwarz=3     Ungenau:       	Weiß=1     	Schwarz=1     OK:         	Weiß=3     	Schwarz=7     Bester:       	Weiß=3     	---} 1-0
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "5"]
+[White "Himmelspacht, Maxim"]
+[Black "Stelter, Kai Stelter"]
+[Result "0-1"]
+[ECO "C69"]
+[PlyCount "82"]
+[GameId "525874889255"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 15,82,65,65,25,46,5,48,2,82,94,85,97,94,90,90,26,44,53,63,28,22,2,0,-4,42,0,4,0,0,-8,-4,-11,29,23,57,54,87,18,15,0,17,-62,-71,-63,-58,-122,-118,-129,-129,-264,-285,-273,-273,-419,-447,-442,-458,-451,-497,-548,-579,-575,-622,-562,-630,-613,-639,-624,-620]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 Bd6 8. Be3 Ne7 9. Nb3 $146 {[%eval 25,18] C69: Spanische Partie (Abtauschvariante).} (9. Nd2 $14 {[%eval 65,18]}) (9. Nd2 O-O 10. Nc4 Bc5 11. Nb3 Bxe3 12. Nxe3 b6 13. Qxd8 Rxd8 14. Rad1 Be6 15. Nd4 Bf7 16. a3 g6 {0-1 Karacsonyi,G (2394)-Hong,A (2539) Titled Tuesday intern op 12th Dec Late Chess.com INT blitz 2023 (7)}) 9... Ng6 10. c4 {[%eval 5,17]} (10. f4 $14 {[%eval 46,17]}) 10... Be6 {[%eval 48,18]} (10... Qe7 $11 {[%eval 5,17]}) 11. Qc2 {[%eval 2,18]} (11. N1d2 $14 {[%eval 48,18]}) 11... Ne5 {[%eval 82,20]} (11... Bf4 $1 $11 {[%eval 2,18]}) 12. c5 $16 {Droht Sd4 und aus.} Be7 13. Rd1 {Pariert Dd3.} Qc8 14. Nd4 O-O 15. f3 {[%eval 26,17]} (15. Nd2 $16 {[%eval 90,18]}) 15... Rd8 16. Nd2 {[%cal Bb1d2,Bd2f1,Bf1g3,Bg3e2][%mdl 32] Wehrt Sc4 ab} Bf7 17. Nf5 Bf8 18. b3 Qe6 19. Nf1 Nd7 {[%eval 42,18]} (19... a5 $11 {[%eval -4,20]}) 20. Rac1 {[%eval 4,17]} (20. N1g3 $14 {[%eval 42,18] sieht stärker aus.}) 20... a5 $11 21. Rd2 Ne5 22. Rcd1 Rxd2 23. Rxd2 Nd7 {[%eval 29,19]} (23... a4 $142 {[%eval -11,18]}) 24. N1g3 Be8 25. Ne2 Qe5 {[%cal Rf8c5] [#]} 26. f4 {[%eval 18,20] Weiß hat eine Bauernmehrheit am Königsflügel} (26. Kh1 $1 $16 {[%eval 87,17]}) 26... Qe6 27. Nfd4 (27. Ned4 $5 Qf7 $8 28. Nf3 $15) 27... Qf7 28. Nf5 {[%eval -62,19]} (28. Nf3 $1 $11 {[%eval 17,18]}) 28... g6 $15 29. Nfg3 Qe7 {[%cal Oe8f7]} 30. Qc4+ {[%eval -122,18]} (30. Nd4 $15 {[%eval -58,18]}) 30... Bf7 $17 31. Qc3 Nxc5 32. Bd4 {[%eval -264,17] Der Zug kostet die Partie für Weiß.} (32. Qc2 $17 {[%eval -129,18] ist wohl besser.}) 32... Nxe4 $19 33. Nxe4 Qxe4 34. Bxf6 {[%eval -419,18]} (34. Qc2 $142 {[%eval -273,18]} Qxc2 35. Rxc2) 34... Bd5 {[%csl Gd5][%cal Re4g2]} 35. Qg3 {Schwarz steht klar auf Gewinn.} Qb1+ 36. Kf2 Re8 {Verhindert De3.} 37. Bd4 {Weiss ist schwach auf den weissen Feldern} Bb4 38. Bc3 Bc5+ {Ein starkes Läuferpaar.} 39. Bd4 Bxd4+ {[%mdl 64] Ablenkung} 40. Rxd4 Qb2 {Verhindert Td2} 41. Qg4 {[#]} Rxe2+ $1 {[%mdl 576] Verteidiger eliminieren.   Gewichteter Fehlerwert: Weiß=0.30/Schwarz=0.10 (sehr präzise)   Fehler:       	Weiß=9     	Schwarz=4     Ungenau:       	Weiß=1     	Schwarz=2     OK:         	Weiß=4     	Schwarz=14    Bester:       	Weiß=3     	Schwarz=8} 0-1
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "6"]
+[White "Schrapel, Vian"]
+[Black "Stehning, Ralf"]
+[Result "0-1"]
+[PlyCount "0"]
+[GameId "2154004538050934"]
+[SourceVersionDate "2025.02.08"]
+
+ 0-1
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "7"]
+[White "Ewin, Hans-Peter"]
+[Black "Scheuermann, Otto"]
+[Result "1-0"]
+[ECO "C56"]
+[PlyCount "59"]
+[GameId "525877946582"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 9,59,46,87,87,439,438,1111,1137,1087,1098,1115,1098,1153,1153,1157,1147,1287,1254,1237,1194,1194,1104,1178,1133,1297,1270,1428,1400,1513,1324,1535,1412,1384,1367,1729,1426,2462,2475,29977,29977,29988,29987,29991,29992,29992,29992,29992,29991,29995,29996,29997,29998]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 d6 5. dxe5 Nxe4 {[%eval 87,17]} (5... dxe5 $14 {[%eval 46,18]} 6. Qxd8+ Nxd8) 6. Bxf7+ $16 {[%mdl 64] [#] Hinlenkung. C56: Zweispringerspiel.} ({Viel schlechter ist} 6. Qd5 Be6 7. Qxe4 d5 $11) 6... Ke7 $2 {[%eval 439,15][%mdl 8192]} (6... Kxf7 $16 {[%eval 87,19] ist zäher.} 7. Qd5+ Ke8 8. Qxe4 dxe5) 7. Bd5 $18 Nc5 {[%eval 1111,15]} (7... dxe5 $142 {[%eval 438,16]} 8. Bxe4 Qxd1+ 9. Kxd1 Bd7) 8. Bg5+ {Weiß steht klar auf Gewinn.} Ke8 9. Bxc6+ $146 (9. Bxd8 Nxd8 10. Qe2 Be7 11. exd6 cxd6 12. Nd4 Rf8 13. O-O g6 14. Re1 Nde6 15. Bxe6 Nxe6 16. Nxe6 Bxe6 17. Qxe6 {1-0 Parra,C (1843)-Phillips,D (1107) IECG CP.2006.P.00020 email IECG email}) 9... bxc6 10. Bxd8 Kxd8 11. Ng5 Be6 12. O-O d5 13. b4 Be7 14. Qd2 h6 15. Nxe6+ Nxe6 16. a3 Bg5 17. f4 Be7 18. Nc3 Ke8 19. Ne2 Rd8 20. Nd4 Nxd4 21. Qxd4 a6 22. f5 Rf8 23. f6 gxf6 24. exf6 {Weiß setzt Matt.} Bd6 25. Rae1+ Kf7 26. Qg4 {[%csl Gf6][%cal Rg4g7]} Rg8 27. Qe6+ Kf8 28. f7 {[%csl Ge6][%cal Rf7g8]} Rh8 29. Qf6 {[%csl LRd8,LRh8][%cal Rf6h8]} Bxh2+ 30. Kxh2 {Weiß übernahm nach der Eröffnung die Kontrolle.   Gewichteter Fehlerwert: Weiß=0.10 (sehr präzise) /Schwarz=0.84  Verlustzug:     	---       	Schwarz=1     Fehler:       	---       	Schwarz=1     OK:         	Weiß=1     	---        Bester:       	Weiß=1     	---} 1-0
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "8"]
+[White "Schneider, Christian"]
+[Black "Eckert, Michael"]
+[Result "1-0"]
+[ECO "C37"]
+[PlyCount "55"]
+[GameId "525875868201"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 14,55,-40,-32,38,57,8,17,48,48,84,83,73,73,78,78,170,166,269,232,234,221,288,180,450,193,994,867,1079,273,833,833,2282,2146,1895,1895,2387,2132,29982,29982,29994,29995,29998,29998]} 1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. Bc4 g4 6. O-O gxf3 7. Qxf3 Bh6 8. d4 Qf6 {[%eval 38,18] C37: Königsspringer-Gambit (Muzio).} ({Günstiger ist} 8... d6 $1 $15 {[%eval -32,18]} 9. Bxf4 Qf6 (9... Nxd4 $2 10. Bxf7+ Ke7 11. Nd5+ Kf8 12. Qd3 $18)) 9. e5 $1 $14 Qg7 {[%eval 8,16]} (9... Qf5 $14 {[%eval 57,18] ist eher angebracht.}) 10. Nd5 $146 (10. Nb5 Nxd4 11. Nxd4 Qxe5 12. Qf2 Nf6 13. Bxf4 Bxf4 14. Rae1 {1-0 Meystre,G-Kornschober,R FRG-Cup7 sf corr GER corr 1967}) 10... Kd8 {Die Stellung ist ausgeglichen.} (10... Nxd4 {hält die Spannung aufrecht.} 11. Nxc7+ Kd8 12. Qf2 Nf3+) 11. c3 (11. Bxf4 Nxd4 12. Qa3 Bxf4 13. Rxf4 Ne6 $17 (13... Nxc2 14. Qc5 $11)) 11... Nge7 {[%eval 84,18]} (11... b5 $14 {[%eval 48,17]} 12. Bxb5 Rb8) 12. Nxf4 $16 {Weiß überlässt nun nichts mehr dem Zufall.} Bxf4 13. Bxf4 {Eine scharfe Eröffnung} Rg8 14. Bg3 {Weiß hat aktiveres Spiel.} Rf8 {[%eval 170,18]} (14... d5 $16 {[%eval 78,17]} 15. exd6 (15. Bxd5 Nf5 $11) 15... cxd6) 15. Bh4 $18 {[%cal Oh4f6]} (15. Bxf7 $6 d6 $16) 15... d6 {[%eval 269,15]} (15... Qh6 $142 {[%eval 166,17]} 16. Bf6 Ke8) 16. exd6 (16. Bxf7 Be6 17. Bxe6 Rxf3 18. Rxf3 Ke8 $16 (18... dxe5 $2 19. Rg3 $18) (18... Qh6 $2 19. Rf6 $18)) 16... cxd6 {[#]} 17. Rae1 $1 {[%cal Of3f4]} (17. Bxf7 $2 Be6 18. Bxe7+ Kxe7 $19) 17... Bd7 18. b4 {[%cal Ob4b5] b5! wäre nun fies.} a6 {[%eval 450,17]} (18... f5 {[%eval 180,19] war nötig.}) 19. a4 {[%eval 193,18]} ({Viel schwächer ist} 19. Bxf7 Rc8 20. Qf4 Kc7 $18) (19. Bxe7+ $142 {[%eval 450,17]} Nxe7 20. Qxb7 (20. Bxf7 $2 {ist das falsche Schlagen.} Bc6 $19 {[%mdl 64] Ablenkung})) 19... b5 $2 {[%eval 994,18]} (19... f5 {[%eval 193,18]}) 20. axb5 axb5 21. Bxb5 $2 {[%eval 273,18] [#]} (21. Bxe7+ {[%eval 1079,16]} Kc7 22. Bxd6+ (22. Bxf8 Qxf8 23. Bxb5 Nxd4 $18) (22. Bxf7 Nxe7 23. Rxe7 Ra7 $18) (22. Bxb5 Qh6 $18) 22... Kb6 23. Bc5+ (23. Bxf8 Rxf8 24. Qd5 bxc4 $18) (23. Bxf7 Ra3 $18) 23... Kc7 24. Qf4+ (24. Bxf8 Rxf8 25. Qf4+ Kb6 $18) (24. Bxf7 Qg5 $18) (24. Bxb5 Qg6 $18) 24... Kb7 25. Bxb5 (25. Bxf8 Qxf8 26. Bxb5 Re8 $18)) 21... Kc7 $2 {[%eval 833,15]} (21... f6 {[%eval 273,18]} 22. Bxf6 Rxf6 23. Qxf6 Qxf6 24. Rxf6 Ra3 25. Rf8+ (25. Rxd6 Rxc3 26. Rh6 Nxb4 $18) 25... Kc7) 22. Bxe7 {[%cal Bh4e7,Be7d6,Bd6c5,Bc5d4][%mdl 32]} Nxd4 {Schwarz hat schwache schwarze Felder} 23. Bxd6+ {Das Läuferpaar ist gut.} Kb6 24. Bc5+ Kc7 25. Bxd4 Qg5 26. Re5 {Weiß setzt Matt.} Qg4 27. Rc5+ Kd6 28. Qd5+ {Großartig gespielt von Schneider!   Gewichteter Fehlerwert: Weiß=0.53/Schwarz=1.57  Fehler:       	Weiß=1     	Schwarz=6     Ungenau:       	Weiß=1     	Schwarz=3     OK:         	Weiß=3     	Schwarz=1     Bester:       	Weiß=1     	---        Stark:        	Weiß=2     	---} 1-0
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "9"]
+[White "Darsania, Badri"]
+[Black "Kriesch, Achim"]
+[Result "1/2-1/2"]
+[ECO "D32"]
+[PlyCount "110"]
+[GameId "525874035983"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 13,110,-11,-11,-43,-27,-38,-21,-23,-27,-28,4,0,21,-5,31,23,52,19,41,37,28,24,49,33,81,84,73,80,74,64,72,75,81,63,62,41,58,51,62,11,10,2,21,11,3,-30,-24,-31,-27,-29,-13,-25,-25,-24,-28,-26,-28,-39,0,-17,0,0,0,0,0,0,0,0,40,34,42,37,45,52,48,26,36,32,33,6,27,0,28,22,42,19,20,28,41,5,6,0,4,2,1,4,4,1,3]} 1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. Nc3 d5 5. e3 Nc6 6. dxc5 Bxc5 7. cxd5 exd5 8. a3 {D32: Damengambit (Tarrasch-Verteidigung).} O-O 9. b4 Bb6 10. Na4 $1 Bc7 11. Bb2 Re8 12. Be2 Ne4 $146 (12... Qd6 13. Rc1 Ne4 14. Nc3 Qg6 15. g3 Bh3 16. Nh4 Qh6 17. Nxe4 dxe4 18. Bg4 Rad8 {0-1 Rodewis,T (2384)-Wichmann,C (2299) BL2-Ost 2122 Germany 2022 (3.7)}) 13. O-O a6 {[%eval 31,17]} (13... Qd6 $11 {[%eval -5,15]}) 14. Rc1 $14 Bg4 15. Nc3 Nxc3 16. Bxc3 {Eine scharfe Eröffnung} Qd6 {[#] ...Lxf3 wäre nun fies.} 17. g3 Rad8 18. Nd4 Bh3 {[%eval 81,17]} (18... Bxe2 $1 $14 {[%eval 33,18] war vorzuziehen.} 19. Qxe2 (19. Nxe2 Qg6 $11) 19... Ne5) 19. Nxc6 $16 bxc6 20. Re1 Ra8 21. Qd4 {[%csl Gc3][%cal Rd4g7] [#]} Qg6 22. Bd3 Qh6 23. Ba1 {[%cal Oc1c6] Weiß steht aktiver.} Be5 24. Qc5 Bxa1 25. Rxa1 Qf6 26. f4 {[%eval 11,20]} (26. Be2 $14 {[%eval 62,18]}) 26... Qb2 27. Qc2 {Erfolgreiche Verteidigung Weiß} Qxc2 28. Bxc2 a5 29. bxa5 Rxa5 30. Kf2 g6 31. a4 c5 32. Rab1 Bd7 33. Red1 Bc6 34. Rb6 Rc8 35. Ra1 c4 {[%eval 0,17]} (35... Kf8 $15 {[%eval -39,17]}) 36. Ke2 Kf8 37. Kd2 $1 Ke7 38. Kc3 Kd6 39. Kd4 f5 40. h3 Rca8 {[%eval 40,20]} (40... h5 $11 {[%eval 0,23]}) 41. g4 $14 Kc7 42. Rb4 Bd7 43. gxf5 Bxf5 44. e4 dxe4 45. Rxc4+ Kd6 46. Rb1 (46. Bxe4 {vereinfacht} Bxe4 47. Kxe4 Ke6 48. Rb4) 46... R8a6 47. h4 Rd5+ 48. Ke3 {[%cal Ob1b7]} Rda5 49. Rb8 (49. Bxe4 Rxa4 50. Rxa4 Rxa4 51. Bxf5 gxf5) 49... Bd7 50. Rd8 {Schwarz muss nun Td4+ beachten.} (50. Kxe4 Bxa4 51. Bd3 Ra7) 50... Ra7 51. Rd4+ {[%eval 5,20]} ({Doch nicht} 51. Kxe4 Ke7 52. Rg8 Bxa4 53. Rg7+ Kf6 54. Rxa7 Bxc2+ 55. Rxc2 Rxa7 $11) (51. Bd1 $14 {[%eval 41,19]}) 51... Ke7 $11 {Die Stellung ist ausgeglichen.} 52. Rg8 (52. Rxe4+ $2 {verliert.} Kxd8 53. Rd4 Ke7 $19) 52... Kf7 {Lässt Tg7+ nicht zu} 53. Bb3+ Be6 54. Bxe6+ Kxe6 55. Re8+ (55. Rxe4+ Kf6 56. Ree8 Rxa4) 55... Kf7 {Gewichteter Fehlerwert: Weiß=0.11 (sehr präzise) /Schwarz=0.11 (sehr präzise)   Fehler:       	Weiß=2     	Schwarz=4     Ungenau:       	Weiß=5     	Schwarz=3     OK:         	Weiß=19    	Schwarz=15    Bester:       	Weiß=2     	Schwarz=1     Stark:        	Weiß=2     	---} 1/2-1/2
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "10"]
+[White "Wuest, Klaus"]
+[Black "Stelter, Matthias"]
+[Result "1-0"]
+[ECO "D05"]
+[PlyCount "76"]
+[GameId "525875368318"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 9,76,52,71,52,52,46,43,49,54,29,67,68,103,104,99,42,41,44,48,39,74,71,63,70,59,68,92,94,88,79,99,51,137,86,60,58,183,65,239,247,328,219,209,149,162,156,229,152,142,92,69,73,85,-23,-12,-10,53,-29,67,63,72,45,85,54,332,341,329,342,407]} 1. d4 d5 2. Nf3 c6 3. e3 Nf6 4. Nbd2 Nbd7 5. Bd3 e6 6. b3 {D05: Damenbauernspiele (Colle-Aufbau).} Qc7 7. Bb2 Be7 8. O-O {Weiß steht etwas besser.} O-O 9. Ne5 Re8 {[%eval 67,17]} (9... Nxe5 $11 {[%eval 29,17] kam in Betracht.} 10. dxe5 Nd7) 10. f4 $14 Nf8 {[%csl Oe5] Starkes Feld Weiß (e5)} 11. Qf3 $146 (11. g4 N6d7 12. f5 Nxe5 13. dxe5 exf5 14. gxf5 Bg5 15. Qf3 Qb6 16. Rae1 Qc7 17. Qh5 {1-0 Antonova,N (1909)-Lopang,T (1838) Olympiad Women-40 Istanbul 2012 (9.1)}) 11... b6 12. g4 {[%eval 42,17] Weiß steht deutlich aktiver. Die schwarzen Türme stehen passiv.} (12. Qh3 $16 {[%eval 99,15]}) 12... N6d7 13. Qh3 f6 {Raumvorteil Weiß} 14. Nef3 c5 15. Rac1 cxd4 16. Nxd4 Nc5 17. Be2 a6 18. c4 Qd7 19. cxd5 exd5 20. Rfd1 {[%eval 51,16]} (20. Nf5 $16 {[%eval 99,16]}) 20... Bd6 {[%eval 137,17] [#]} (20... Nfe6 $14 {[%eval 51,16]}) 21. Nf1 {[%eval 86,16]} (21. Nc4 $142 $1 {[%eval 137,17][%cal Rc4b6]} dxc4 22. Bxc4+ Kh8 23. Nf5) 21... Bb7 $16 22. Bf3 Rac8 {[%eval 183,17]} (22... Nce6 $1 $14 {[%eval 58,17]}) 23. Qg2 {[%eval 65,18]} (23. Nf5 $18 {[%eval 183,17]}) 23... Qf7 {[%eval 239,16]} (23... Ne4 $14 {[%eval 65,18]}) 24. Nf5 $1 $18 {[%csl LRd5,LRd6]} Bb8 25. Bxd5 Bxd5 26. Qxd5 Qxd5 27. Rxd5 a5 {[%eval 229,17]} (27... Rcd8 $16 {[%eval 156,18] ist wohl besser.} 28. Rcd1 Rxd5 29. Rxd5 Ncd7) 28. Bd4 Nfe6 29. Bb2 {[%eval 92,18]} (29. Bxc5 $142 {[%eval 142,19]} Rxc5 30. Rcxc5 bxc5 31. Rd7) 29... Bxf4 $16 30. exf4 Nxf4 {[#]} 31. Rcd1 {[%eval -23,18]} Nxd5 $11 32. Rxd5 Re2 {[%eval 53,18]} ({Besser ist} 32... Rcd8 $1 $11 {[%eval -10,19]} 33. Rxd8 Rxd8) 33. Rd2 {[%eval -29,20]} (33. N1g3 $14 {[%eval 53,18]} Ree8 34. Nd6) 33... Re1 {[%eval 67,20]} (33... Rxd2 $11 {[%eval -29,20]} 34. Nxd2 Re8) 34. Kf2 $36 {[%mdl 2048] Weiss drückt.} Re6 {Weiss muss nun ...Se4+ beachten.} 35. Kg2 Rce8 {[%eval 85,19]} (35... a4 $14 {[%eval 45,19]}) 36. N1g3 {[%cal Og4g5]} Kf7 $2 {[%eval 332,17][%mdl 8192]} (36... g6 $1 $14 {[%eval 54,18]}) 37. Nd6+ $18 Rxd6 38. Rxd6 Re1 {Gewichteter Fehlerwert: Weiß=0.34/Schwarz=0.43  Verlustzug:     	---       	Schwarz=2     Fehler:       	Weiß=7     	Schwarz=7     Ungenau:       	Weiß=4     	Schwarz=3     OK:         	Weiß=10    	Schwarz=8     Bester:       	Weiß=2     	Schwarz=2} 1-0
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "11"]
+[White "Henzelmann, Daria"]
+[Black "Maier, Dietrich"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[PlyCount "46"]
+[GameId "525876442323"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 13,46,35,41,-8,45,15,19,16,30,28,29,31,42,28,43,41,96,12,60,-35,-50,-60,0,0,5,3,0,6,76,-11,22,30,25,17,22]} 1. Nf3 Nf6 2. d4 d5 3. c4 c6 4. e3 g6 5. Be2 Bg7 6. Nc3 O-O 7. O-O Bf5 {7...a6 ist die kritische Fortsetzung.} 8. b4 {[%eval -8,18] D94: Grünfeldindisch (Geschlossenes System).} (8. Qb3 $14 {[%eval 41,18]}) 8... e6 $146 {[%eval 45,16]} (8... Nbd7 $11 {[%eval -8,18]}) (8... dxc4 9. Bxc4 a5 10. b5 c5 11. Bb2 Nbd7 12. Nh4 Nb6 13. Qe2 Bg4 14. f3 Nxc4 15. Qxc4 Be6 16. Qxc5 {0-1 Wueest,A (2234)-Cuenca Jimenez,J (2499) Titled Tuesday intern op 26th Mar Late Chess.com INT blitz 2024 (2)}) 9. Qb3 Ne4 10. Bb2 Bg4 11. Rfd1 Nd7 12. h3 Bxf3 13. Bxf3 f5 14. cxd5 exd5 {[%eval 96,18]} (14... cxd5 $14 {[%eval 41,18]} 15. Nxe4 fxe4) 15. g3 {[%eval 12,17]} ({Vorzuziehen ist} 15. Nxe4 $16 {[%eval 96,18]} fxe4 16. Be2 (16. Bxe4 Qh4 $11)) 15... Nb6 {[%eval 60,18]} (15... Rf7 $11 {[%eval 12,17]}) 16. Bxe4 {[%eval -35,16]} (16. Nxe4 $14 {[%eval 60,18]} fxe4 17. Bxe4) 16... fxe4 $15 17. Nxe4 {[%cal Bc3e4,Be4c5,Bc5d3][%mdl 32]} Nc4 {[%eval 0,16]} (17... Qd7 $15 {[%eval -60,17]} 18. Nd2 (18. Ng5 $2 h6 $19) 18... Qxh3) 18. Nc5 $11 Qf6 {Verhindert Se6} 19. Qc2 Qf3 {[%cal Oc4e3] [#] ...Sxe3! soll folgen} 20. Re1 Rae8 {[%eval 76,17]} (20... Rf7 $11 {[%eval 6,18] hält das Gleichgewicht.}) 21. Qe2 {[%eval -11,17]} (21. Nxb7 $16 {[%eval 76,17]} Nxe3 22. fxe3 Qxg3+ 23. Qg2 Rxe3 (23... Qh4 24. e4 $11 {[%mdl 64] Hinlenkung}) 24. Qxg3 Rxg3+ 25. Kh2) 21... b6 22. Qxf3 Rxf3 23. Nd3 Nxb2 {Gewichteter Fehlerwert: Weiß=0.27 (präzise) /Schwarz=0.29 (präzise)   Fehler:       	Weiß=3     	Schwarz=5     Ungenau:       	Weiß=1     	Schwarz=1     OK:         	Weiß=7     	Schwarz=1     Bester:       	Weiß=1     	---} 1/2-1/2
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "12"]
+[White "van der Riet, Ernst"]
+[Black "Kuehn, Thomas"]
+[Result "1-0"]
+[ECO "C10"]
+[PlyCount "57"]
+[GameId "525877200913"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 14,57,101,85,83,74,71,64,51,43,59,29,22,16,82,63,75,70,74,75,135,83,157,141,143,134,148,149,141,71,98,46,114,112,121,110,102,91,114,58,100,111,267,269,250,258]} 1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Bxe4 7. Bxe4 c6 8. c3 Nf6 {C10: Französische Verteidigung (Rubinstein-Variante).} 9. Bd3 Bd6 10. Bg5 Nbd7 {Weiß steht etwas besser.} 11. Qb3 $146 (11. Qe2 Qc7 12. g3 h6 13. Bd2 O-O-O 14. O-O-O Rhe8 15. Bc4 Re7 16. Rhe1 Kb8 17. Bb3 {1-0 Ulusoy,T (1991)-Stertkuhl,E (2048) Regionalliga Nord-Ost 1819 Bayern 2018 (3.3)}) 11... Qc7 12. h3 h6 13. Bd2 b5 {[%eval 82,18]} (13... c5 $11 {[%eval 16,19] hält das Gleichgewicht.}) 14. a4 $16 bxa4 15. Qxa4 O-O 16. O-O {Weiß steht aktiver.} Nb6 {[%eval 135,18] [#]} (16... c5 $142 {[%eval 75,17]}) 17. Qc2 {[%eval 83,18]} (17. Qa5 $142 $1 {[%eval 135,18]}) 17... c5 {[%eval 157,19]} (17... a5 $142 {[%eval 83,18]}) 18. dxc5 Bxc5 19. c4 Rfd8 20. Ba5 {Ein starkes Läuferpaar.} Qe7 21. Qc3 {[%eval 71,17] Lässt Lb4 nicht zu} (21. Rfd1 $142 {[%eval 141,17]}) 21... Rdc8 22. Kh1 {[%eval 46,17]} (22. Ne5 $16 {[%eval 98,17]}) 22... Qb7 {[%eval 114,16]} (22... Bd6 $14 {[%eval 46,17]}) 23. b4 Be7 24. Qb3 Nbd7 25. Qa4 {[%csl Oa5] Starkes Feld Weiß (a5)} Nb6 {[#]} 26. Qb5 {[%eval 58,20]} (26. Qa2 $1 $16 {[%eval 114,20]}) 26... Rab8 {[%eval 100,21]} (26... Nfd7 $14 {[%eval 58,20] verdient Beachtung.}) 27. c5 {[%cal Ob5a6] Weiß hat eine Bauernmehrheit am Damenflügel. Weiß spielt am Damenflügel und steht besser} Nbd7 $2 {[%eval 267,20]} (27... Ne8 $16 {[%eval 111,19] war nötig.}) 28. Qxb7 $18 Rxb7 29. Ba6 {Gewichteter Fehlerwert: Weiß=0.17 (sehr präzise) /Schwarz=0.31  Fehler:       	Weiß=4     	Schwarz=6     Ungenau:       	Weiß=1     	Schwarz=1     OK:         	Weiß=6     	Schwarz=6     Bester:       	Weiß=2     	---} 1-0
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "13"]
+[White "Kokoska, Christian"]
+[Black "Hilgert, Günter"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[PlyCount "56"]
+[GameId "525873481981"]
+[SourceVersionDate "2025.02.08"]
+
+{[%evp 9,56,-141,-141,-209,-184,-248,-171,-188,-161,-227,-160,-207,-154,-233,-202,-379,-365,-483,-465,-510,-342,-335,-264,-280,-209,-206,-163,-201,-214,-220,-171,-229,-227,-368,-386,-375,-280,-282,24,-286,186,167,246,-89,-107,-96,-108,-107,-107]} 1. e4 d5 2. Nf3 dxe4 3. Ng1 Nf6 4. Nc3 Bg4 5. f3 $146 (5. Bb5+ c6 6. f3 exf3 7. gxf3 Bh3 8. Bf1 Bxf1 9. Kxf1 Na6 10. a3 Qd7 11. d3 {½-½ Murin,L (1000)-Duda,F (1238) SVK-ch U10 Lubovna 2020 (4)}) 5... exf3 6. gxf3 {[%eval -209,18] B01: Skandinavische Verteidigung.} (6. Nxf3 $17 {[%eval -141,18]} Nc6 7. Bb5) 6... Bh5 7. Qe2 {[%eval -248,18]} (7. d4 {[%eval -184,18]}) 7... e6 {[#]} 8. Qb5+ {Schwarz steht deutlich besser.} Nbd7 {Und jetzt ...Lc5 wäre schön.} 9. d3 {[%eval -227,18]} (9. d4 $142 {[%eval -161,17]}) 9... b6 10. Be2 {[%eval -207,18]} (10. Bg5 $17 {[%eval -160,19]} a6 11. Qc6) 10... Bd6 11. Ne4 {[%eval -233,17]} (11. f4 $17 {[%eval -154,18]} Bg6 12. h4) 11... O-O 12. Bd2 $2 {[%eval -379,18]} (12. Bg5 {[%eval -202,19]}) 12... Nxe4 $19 13. Qxh5 Nxd2 14. Kxd2 Nf6 15. Qh4 Qe7 16. c3 Bc5 17. d4 Bd6 18. Kc2 {[%eval -201,16]} (18. Bd3 $142 {[%eval -163,17]}) 18... c5 19. Rd1 Rfe8 20. f4 {[%eval -229,18]} (20. Bb5 $142 {[%eval -171,18]}) 20... Nd5 {[%csl Oh4][%mdl 64] [#] Abzugsangriff} 21. Qg3 {[%eval -368,18]} (21. Qxe7 {[%eval -227,19] war die einzige Verteidigung.} Rxe7 (21... Bxe7 $2 22. Rd2 $19) 22. Kb1) 21... Bxf4 22. Qf3 Qd6 23. Kb1 e5 $2 {[%eval 24,17]} (23... Bxh2 24. Qh5 Bf4 25. Qxh7+ Kf8 26. Nf3 $15) ({Vorzuziehen ist} 23... cxd4 $19 {[%eval -282,16]} 24. Rxd4 Be5 (24... Bxh2 25. Rh4 $17)) 24. dxc5 $2 {[%eval -286,20][%mdl 8192]} (24. dxe5 $1 $11 {[%eval 24,17]} Rxe5 25. c4) 24... bxc5 $4 {[%eval 186,19][%mdl 8192]} (24... Qg6+ $19 {[%eval -286,20]} 25. Qd3 Ne3 (25... bxc5 26. Qxg6 Nxc3+ 27. bxc3 $16) 26. Qxg6 hxg6) 25. Rxd5 $18 e4 {[%eval 246,19]} (25... Qg6+ {[%eval 167,18] ist eine bessere Verteidigung.} 26. Ka1 Bc1) 26. Rxd6 $2 {[%eval -89,16]} ({Weiss braucht} 26. Qh5 $18 {[%eval 246,19]} Qb6 27. Rd7 (27. Rxc5 g6 $17)) 26... exf3 $17 {Schwarz steht besser.} 27. Bxf3 Bxd6 28. Bxa8 Rxa8 {Gewichteter Fehlerwert: Weiß=0.78/Schwarz=0.80  Verlustzug:     	Weiß=1     	---        Gewinn verpasst:   	Weiß=1     	Schwarz=2     Fehler:       	Weiß=8     	Schwarz=1     Ungenau:       	Weiß=1     	Schwarz=2     OK:         	Weiß=7     	Schwarz=5     Bester:       	Weiß=1     	Schwarz=2} 1/2-1/2
+
+[Event "Braunfels SM 2025"]
+[Site "?"]
+[Date "2025.03.07"]
+[Round "3"]
+[Board "14"]
+[White "Geist, Wladislaw"]
+[Black "spielfrei"]
+[Result "1-0"]
+[PlyCount "0"]
+[GameId "2154004142975143"]
+[SourceVersionDate "2025.02.08"]
+
+ 1-0
 
