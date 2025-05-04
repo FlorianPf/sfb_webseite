@@ -1,4 +1,4 @@
-Mon Apr 28 15:23:12 CEST 2025
+Sun May  4 10:59:21 CEST 2025
 archiv.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -139,6 +139,9 @@ line 175 column 11 - Warning: <a> proprietary attribute "download"
 line 177 column 47 - Warning: <img> attribute "width" has invalid value "30px"
 line 177 column 47 - Warning: <img> attribute "height" has invalid value "30px"
 line 182 column 11 - Warning: <a> proprietary attribute "download"
+line 183 column 59 - Warning: <img> attribute "width" has invalid value "30px"
+line 183 column 59 - Warning: <img> attribute "height" has invalid value "30px"
+line 188 column 11 - Warning: <a> proprietary attribute "download"
 turniere_vm.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
