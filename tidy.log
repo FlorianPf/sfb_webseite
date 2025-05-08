@@ -1,4 +1,4 @@
-Tue May  6 13:47:56 CEST 2025
+Thu May  8 14:06:34 CEST 2025
 archiv.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -43,6 +43,13 @@ line 1061 column 28 - Warning: <img> attribute "height" has invalid value "30px"
 line 1076 column 28 - Warning: <img> attribute "width" has invalid value "30px"
 line 1076 column 28 - Warning: <img> attribute "height" has invalid value "30px"
 line 1457 column 9 - Warning: <table> lacks "summary" attribute
+dfmm-lv.html
+Config: unknown option: preserve-entities
+line 14 column 11 - Warning: <img> attribute "width" has invalid value "70px"
+line 14 column 11 - Warning: <img> attribute "height" has invalid value "70px"
+line 23 column 11 - Warning: <img> attribute "width" has invalid value "60px"
+line 23 column 11 - Warning: <img> attribute "height" has invalid value "70px"
+line 126 column 11 - Warning: <a> proprietary attribute "download"
 dwz-liste.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -65,21 +72,21 @@ line 14 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 14 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 23 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 23 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 123 column 11 - Warning: <a> proprietary attribute "download"
-line 124 column 59 - Warning: <img> attribute "width" has invalid value "30px"
-line 124 column 59 - Warning: <img> attribute "height" has invalid value "30px"
-line 129 column 11 - Warning: <a> proprietary attribute "download"
-line 131 column 47 - Warning: <img> attribute "width" has invalid value "30px"
-line 131 column 47 - Warning: <img> attribute "height" has invalid value "30px"
-line 136 column 11 - Warning: <a> proprietary attribute "download"
-line 151 column 9 - Warning: <table> lacks "summary" attribute
-line 226 column 11 - Warning: <a> proprietary attribute "download"
-line 227 column 55 - Warning: <img> attribute "width" has invalid value "30px"
-line 227 column 55 - Warning: <img> attribute "height" has invalid value "30px"
-line 246 column 11 - Warning: <a> proprietary attribute "download"
-line 247 column 40 - Warning: <img> attribute "width" has invalid value "30px"
-line 247 column 40 - Warning: <img> attribute "height" has invalid value "30px"
-line 277 column 9 - Warning: <table> lacks "summary" attribute
+line 132 column 11 - Warning: <a> proprietary attribute "download"
+line 133 column 59 - Warning: <img> attribute "width" has invalid value "30px"
+line 133 column 59 - Warning: <img> attribute "height" has invalid value "30px"
+line 138 column 11 - Warning: <a> proprietary attribute "download"
+line 140 column 47 - Warning: <img> attribute "width" has invalid value "30px"
+line 140 column 47 - Warning: <img> attribute "height" has invalid value "30px"
+line 145 column 11 - Warning: <a> proprietary attribute "download"
+line 160 column 9 - Warning: <table> lacks "summary" attribute
+line 235 column 11 - Warning: <a> proprietary attribute "download"
+line 236 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 236 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 255 column 11 - Warning: <a> proprietary attribute "download"
+line 256 column 40 - Warning: <img> attribute "width" has invalid value "30px"
+line 256 column 40 - Warning: <img> attribute "height" has invalid value "30px"
+line 286 column 9 - Warning: <table> lacks "summary" attribute
 kalender.html
 Config: unknown option: preserve-entities
 line 15 column 11 - Warning: <img> attribute "width" has invalid value "70px"
