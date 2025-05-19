@@ -1,4 +1,4 @@
-Fri May 16 11:00:41 CEST 2025
+Mon May 19 10:10:05 CEST 2025
 archiv.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -72,18 +72,18 @@ line 14 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 14 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 23 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 23 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 155 column 11 - Warning: <a> proprietary attribute "download"
-line 156 column 59 - Warning: <img> attribute "width" has invalid value "30px"
-line 156 column 59 - Warning: <img> attribute "height" has invalid value "30px"
-line 161 column 11 - Warning: <a> proprietary attribute "download"
-line 163 column 47 - Warning: <img> attribute "width" has invalid value "30px"
-line 163 column 47 - Warning: <img> attribute "height" has invalid value "30px"
-line 168 column 11 - Warning: <a> proprietary attribute "download"
-line 184 column 9 - Warning: <table> lacks "summary" attribute
-line 259 column 11 - Warning: <a> proprietary attribute "download"
-line 260 column 55 - Warning: <img> attribute "width" has invalid value "30px"
-line 260 column 55 - Warning: <img> attribute "height" has invalid value "30px"
-line 309 column 9 - Warning: <table> lacks "summary" attribute
+line 181 column 11 - Warning: <a> proprietary attribute "download"
+line 182 column 59 - Warning: <img> attribute "width" has invalid value "30px"
+line 182 column 59 - Warning: <img> attribute "height" has invalid value "30px"
+line 187 column 11 - Warning: <a> proprietary attribute "download"
+line 189 column 47 - Warning: <img> attribute "width" has invalid value "30px"
+line 189 column 47 - Warning: <img> attribute "height" has invalid value "30px"
+line 194 column 11 - Warning: <a> proprietary attribute "download"
+line 210 column 9 - Warning: <table> lacks "summary" attribute
+line 284 column 11 - Warning: <a> proprietary attribute "download"
+line 285 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 285 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 334 column 9 - Warning: <table> lacks "summary" attribute
 kalender.html
 Config: unknown option: preserve-entities
 line 15 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -155,12 +155,12 @@ line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 13 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 22 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 22 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 132 column 11 - Warning: <a> proprietary attribute "download"
-line 133 column 55 - Warning: <img> attribute "width" has invalid value "30px"
-line 133 column 55 - Warning: <img> attribute "height" has invalid value "30px"
-line 143 column 9 - Warning: <table> lacks "summary" attribute
-line 219 column 9 - Warning: <table> lacks "summary" attribute
-line 323 column 9 - Warning: <table> lacks "summary" attribute
+line 131 column 11 - Warning: <a> proprietary attribute "download"
+line 132 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 132 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 142 column 9 - Warning: <table> lacks "summary" attribute
+line 218 column 9 - Warning: <table> lacks "summary" attribute
+line 322 column 9 - Warning: <table> lacks "summary" attribute
 turniere.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
