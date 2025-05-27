@@ -1,4 +1,4 @@
-Tue May 27 13:59:00 CEST 2025
+Tue May 27 14:05:45 CEST 2025
 archiv.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -80,11 +80,11 @@ line 281 column 11 - Warning: <a> proprietary attribute "download"
 line 283 column 47 - Warning: <img> attribute "width" has invalid value "30px"
 line 283 column 47 - Warning: <img> attribute "height" has invalid value "30px"
 line 288 column 11 - Warning: <a> proprietary attribute "download"
-line 365 column 9 - Warning: <table> lacks "summary" attribute
-line 439 column 11 - Warning: <a> proprietary attribute "download"
-line 440 column 55 - Warning: <img> attribute "width" has invalid value "30px"
-line 440 column 55 - Warning: <img> attribute "height" has invalid value "30px"
-line 489 column 9 - Warning: <table> lacks "summary" attribute
+line 353 column 9 - Warning: <table> lacks "summary" attribute
+line 427 column 11 - Warning: <a> proprietary attribute "download"
+line 428 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 428 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 477 column 9 - Warning: <table> lacks "summary" attribute
 kalender.html
 Config: unknown option: preserve-entities
 line 15 column 11 - Warning: <img> attribute "width" has invalid value "70px"
