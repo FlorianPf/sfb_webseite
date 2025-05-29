@@ -102,10 +102,6 @@ table.archiv td, th {
     text-align: left;
 }
 
-table.archiv td:nth-child(3) {
-    text-align: center;
-}
-
 table.dwz {
     border: 1px solid;
     border-collapse: collapse;
