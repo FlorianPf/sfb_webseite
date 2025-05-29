@@ -2,7 +2,9 @@ echo Improving all HTML files using tidy.
 
 date > tidy.log
 
-declare -a arr=("archiv.html"
+declare -a arr=("archiv_mannschaften.html"
+		"archiv_turniere.html"
+		"archiv.html"
                 "dfmm-lv.html"
                 "dwz-liste.html"
                 "impressum.html"
