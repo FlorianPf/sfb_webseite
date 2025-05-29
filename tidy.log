@@ -1,4 +1,4 @@
-Thu May 29 12:16:01 CEST 2025
+Thu May 29 12:19:47 CEST 2025
 archiv_mannschaften.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -57,46 +57,6 @@ line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 13 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 22 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 22 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 133 column 13 - Warning: <table> lacks "summary" attribute
-line 154 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 154 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 169 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 169 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 184 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 184 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 199 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 199 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 230 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 230 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 245 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 245 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 260 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 260 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 275 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 275 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 629 column 13 - Warning: <table> lacks "summary" attribute
-line 650 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 650 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 665 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 665 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 680 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 680 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 695 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 695 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 710 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 710 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 725 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 725 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 740 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 740 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 755 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 755 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 1073 column 13 - Warning: <table> lacks "summary" attribute
-line 1094 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 1094 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 1109 column 28 - Warning: <img> attribute "width" has invalid value "30px"
-line 1109 column 28 - Warning: <img> attribute "height" has invalid value "30px"
-line 1490 column 9 - Warning: <table> lacks "summary" attribute
 dfmm-lv.html
 Config: unknown option: preserve-entities
 line 14 column 11 - Warning: <img> attribute "width" has invalid value "70px"
