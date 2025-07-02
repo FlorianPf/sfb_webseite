@@ -16,6 +16,9 @@
 	auf allen nötigen Seiten hinzugefügt. So könnten z.B. auf der Hauptseite die
 	zehn aktuellsten Meldungen dargestellt werden, alte werden automatisch entfernt.
 	Im Kalender könnten die vergangenen Daten automatisch entfernt werden.
-- Startseite mit Inhalt füllen
 - LaTeX-Template für Ausschreibungen aufsetzen
 - Die Warnings in tidy.log beheben
+- Vor dem Hochladen auf GitHub automatisch:
+	a) Umlaute ersetzen
+	b) DWZ-Liste updaten
+	c) tidy laufen lassen
