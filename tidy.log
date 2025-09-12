@@ -1,4 +1,4 @@
-Fri Sep 12 22:14:22 CEST 2025
+Fri Sep 12 22:22:07 CEST 2025
 archiv_mannschaften.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -85,11 +85,11 @@ line 14 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 23 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 23 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 139 column 9 - Warning: <table> lacks "summary" attribute
-line 208 column 9 - Warning: <table> lacks "summary" attribute
-line 324 column 11 - Warning: <a> proprietary attribute "download"
-line 325 column 55 - Warning: <img> attribute "width" has invalid value "30px"
-line 325 column 55 - Warning: <img> attribute "height" has invalid value "30px"
-line 466 column 9 - Warning: <table> lacks "summary" attribute
+line 204 column 9 - Warning: <table> lacks "summary" attribute
+line 320 column 11 - Warning: <a> proprietary attribute "download"
+line 321 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 321 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 462 column 9 - Warning: <table> lacks "summary" attribute
 jugend.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -121,8 +121,8 @@ line 13 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 22 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 22 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 155 column 9 - Warning: <table> lacks "summary" attribute
-line 217 column 9 - Warning: <table> lacks "summary" attribute
-line 345 column 9 - Warning: <table> lacks "summary" attribute
+line 213 column 9 - Warning: <table> lacks "summary" attribute
+line 341 column 9 - Warning: <table> lacks "summary" attribute
 turniere_stm.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
