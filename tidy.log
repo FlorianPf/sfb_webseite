@@ -1,4 +1,4 @@
-Fri Sep 12 22:22:07 CEST 2025
+Mon Sep 22 09:19:04 CEST 2025
 archiv_mannschaften.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -85,10 +85,10 @@ line 14 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 23 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 23 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 139 column 9 - Warning: <table> lacks "summary" attribute
-line 204 column 9 - Warning: <table> lacks "summary" attribute
-line 320 column 11 - Warning: <a> proprietary attribute "download"
-line 321 column 55 - Warning: <img> attribute "width" has invalid value "30px"
-line 321 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 255 column 11 - Warning: <a> proprietary attribute "download"
+line 256 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 256 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 271 column 9 - Warning: <table> lacks "summary" attribute
 line 462 column 9 - Warning: <table> lacks "summary" attribute
 jugend.html
 Config: unknown option: preserve-entities
@@ -172,9 +172,10 @@ line 154 column 55 - Warning: <img> attribute "width" has invalid value "30px"
 line 154 column 55 - Warning: <img> attribute "height" has invalid value "30px"
 line 164 column 9 - Warning: <table> lacks "summary" attribute
 line 282 column 9 - Warning: <table> lacks "summary" attribute
-line 386 column 9 - Warning: <table> lacks "summary" attribute
-line 462 column 9 - Warning: <table> lacks "summary" attribute
-line 566 column 9 - Warning: <table> lacks "summary" attribute
+line 400 column 9 - Warning: <table> lacks "summary" attribute
+line 504 column 9 - Warning: <table> lacks "summary" attribute
+line 580 column 9 - Warning: <table> lacks "summary" attribute
+line 684 column 9 - Warning: <table> lacks "summary" attribute
 turniere.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
