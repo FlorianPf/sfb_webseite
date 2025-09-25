@@ -1,4 +1,4 @@
-Mon Sep 22 09:19:04 CEST 2025
+Thu Sep 25 12:30:27 CEST 2025
 archiv_mannschaften.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -85,17 +85,19 @@ line 14 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 23 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 23 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 139 column 9 - Warning: <table> lacks "summary" attribute
-line 255 column 11 - Warning: <a> proprietary attribute "download"
-line 256 column 55 - Warning: <img> attribute "width" has invalid value "30px"
-line 256 column 55 - Warning: <img> attribute "height" has invalid value "30px"
-line 271 column 9 - Warning: <table> lacks "summary" attribute
-line 462 column 9 - Warning: <table> lacks "summary" attribute
+line 232 column 9 - Warning: <table> lacks "summary" attribute
+line 348 column 11 - Warning: <a> proprietary attribute "download"
+line 349 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 349 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 364 column 9 - Warning: <table> lacks "summary" attribute
+line 557 column 9 - Warning: <table> lacks "summary" attribute
 jugend.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 13 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 22 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 22 column 11 - Warning: <img> attribute "height" has invalid value "70px"
+line 138 column 9 - Warning: <table> lacks "summary" attribute
 kalender.html
 Config: unknown option: preserve-entities
 line 15 column 11 - Warning: <img> attribute "width" has invalid value "70px"

@@ -60,11 +60,11 @@ table.ergebnis td{
 }
 
 table.ergebnis td:nth-child(1){
-    width: 110pt;
+    width: 120pt;
 }
 
 table.ergebnis td:nth-child(3) {
-    width: 110pt;
+    width: 120pt;
 }
 
 table.ergebnis td:nth-child(4) {
