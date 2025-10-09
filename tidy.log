@@ -1,4 +1,4 @@
-Wed Oct  1 14:02:12 CEST 2025
+Thu Oct  9 13:46:41 CEST 2025
 archiv_mannschaften.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -84,21 +84,21 @@ line 14 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 14 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 23 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 23 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 139 column 9 - Warning: <table> lacks "summary" attribute
-line 252 column 9 - Warning: <table> lacks "summary" attribute
-line 368 column 11 - Warning: <a> proprietary attribute "download"
-line 369 column 55 - Warning: <img> attribute "width" has invalid value "30px"
-line 369 column 55 - Warning: <img> attribute "height" has invalid value "30px"
-line 384 column 9 - Warning: <table> lacks "summary" attribute
-line 589 column 9 - Warning: <table> lacks "summary" attribute
+line 171 column 9 - Warning: <table> lacks "summary" attribute
+line 287 column 9 - Warning: <table> lacks "summary" attribute
+line 403 column 11 - Warning: <a> proprietary attribute "download"
+line 404 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 404 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 419 column 9 - Warning: <table> lacks "summary" attribute
+line 600 column 9 - Warning: <table> lacks "summary" attribute
 jugend.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 13 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 22 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 22 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 141 column 17 - Warning: <table> lacks "summary" attribute
-line 244 column 9 - Warning: <table> lacks "summary" attribute
+line 175 column 9 - Warning: <table> lacks "summary" attribute
+line 278 column 9 - Warning: <table> lacks "summary" attribute
 kalender.html
 Config: unknown option: preserve-entities
 line 15 column 11 - Warning: <img> attribute "width" has invalid value "70px"
