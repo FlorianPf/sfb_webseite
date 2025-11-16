@@ -1,4 +1,4 @@
-Thu Nov 13 10:31:38 CET 2025
+Sun Nov 16 15:26:05 CET 2025
 archiv_mannschaften.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -85,13 +85,13 @@ line 14 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 23 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 23 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 139 column 9 - Warning: <table> lacks "summary" attribute
-line 174 column 9 - Warning: <table> lacks "summary" attribute
-line 200 column 9 - Warning: <table> lacks "summary" attribute
-line 316 column 11 - Warning: <a> proprietary attribute "download"
-line 317 column 55 - Warning: <img> attribute "width" has invalid value "30px"
-line 317 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 255 column 11 - Warning: <a> proprietary attribute "download"
+line 256 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 256 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 271 column 9 - Warning: <table> lacks "summary" attribute
+line 306 column 9 - Warning: <table> lacks "summary" attribute
 line 370 column 9 - Warning: <table> lacks "summary" attribute
-line 588 column 9 - Warning: <table> lacks "summary" attribute
+line 587 column 9 - Warning: <table> lacks "summary" attribute
 jugend.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -180,9 +180,10 @@ line 164 column 9 - Warning: <table> lacks "summary" attribute
 line 282 column 9 - Warning: <table> lacks "summary" attribute
 line 400 column 9 - Warning: <table> lacks "summary" attribute
 line 518 column 9 - Warning: <table> lacks "summary" attribute
-line 622 column 9 - Warning: <table> lacks "summary" attribute
-line 698 column 9 - Warning: <table> lacks "summary" attribute
-line 802 column 9 - Warning: <table> lacks "summary" attribute
+line 636 column 9 - Warning: <table> lacks "summary" attribute
+line 740 column 9 - Warning: <table> lacks "summary" attribute
+line 816 column 9 - Warning: <table> lacks "summary" attribute
+line 920 column 9 - Warning: <table> lacks "summary" attribute
 turniere.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
