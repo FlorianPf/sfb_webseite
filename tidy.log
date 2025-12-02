@@ -1,4 +1,4 @@
-Tue Dec  2 13:01:37 CET 2025
+Tue Dec  2 13:27:54 CET 2025
 archiv_mannschaften.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -84,17 +84,17 @@ line 14 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 14 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 23 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 23 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 140 column 11 - Warning: <a> proprietary attribute "download"
-line 141 column 69 - Warning: <img> attribute "width" has invalid value "30px"
-line 141 column 69 - Warning: <img> attribute "height" has invalid value "30px"
-line 157 column 9 - Warning: <table> lacks "summary" attribute
-line 260 column 11 - Warning: <a> proprietary attribute "download"
-line 261 column 55 - Warning: <img> attribute "width" has invalid value "30px"
-line 261 column 55 - Warning: <img> attribute "height" has invalid value "30px"
-line 276 column 9 - Warning: <table> lacks "summary" attribute
-line 311 column 9 - Warning: <table> lacks "summary" attribute
-line 375 column 9 - Warning: <table> lacks "summary" attribute
-line 592 column 9 - Warning: <table> lacks "summary" attribute
+line 142 column 11 - Warning: <a> proprietary attribute "download"
+line 144 column 50 - Warning: <img> attribute "width" has invalid value "30px"
+line 144 column 50 - Warning: <img> attribute "height" has invalid value "30px"
+line 162 column 9 - Warning: <table> lacks "summary" attribute
+line 265 column 11 - Warning: <a> proprietary attribute "download"
+line 266 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 266 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 281 column 9 - Warning: <table> lacks "summary" attribute
+line 316 column 9 - Warning: <table> lacks "summary" attribute
+line 380 column 9 - Warning: <table> lacks "summary" attribute
+line 597 column 9 - Warning: <table> lacks "summary" attribute
 jugend.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -109,7 +109,7 @@ line 15 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 15 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 24 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 24 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 134 column 5 - Warning: <table> lacks "summary" attribute
+line 134 column 9 - Warning: <table> lacks "summary" attribute
 mannschaften.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -138,17 +138,18 @@ line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 13 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 22 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 22 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 155 column 11 - Warning: <a> proprietary attribute "download"
-line 156 column 69 - Warning: <img> attribute "width" has invalid value "30px"
-line 156 column 69 - Warning: <img> attribute "height" has invalid value "30px"
-line 164 column 5 - Warning: <table> lacks "summary" attribute
-line 170 column 11 - Warning: <input> proprietary attribute "required"
-line 179 column 11 - Warning: <input> attribute "type" has invalid value "date"
-line 179 column 11 - Warning: <input> proprietary attribute "required"
-line 187 column 11 - Warning: <input> attribute "type" has invalid value "email"
-line 187 column 11 - Warning: <input> proprietary attribute "required"
-line 212 column 11 - Warning: <input> attribute "type" has invalid value "number"
-line 222 column 11 - Warning: <input> proprietary attribute "required"
+line 157 column 11 - Warning: <a> proprietary attribute "download"
+line 159 column 50 - Warning: <img> attribute "width" has invalid value "30px"
+line 159 column 50 - Warning: <img> attribute "height" has invalid value "30px"
+line 172 column 11 - Warning: <table> lacks "summary" attribute
+line 178 column 17 - Warning: <input> proprietary attribute "required"
+line 187 column 17 - Warning: <input> attribute "type" has invalid value "date"
+line 187 column 17 - Warning: <input> proprietary attribute "required"
+line 195 column 17 - Warning: <input> attribute "type" has invalid value "email"
+line 195 column 17 - Warning: <input> proprietary attribute "required"
+line 220 column 17 - Warning: <input> attribute "type" has invalid value "number"
+line 230 column 17 - Warning: <input> proprietary attribute "required"
+line 238 column 1 - Warning: <table> lacks "summary" attribute
 turniere_vm.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
