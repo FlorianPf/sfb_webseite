@@ -12,7 +12,7 @@ def replace_umlauts(string):
 
 data = []
 
-with open('teilnehmerliste_stm.csv') as ifh:
+with open('teilnehmerliste.csv') as ifh:
     ifh.readline()  # Header ueberspringen
     while True:
         line = [x.strip() for x in ifh.readline().split(',')]
@@ -24,7 +24,7 @@ data = sorted(data, key=lambda x: x[1], reverse=True)
 
 # HTML-Tabelle schreiben:
 tn_anzahl = 0
-with open('teilnehmerliste_stm.html', 'w') as ofh:
+with open('teilnehmerliste.html', 'w') as ofh:
     ofh.write('<p>Aktuelle Teilnehmerliste (Stand {}):</p>\n'.format(datetime.datetime.today().strftime('%d.%m.%Y')))
     ofh.write('<table class="tn-liste" style="margin-left: 10pt;">\n')
     ofh.write('  <tr>\n')

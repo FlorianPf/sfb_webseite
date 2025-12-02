@@ -6,11 +6,11 @@ set_error_handler("var_dump");
 
 if(isset($_POST['submit'])){
     $to1 = "webmaster@schachfreunde-braunfels.de";
-    $to2 = "vorstand@schachfreunde-braunfels.de";
+    // $to2 = "vorstand@schachfreunde-braunfels.de";
 
     // Falls die Weiterleitung bei turnierleiter@schachfreunde-braunfels.de steht, können die folgenden beiden Zeilen geändert werden:.
     // $to3 = "turnierleiter@schachfreunde-braunfels.de";
-    $to3 = "adiehl1@gmx.net";
+    // $to3 = "adiehl1@gmx.net";
 
     $name = $_POST['name'];
     $dateofbirth = $_POST['dateofbirth'];
@@ -29,7 +29,7 @@ if(isset($_POST['submit'])){
         mail($to2,$subject,$message,$headers);
         mail($to3,$subject,$message,$headers);
 
-        $fileName = "teilnehmerliste_stm.csv";
+        $fileName = "teilnehmerliste.csv";
         $data = $name . ", " . $dateofbirth . ", " . $email . ", " . $phone . ", " . $club . ", " . $dwz . "\n";
         file_put_contents($fileName, $data, FILE_APPEND);
 
