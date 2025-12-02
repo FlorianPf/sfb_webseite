@@ -26,8 +26,8 @@ if(isset($_POST['submit'])){
 
         $headers = "From:" . $from;
         mail($to1,$subject,$message,$headers);
-        mail($to2,$subject,$message,$headers);
-        mail($to3,$subject,$message,$headers);
+        // mail($to2,$subject,$message,$headers);
+        // mail($to3,$subject,$message,$headers);
 
         $fileName = "teilnehmerliste.csv";
         $data = $name . ", " . $dateofbirth . ", " . $email . ", " . $phone . ", " . $club . ", " . $dwz . "\n";
