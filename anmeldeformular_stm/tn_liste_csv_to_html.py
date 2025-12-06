@@ -20,7 +20,7 @@ with open('teilnehmerliste.csv') as ifh:
         data.append([replace_umlauts(line[0]), line[-1], replace_umlauts(line[-2])])
 
 # Absteigend nach DWZ sortieren:
-data = sorted(data, key=lambda x: x[1], reverse=True)
+data = sorted(data, key=lambda x: int(x[1]), reverse=True)
 
 # HTML-Tabelle schreiben:
 tn_anzahl = 0
