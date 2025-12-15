@@ -4,8 +4,8 @@ import datetime
 # Teilnehmer nach der DWZ und schreibt eine HTML-Tabelle.
 
 def replace_umlauts(string):
-    umlauts = ['ä', 'ö', 'ü', 'ue', 'Ä', 'Ö', 'Ü', 'ß']
-    replacements = ['&auml;', '&ouml;', '&uuml;', '&uuml;', '&Auml;', '&Ouml;', '&Uuml;', '&szlig;']
+    umlauts = ['ä', 'ö', 'oe', 'ü', 'ue', 'Ä', 'Ö', 'Ü', 'ß']
+    replacements = ['&auml;', '&ouml;', '&ouml;', '&uuml;', '&uuml;', '&Auml;', '&Ouml;', '&Uuml;', '&szlig;']
     for uml, rep in zip(umlauts, replacements):
         string = string.replace(uml, rep)
     return string
