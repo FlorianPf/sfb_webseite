@@ -1,4 +1,4 @@
-Thu Jan  8 14:36:10 CET 2026
+Mon Jan 19 09:17:25 CET 2026
 archiv_mannschaften.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -88,15 +88,15 @@ line 14 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 14 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 23 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 23 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 143 column 9 - Warning: <table> lacks "summary" attribute
+line 139 column 9 - Warning: <table> lacks "summary" attribute
+line 254 column 11 - Warning: <a> proprietary attribute "download"
+line 255 column 46 - Warning: <img> attribute "width" has invalid value "30px"
+line 255 column 46 - Warning: <img> attribute "height" has invalid value "30px"
 line 286 column 11 - Warning: <a> proprietary attribute "download"
-line 287 column 44 - Warning: <img> attribute "width" has invalid value "30px"
-line 287 column 44 - Warning: <img> attribute "height" has invalid value "30px"
-line 316 column 11 - Warning: <a> proprietary attribute "download"
-line 318 column 50 - Warning: <img> attribute "width" has invalid value "30px"
-line 318 column 50 - Warning: <img> attribute "height" has invalid value "30px"
-line 374 column 9 - Warning: <table> lacks "summary" attribute
-line 591 column 9 - Warning: <table> lacks "summary" attribute
+line 288 column 50 - Warning: <img> attribute "width" has invalid value "30px"
+line 288 column 50 - Warning: <img> attribute "height" has invalid value "30px"
+line 344 column 9 - Warning: <table> lacks "summary" attribute
+line 561 column 9 - Warning: <table> lacks "summary" attribute
 jugend.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -107,6 +107,9 @@ line 179 column 9 - Warning: <table> lacks "summary" attribute
 line 282 column 9 - Warning: <table> lacks "summary" attribute
 kalender.html
 Config: unknown option: preserve-entities
+line 135 column 5 - Warning: missing <tr>
+line 135 column 5 - Warning: discarding unexpected <table>
+line 136 column 7 - Warning: missing <td>
 line 15 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 15 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 24 column 11 - Warning: <img> attribute "width" has invalid value "60px"
@@ -158,19 +161,10 @@ line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 13 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 22 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 22 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 154 column 11 - Warning: <a> proprietary attribute "download"
-line 155 column 44 - Warning: <img> attribute "width" has invalid value "30px"
-line 155 column 44 - Warning: <img> attribute "height" has invalid value "30px"
-line 165 column 9 - Warning: <table> lacks "summary" attribute
-line 311 column 9 - Warning: <table> lacks "summary" attribute
-line 415 column 9 - Warning: <table> lacks "summary" attribute
-line 533 column 9 - Warning: <table> lacks "summary" attribute
-line 651 column 9 - Warning: <table> lacks "summary" attribute
-line 769 column 9 - Warning: <table> lacks "summary" attribute
-line 887 column 9 - Warning: <table> lacks "summary" attribute
-line 991 column 9 - Warning: <table> lacks "summary" attribute
-line 1067 column 9 - Warning: <table> lacks "summary" attribute
-line 1171 column 9 - Warning: <table> lacks "summary" attribute
+line 152 column 11 - Warning: <a> proprietary attribute "download"
+line 153 column 46 - Warning: <img> attribute "width" has invalid value "30px"
+line 153 column 46 - Warning: <img> attribute "height" has invalid value "30px"
+line 167 column 9 - Warning: <table> lacks "summary" attribute
 turniere.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
