@@ -1,4 +1,4 @@
-Mon Jan 26 11:52:50 CET 2026
+Tue Feb  3 14:54:24 CET 2026
 archiv_mannschaften.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -150,7 +150,7 @@ line 195 column 17 - Warning: <input> attribute "type" has invalid value "email"
 line 195 column 17 - Warning: <input> proprietary attribute "required"
 line 220 column 17 - Warning: <input> attribute "type" has invalid value "number"
 line 230 column 17 - Warning: <input> proprietary attribute "required"
-line 241 column 1 - Warning: <table> lacks "summary" attribute
+line 238 column 1 - Warning: <table> lacks "summary" attribute
 turniere_vm.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
