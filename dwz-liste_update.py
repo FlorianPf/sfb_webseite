@@ -2,6 +2,7 @@ import requests
 import re
 import datetime
 import os
+import sys
 
 filename = 'dwz-liste.html'
 
@@ -12,23 +13,22 @@ def replace_umlauts(string):    # self explanatory
         string = string.replace(uml, rep)
     return string
 
-url = 'https://www.schachbund.de/verein/53002.html'
+# url = 'https://www.schachbund.de/verein/53002.html' # alt
+url = 'https://www.schachbund.de/dwz-vereine/53002.html'
 content_list = requests.get(url).text.split('\n')   # get html data from dsb website
 
 data = []
 i = content_list.index('<table id="dewisTable" class="body tablesorter">')+12   # start of relevant content
 while True: # the following lines take each table row and process it to data
     if content_list[i]=='</tbody>': break
-    entry = re.split('<|>', ''.join(content_list[i:i+8]))   # just the first way that came to my mind
+    entry = re.split('<|>', ''.join(content_list[i:i+8]))   # just the first way that came to my mind: split content by the html <*> brackets
     platz = entry[4]
-    name = replace_umlauts(' '.join(entry[16].split(',')[::-1]))    # more elegant writing of name, also html umlauts
-    dwz = entry[24]
-    if dwz == '': dwz = '-----'
-    if dwz not in ['Restp.', '-----']:  # remove number of auswertung and html artifacts
-        dwz = re.sub('&nbsp;', '', dwz)
-        dwz = re.sub(' ', '', dwz)
-        dwz = dwz.split('-')[0]
-    elo = entry[28]
+    name = replace_umlauts(' '.join(entry[18].split(',')[::-1]))    # more elegant writing of name, also html umlauts
+    dwz = entry[32]
+    if dwz != ' - ': dwz = dwz.split('-')[0]
+    if dwz == '': dwz = ' - '
+    elo = entry[36]
+    if elo == '': elo=' - '
     data.append([platz, name, dwz, elo])
     i += 8
 
@@ -51,7 +51,7 @@ with open(filename, 'w') as ofh:
             for entry in data:
                 ofh.write(('<tr>'+'<td>{}</td>'*4+'</tr>\n').format(*entry))
             ofh.write('</table>\n')
-            ofh.write('<p style="text-align: center;">Stand: {}. Immer aktuell auf der <a href="https://www.schachbund.de/verein/53002.html" target="_blank">Seite des DSB</a>.</p>\n'.format(datetime.datetime.today().strftime('%d.%m.%Y')))
+            ofh.write('<p style="text-align: center;">Stand: {}. Immer aktuell auf der <a href="https://www.schachbund.de/dwz-vereine/53002.html" target="_blank">Seite des DSB</a>.</p>\n'.format(datetime.datetime.today().strftime('%d.%m.%Y')))
             relevant = False    # toggle so that until key_stop everything (old) is discarded
         if 'key_stop' in line:
             relevant = True     # toggle on, the remaining lines are copied
