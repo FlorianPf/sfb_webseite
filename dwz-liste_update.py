@@ -2,7 +2,6 @@ import requests
 import re
 import datetime
 import os
-import sys
 
 filename = 'dwz-liste.html'
 
@@ -14,11 +13,14 @@ def replace_umlauts(string):    # self explanatory
     return string
 
 # url = 'https://www.schachbund.de/verein/53002.html' # alt
-url = 'https://www.schachbund.de/dwz-vereine/53002.html'
-content_list = requests.get(url).text.split('\n')   # get html data from dsb website
+# Wegen einer Ladeseite funktioniert das leider nicht mehr:
+# url = 'https://www.schachbund.de/dwz-vereine/53002.html'
+# content_list = requests.get(url).text.split('\n')   # get html data from dsb website
+with open('53002.html') as f:   # diese Datei muss leider manuell heruntergeladen werden: https://www.schachbund.de/dwz-vereine/53002.html -> developer tools -> show page source -> download file
+    content_list = f.read().splitlines()
 
 data = []
-i = content_list.index('<table id="dewisTable" class="body tablesorter">')+12   # start of relevant content
+i = content_list.index('<table class="body tablesorter">')+12   # start of relevant content
 while True: # the following lines take each table row and process it to data
     if content_list[i]=='</tbody>': break
     entry = re.split('<|>', ''.join(content_list[i:i+8]))   # just the first way that came to my mind: split content by the html <*> brackets
