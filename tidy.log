@@ -1,4 +1,4 @@
-Wed Aug 19 10:51:53 CEST 2026
+Mon Aug 31 12:42:21 CEST 2026
 archiv_mannschaften.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -88,20 +88,20 @@ line 14 column 11 - Warning: <img> attribute "width" has invalid value "70px"
 line 14 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 23 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 23 column 11 - Warning: <img> attribute "height" has invalid value "70px"
-line 148 column 9 - Warning: <table> lacks "summary" attribute
-line 280 column 9 - Warning: <table> lacks "summary" attribute
-line 421 column 11 - Warning: <a> proprietary attribute "download"
-line 422 column 60 - Warning: <img> attribute "width" has invalid value "30px"
-line 422 column 60 - Warning: <img> attribute "height" has invalid value "30px"
-line 427 column 11 - Warning: <a> proprietary attribute "download"
-line 429 column 47 - Warning: <img> attribute "width" has invalid value "30px"
-line 429 column 47 - Warning: <img> attribute "height" has invalid value "30px"
-line 435 column 11 - Warning: <a> proprietary attribute "download"
-line 450 column 9 - Warning: <table> lacks "summary" attribute
-line 523 column 11 - Warning: <a> proprietary attribute "download"
-line 524 column 55 - Warning: <img> attribute "width" has invalid value "30px"
-line 524 column 55 - Warning: <img> attribute "height" has invalid value "30px"
-line 648 column 9 - Warning: <table> lacks "summary" attribute
+line 146 column 9 - Warning: <table> lacks "summary" attribute
+line 261 column 11 - Warning: <a> proprietary attribute "download"
+line 262 column 55 - Warning: <img> attribute "width" has invalid value "30px"
+line 262 column 55 - Warning: <img> attribute "height" has invalid value "30px"
+line 279 column 9 - Warning: <table> lacks "summary" attribute
+line 347 column 9 - Warning: <table> lacks "summary" attribute
+line 488 column 11 - Warning: <a> proprietary attribute "download"
+line 489 column 60 - Warning: <img> attribute "width" has invalid value "30px"
+line 489 column 60 - Warning: <img> attribute "height" has invalid value "30px"
+line 494 column 11 - Warning: <a> proprietary attribute "download"
+line 496 column 47 - Warning: <img> attribute "width" has invalid value "30px"
+line 496 column 47 - Warning: <img> attribute "height" has invalid value "30px"
+line 502 column 11 - Warning: <a> proprietary attribute "download"
+line 625 column 9 - Warning: <table> lacks "summary" attribute
 jugend.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -135,6 +135,7 @@ line 13 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 22 column 11 - Warning: <img> attribute "width" has invalid value "60px"
 line 22 column 11 - Warning: <img> attribute "height" has invalid value "70px"
 line 162 column 9 - Warning: <table> lacks "summary" attribute
+line 219 column 9 - Warning: <table> lacks "summary" attribute
 turniere_stm.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
@@ -183,8 +184,9 @@ line 159 column 11 - Warning: <a> proprietary attribute "download"
 line 160 column 55 - Warning: <img> attribute "width" has invalid value "30px"
 line 160 column 55 - Warning: <img> attribute "height" has invalid value "30px"
 line 170 column 9 - Warning: <table> lacks "summary" attribute
-line 246 column 9 - Warning: <table> lacks "summary" attribute
-line 350 column 9 - Warning: <table> lacks "summary" attribute
+line 288 column 9 - Warning: <table> lacks "summary" attribute
+line 364 column 9 - Warning: <table> lacks "summary" attribute
+line 468 column 9 - Warning: <table> lacks "summary" attribute
 turniere.html
 Config: unknown option: preserve-entities
 line 13 column 11 - Warning: <img> attribute "width" has invalid value "70px"
