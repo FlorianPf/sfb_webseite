@@ -25,8 +25,8 @@ data = sorted(data, key=lambda x: int(x[1]), reverse=True)
 # HTML-Tabelle schreiben:
 tn_anzahl = 0
 with open('teilnehmerliste.html', 'w') as ofh:
-    ofh.write('<p>Aktuelle Teilnehmerliste (Stand {}):</p>\n'.format(datetime.datetime.today().strftime('%d.%m.%Y')))
-    ofh.write('<table class="tn-liste" style="margin-left: 10pt;">\n')
+    ofh.write('<p class="vm">Aktuelle Teilnehmerliste (Stand {}):</p>\n'.format(datetime.datetime.today().strftime('%d.%m.%Y')))
+    ofh.write('<table class="tn-liste">\n')
     ofh.write('  <tr>\n')
     ofh.write('    <th>Nr.</th>\n')
     ofh.write('    <th>Name</th>\n')
